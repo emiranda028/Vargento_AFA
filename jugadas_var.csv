@@ -1,0 +1,2001 @@
+minuto,jugador,equipo,liga,tipo_intervencion,estadio,arbitro,decision_inicial,decision_final,resultado_correcto
+93,Jugador_337,Boca,Argentina,on-field review,Libertadores de América,Dean,gol,penal,1
+2,Jugador_104,San Lorenzo,Argentina,on-field review,Tomás Ducó,Rapallini,roja,penal,1
+51,Jugador_457,Independiente,Argentina,silent check,Bombonera,Tello,gol,gol,1
+15,Jugador_365,Rosario Central,Argentina,on-field review,Tomás Ducó,Atkinson,roja,roja,1
+93,Jugador_46,Huracán,Argentina,silent check,Nuevo Gasómetro,Pitana,offside,gol,1
+11,Jugador_372,Tottenham,Premier League,on-field review,Stamford Bridge,Oliver,roja,penal,0
+17,Jugador_40,Tottenham,Premier League,on-field review,Anfield,Taylor,roja,penal,0
+3,Jugador_181,Newcastle,Premier League,silent check,Anfield,Lousteau,roja,roja,0
+92,Jugador_65,Newells,Argentina,silent check,Tomás Ducó,Pitana,offside,offside,1
+3,Jugador_128,River,Argentina,silent check,Cilindro,Dean,offside,roja,0
+89,Jugador_442,Independiente,Argentina,on-field review,Monumental,Dean,gol,gol,1
+7,Jugador_243,Independiente,Argentina,silent check,Libertadores de América,Taylor,penal,offside,0
+30,Jugador_214,San Lorenzo,Argentina,silent check,Cilindro,Taylor,offside,penal,1
+81,Jugador_442,Newells,Argentina,on-field review,Tomás Ducó,Rapallini,gol,penal,1
+93,Jugador_439,Independiente,Argentina,silent check,Libertadores de América,Dean,gol,roja,1
+84,Jugador_114,San Lorenzo,Argentina,on-field review,Tomás Ducó,Tello,offside,penal,0
+58,Jugador_427,Racing,Argentina,on-field review,Libertadores de América,Tello,roja,penal,1
+88,Jugador_399,Newells,Argentina,silent check,Nuevo Gasómetro,Dean,roja,penal,0
+91,Jugador_88,Huracán,Argentina,silent check,Tomás Ducó,Atkinson,roja,roja,1
+61,Jugador_5,River,Argentina,silent check,Nuevo Gasómetro,Atkinson,penal,roja,1
+66,Jugador_487,Liverpool,Premier League,silent check,Tottenham Stadium,Dean,penal,gol,1
+86,Jugador_162,Tottenham,Premier League,on-field review,Stamford Bridge,Dean,offside,roja,0
+37,Jugador_470,Manchester United,Premier League,on-field review,Etihad,Atkinson,roja,gol,0
+78,Jugador_413,Manchester United,Premier League,on-field review,Tottenham Stadium,Oliver,gol,penal,1
+3,Jugador_84,Rosario Central,Argentina,on-field review,Libertadores de América,Dean,roja,offside,0
+29,Jugador_48,San Lorenzo,Argentina,on-field review,Monumental,Tello,roja,offside,0
+24,Jugador_461,Aston Villa,Premier League,silent check,Tottenham Stadium,Tello,roja,roja,0
+71,Jugador_485,Arsenal,Premier League,on-field review,Stamford Bridge,Taylor,offside,penal,0
+95,Jugador_150,Rosario Central,Argentina,silent check,Tomás Ducó,Lousteau,penal,offside,0
+40,Jugador_97,Manchester City,Premier League,silent check,Anfield,Atkinson,gol,roja,1
+16,Jugador_73,Aston Villa,Premier League,on-field review,Tottenham Stadium,Taylor,gol,offside,0
+1,Jugador_438,San Lorenzo,Argentina,on-field review,Bombonera,Atkinson,penal,offside,1
+38,Jugador_102,Manchester United,Premier League,on-field review,Old Trafford,Rapallini,gol,penal,0
+7,Jugador_159,Liverpool,Premier League,silent check,Emirates,Pitana,gol,roja,0
+73,Jugador_369,River,Argentina,on-field review,Libertadores de América,Atkinson,gol,penal,1
+15,Jugador_222,Chelsea,Premier League,on-field review,Etihad,Dean,gol,roja,1
+53,Jugador_312,Liverpool,Premier League,silent check,Emirates,Pitana,gol,penal,0
+92,Jugador_72,San Lorenzo,Argentina,silent check,Nuevo Gasómetro,Oliver,penal,gol,1
+59,Jugador_350,Rosario Central,Argentina,on-field review,Cilindro,Atkinson,roja,gol,0
+48,Jugador_258,Chelsea,Premier League,on-field review,Tottenham Stadium,Oliver,offside,penal,0
+25,Jugador_380,Newcastle,Premier League,on-field review,Emirates,Atkinson,gol,penal,1
+61,Jugador_70,Tottenham,Premier League,silent check,Emirates,Lousteau,roja,offside,1
+64,Jugador_441,Tottenham,Premier League,on-field review,Anfield,Oliver,roja,gol,0
+67,Jugador_430,San Lorenzo,Argentina,silent check,Nuevo Gasómetro,Tello,offside,roja,1
+56,Jugador_484,River,Argentina,silent check,Cilindro,Rapallini,offside,gol,1
+80,Jugador_367,Arsenal,Premier League,silent check,Etihad,Dean,penal,offside,1
+37,Jugador_241,Tottenham,Premier League,on-field review,Anfield,Dean,roja,offside,1
+86,Jugador_361,Independiente,Argentina,on-field review,Bombonera,Lousteau,roja,offside,1
+8,Jugador_242,Rosario Central,Argentina,on-field review,Nuevo Gasómetro,Oliver,gol,offside,0
+85,Jugador_343,Tottenham,Premier League,on-field review,Stamford Bridge,Taylor,penal,gol,1
+62,Jugador_458,Huracán,Argentina,silent check,Bombonera,Lousteau,roja,roja,0
+23,Jugador_52,Huracán,Argentina,silent check,Cilindro,Dean,gol,roja,1
+9,Jugador_415,Chelsea,Premier League,silent check,Stamford Bridge,Pitana,roja,roja,1
+52,Jugador_370,Liverpool,Premier League,on-field review,Etihad,Lousteau,roja,gol,1
+35,Jugador_128,San Lorenzo,Argentina,on-field review,Cilindro,Lousteau,roja,gol,0
+53,Jugador_397,Huracán,Argentina,on-field review,Nuevo Gasómetro,Atkinson,gol,roja,0
+35,Jugador_137,Newells,Argentina,on-field review,Libertadores de América,Lousteau,gol,penal,0
+57,Jugador_312,Manchester City,Premier League,silent check,Tottenham Stadium,Dean,gol,penal,1
+68,Jugador_105,Liverpool,Premier League,silent check,Etihad,Oliver,gol,gol,0
+16,Jugador_213,Tottenham,Premier League,on-field review,Emirates,Tello,roja,roja,1
+36,Jugador_273,River,Argentina,on-field review,Monumental,Atkinson,penal,penal,1
+92,Jugador_359,Arsenal,Premier League,silent check,Stamford Bridge,Tello,roja,gol,0
+36,Jugador_104,Liverpool,Premier League,silent check,Tottenham Stadium,Tello,offside,offside,0
+72,Jugador_6,River,Argentina,silent check,Tomás Ducó,Dean,roja,gol,0
+23,Jugador_363,Racing,Argentina,on-field review,Libertadores de América,Rapallini,roja,roja,1
+61,Jugador_23,Arsenal,Premier League,silent check,Emirates,Taylor,penal,penal,0
+62,Jugador_86,Rosario Central,Argentina,on-field review,Monumental,Dean,penal,penal,0
+54,Jugador_44,San Lorenzo,Argentina,on-field review,Monumental,Oliver,gol,roja,1
+3,Jugador_491,Aston Villa,Premier League,on-field review,Etihad,Taylor,gol,offside,1
+40,Jugador_266,Newells,Argentina,on-field review,Monumental,Dean,penal,penal,0
+19,Jugador_407,Huracán,Argentina,on-field review,Tomás Ducó,Lousteau,roja,gol,1
+92,Jugador_319,Newells,Argentina,silent check,Nuevo Gasómetro,Pitana,offside,offside,0
+27,Jugador_17,Arsenal,Premier League,silent check,Stamford Bridge,Dean,penal,offside,1
+93,Jugador_450,River,Argentina,silent check,Libertadores de América,Oliver,penal,roja,1
+21,Jugador_334,Manchester United,Premier League,on-field review,Tottenham Stadium,Oliver,penal,penal,1
+15,Jugador_131,Newcastle,Premier League,on-field review,Old Trafford,Dean,penal,offside,0
+91,Jugador_224,Aston Villa,Premier League,silent check,Stamford Bridge,Tello,offside,penal,0
+53,Jugador_48,Rosario Central,Argentina,silent check,Bombonera,Lousteau,offside,gol,1
+17,Jugador_177,River,Argentina,on-field review,Monumental,Atkinson,penal,penal,1
+61,Jugador_122,Boca,Argentina,silent check,Bombonera,Tello,roja,gol,0
+3,Jugador_223,San Lorenzo,Argentina,silent check,Nuevo Gasómetro,Taylor,roja,penal,1
+21,Jugador_270,Newcastle,Premier League,silent check,Tottenham Stadium,Dean,gol,penal,0
+30,Jugador_48,Aston Villa,Premier League,on-field review,Old Trafford,Lousteau,penal,roja,1
+76,Jugador_109,Aston Villa,Premier League,on-field review,Emirates,Oliver,penal,offside,1
+51,Jugador_216,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Pitana,penal,penal,0
+1,Jugador_374,Aston Villa,Premier League,silent check,Stamford Bridge,Atkinson,penal,offside,1
+26,Jugador_49,Liverpool,Premier League,on-field review,Etihad,Tello,roja,offside,0
+72,Jugador_295,Boca,Argentina,silent check,Bombonera,Dean,gol,offside,0
+38,Jugador_80,Newcastle,Premier League,on-field review,Tottenham Stadium,Dean,offside,gol,0
+26,Jugador_478,River,Argentina,on-field review,Nuevo Gasómetro,Oliver,penal,roja,1
+30,Jugador_401,Independiente,Argentina,on-field review,Tomás Ducó,Oliver,offside,offside,0
+35,Jugador_381,Tottenham,Premier League,on-field review,Etihad,Lousteau,gol,offside,1
+84,Jugador_353,Boca,Argentina,silent check,Nuevo Gasómetro,Oliver,gol,offside,0
+61,Jugador_262,Manchester City,Premier League,on-field review,Anfield,Rapallini,offside,penal,0
+41,Jugador_398,Manchester United,Premier League,on-field review,Old Trafford,Atkinson,penal,penal,0
+67,Jugador_7,River,Argentina,on-field review,Monumental,Pitana,roja,penal,1
+26,Jugador_142,Boca,Argentina,silent check,Monumental,Taylor,offside,penal,0
+35,Jugador_154,San Lorenzo,Argentina,silent check,Bombonera,Atkinson,roja,roja,1
+63,Jugador_392,Newells,Argentina,silent check,Nuevo Gasómetro,Rapallini,offside,offside,0
+58,Jugador_394,Manchester City,Premier League,on-field review,Tottenham Stadium,Lousteau,gol,gol,0
+26,Jugador_43,Manchester United,Premier League,silent check,Tottenham Stadium,Tello,roja,offside,1
+88,Jugador_343,Aston Villa,Premier League,silent check,Emirates,Atkinson,penal,gol,1
+30,Jugador_473,Boca,Argentina,silent check,Nuevo Gasómetro,Rapallini,gol,roja,1
+80,Jugador_296,River,Argentina,silent check,Cilindro,Dean,offside,penal,0
+24,Jugador_351,San Lorenzo,Argentina,silent check,Cilindro,Oliver,gol,roja,0
+80,Jugador_36,Huracán,Argentina,on-field review,Bombonera,Taylor,offside,offside,0
+75,Jugador_307,River,Argentina,silent check,Libertadores de América,Rapallini,offside,roja,1
+63,Jugador_66,Aston Villa,Premier League,on-field review,Anfield,Taylor,penal,penal,0
+85,Jugador_428,Rosario Central,Argentina,on-field review,Tomás Ducó,Tello,offside,penal,1
+10,Jugador_292,Tottenham,Premier League,on-field review,Emirates,Lousteau,gol,gol,0
+9,Jugador_301,San Lorenzo,Argentina,on-field review,Cilindro,Atkinson,penal,penal,0
+30,Jugador_305,River,Argentina,silent check,Cilindro,Atkinson,gol,offside,1
+34,Jugador_117,Independiente,Argentina,on-field review,Nuevo Gasómetro,Pitana,penal,gol,1
+74,Jugador_405,Liverpool,Premier League,silent check,Old Trafford,Dean,penal,roja,0
+40,Jugador_321,Newcastle,Premier League,on-field review,Anfield,Rapallini,offside,gol,0
+35,Jugador_315,San Lorenzo,Argentina,on-field review,Nuevo Gasómetro,Lousteau,offside,penal,0
+11,Jugador_229,Boca,Argentina,on-field review,Tomás Ducó,Lousteau,offside,roja,1
+58,Jugador_112,Newells,Argentina,on-field review,Bombonera,Oliver,roja,penal,0
+1,Jugador_411,Newcastle,Premier League,on-field review,Stamford Bridge,Tello,penal,penal,1
+35,Jugador_154,Arsenal,Premier League,silent check,Anfield,Dean,gol,offside,0
+6,Jugador_241,Newells,Argentina,on-field review,Libertadores de América,Rapallini,gol,roja,1
+63,Jugador_422,Newells,Argentina,silent check,Tomás Ducó,Tello,roja,roja,0
+62,Jugador_274,Newells,Argentina,on-field review,Tomás Ducó,Atkinson,penal,penal,0
+92,Jugador_260,River,Argentina,on-field review,Bombonera,Dean,penal,penal,0
+69,Jugador_169,San Lorenzo,Argentina,silent check,Nuevo Gasómetro,Pitana,roja,gol,0
+7,Jugador_308,Liverpool,Premier League,on-field review,Emirates,Taylor,offside,offside,0
+61,Jugador_352,Tottenham,Premier League,on-field review,Anfield,Atkinson,gol,gol,1
+8,Jugador_266,Tottenham,Premier League,silent check,Old Trafford,Lousteau,offside,gol,0
+46,Jugador_101,Chelsea,Premier League,on-field review,Anfield,Pitana,penal,roja,0
+55,Jugador_225,Tottenham,Premier League,on-field review,Etihad,Tello,roja,penal,1
+38,Jugador_275,Aston Villa,Premier League,on-field review,Emirates,Lousteau,gol,roja,0
+67,Jugador_253,San Lorenzo,Argentina,on-field review,Monumental,Oliver,roja,gol,1
+49,Jugador_354,San Lorenzo,Argentina,on-field review,Monumental,Pitana,roja,penal,0
+76,Jugador_304,Liverpool,Premier League,silent check,Old Trafford,Dean,gol,gol,0
+75,Jugador_334,Boca,Argentina,silent check,Bombonera,Dean,gol,roja,0
+57,Jugador_163,San Lorenzo,Argentina,silent check,Cilindro,Rapallini,gol,offside,0
+67,Jugador_305,Manchester City,Premier League,on-field review,Etihad,Atkinson,gol,penal,0
+36,Jugador_144,Chelsea,Premier League,silent check,Etihad,Dean,offside,roja,1
+75,Jugador_468,River,Argentina,on-field review,Cilindro,Tello,roja,gol,0
+68,Jugador_353,Newcastle,Premier League,on-field review,Tottenham Stadium,Dean,penal,roja,0
+10,Jugador_80,Huracán,Argentina,on-field review,Tomás Ducó,Pitana,roja,penal,0
+36,Jugador_24,Chelsea,Premier League,silent check,Anfield,Oliver,penal,offside,1
+45,Jugador_297,Aston Villa,Premier League,on-field review,Tottenham Stadium,Dean,gol,roja,0
+53,Jugador_325,Racing,Argentina,on-field review,Libertadores de América,Atkinson,offside,roja,0
+6,Jugador_435,Huracán,Argentina,silent check,Cilindro,Taylor,offside,gol,0
+18,Jugador_317,Boca,Argentina,on-field review,Tomás Ducó,Rapallini,roja,gol,0
+85,Jugador_310,Manchester City,Premier League,silent check,Etihad,Pitana,gol,roja,0
+44,Jugador_120,Arsenal,Premier League,silent check,Emirates,Tello,gol,penal,1
+84,Jugador_448,Liverpool,Premier League,silent check,Anfield,Tello,offside,offside,1
+13,Jugador_416,Arsenal,Premier League,silent check,Old Trafford,Taylor,roja,offside,0
+39,Jugador_487,Newcastle,Premier League,on-field review,Anfield,Rapallini,gol,roja,0
+66,Jugador_443,Rosario Central,Argentina,on-field review,Tomás Ducó,Tello,gol,gol,1
+3,Jugador_458,Liverpool,Premier League,silent check,Anfield,Taylor,roja,offside,1
+15,Jugador_228,Independiente,Argentina,on-field review,Monumental,Pitana,offside,penal,0
+23,Jugador_493,Boca,Argentina,silent check,Libertadores de América,Lousteau,roja,gol,0
+93,Jugador_342,Liverpool,Premier League,silent check,Tottenham Stadium,Tello,gol,penal,0
+36,Jugador_264,Manchester United,Premier League,on-field review,Emirates,Pitana,gol,offside,0
+47,Jugador_342,Newells,Argentina,silent check,Bombonera,Dean,offside,roja,0
+38,Jugador_312,Aston Villa,Premier League,on-field review,Stamford Bridge,Pitana,offside,gol,1
+39,Jugador_78,Huracán,Argentina,on-field review,Nuevo Gasómetro,Pitana,roja,gol,1
+69,Jugador_212,Chelsea,Premier League,silent check,Stamford Bridge,Dean,offside,offside,1
+11,Jugador_224,Arsenal,Premier League,silent check,Etihad,Tello,roja,gol,0
+49,Jugador_339,Racing,Argentina,on-field review,Libertadores de América,Rapallini,roja,roja,1
+62,Jugador_268,Manchester United,Premier League,silent check,Stamford Bridge,Taylor,roja,gol,1
+1,Jugador_440,Newcastle,Premier League,silent check,Stamford Bridge,Oliver,gol,gol,1
+6,Jugador_393,Tottenham,Premier League,silent check,Old Trafford,Rapallini,offside,offside,0
+43,Jugador_347,Huracán,Argentina,silent check,Tomás Ducó,Atkinson,roja,penal,0
+66,Jugador_276,Newells,Argentina,on-field review,Tomás Ducó,Atkinson,gol,penal,1
+94,Jugador_18,Chelsea,Premier League,on-field review,Old Trafford,Taylor,roja,offside,1
+11,Jugador_22,River,Argentina,silent check,Tomás Ducó,Pitana,offside,offside,0
+90,Jugador_53,Huracán,Argentina,silent check,Bombonera,Taylor,gol,gol,1
+81,Jugador_74,Independiente,Argentina,on-field review,Libertadores de América,Pitana,penal,offside,1
+39,Jugador_297,Independiente,Argentina,silent check,Monumental,Oliver,penal,gol,0
+44,Jugador_103,Manchester United,Premier League,on-field review,Stamford Bridge,Oliver,offside,offside,0
+61,Jugador_480,Boca,Argentina,on-field review,Nuevo Gasómetro,Dean,offside,penal,0
+12,Jugador_211,Newells,Argentina,silent check,Bombonera,Tello,offside,offside,1
+20,Jugador_224,Manchester United,Premier League,silent check,Tottenham Stadium,Tello,offside,roja,1
+94,Jugador_338,Newcastle,Premier League,silent check,Anfield,Atkinson,gol,gol,1
+36,Jugador_191,Arsenal,Premier League,on-field review,Anfield,Tello,roja,gol,0
+67,Jugador_387,Racing,Argentina,silent check,Monumental,Atkinson,offside,offside,1
+76,Jugador_322,Liverpool,Premier League,on-field review,Anfield,Rapallini,penal,gol,0
+21,Jugador_175,Manchester City,Premier League,on-field review,Emirates,Rapallini,offside,gol,1
+62,Jugador_463,Manchester City,Premier League,silent check,Emirates,Dean,offside,penal,0
+25,Jugador_20,Manchester United,Premier League,on-field review,Old Trafford,Atkinson,penal,penal,0
+90,Jugador_402,Manchester City,Premier League,silent check,Anfield,Lousteau,gol,penal,1
+17,Jugador_442,Newells,Argentina,on-field review,Libertadores de América,Oliver,gol,gol,0
+8,Jugador_265,River,Argentina,silent check,Cilindro,Atkinson,offside,offside,0
+54,Jugador_136,Rosario Central,Argentina,silent check,Cilindro,Lousteau,gol,offside,1
+50,Jugador_287,Huracán,Argentina,silent check,Libertadores de América,Atkinson,roja,roja,0
+60,Jugador_351,Rosario Central,Argentina,silent check,Libertadores de América,Atkinson,gol,penal,0
+23,Jugador_469,Chelsea,Premier League,silent check,Stamford Bridge,Oliver,penal,roja,0
+92,Jugador_341,Newcastle,Premier League,silent check,Anfield,Dean,penal,roja,0
+15,Jugador_458,Manchester United,Premier League,silent check,Old Trafford,Lousteau,roja,penal,1
+32,Jugador_202,San Lorenzo,Argentina,silent check,Bombonera,Taylor,penal,gol,0
+77,Jugador_131,Huracán,Argentina,on-field review,Nuevo Gasómetro,Taylor,penal,offside,0
+72,Jugador_48,Manchester City,Premier League,on-field review,Tottenham Stadium,Dean,penal,roja,1
+3,Jugador_117,Newells,Argentina,on-field review,Tomás Ducó,Oliver,penal,penal,1
+11,Jugador_69,Arsenal,Premier League,on-field review,Old Trafford,Dean,roja,offside,1
+64,Jugador_336,Liverpool,Premier League,silent check,Etihad,Pitana,roja,roja,0
+48,Jugador_236,Newells,Argentina,silent check,Tomás Ducó,Atkinson,penal,offside,1
+6,Jugador_85,Huracán,Argentina,on-field review,Nuevo Gasómetro,Rapallini,offside,roja,1
+62,Jugador_162,San Lorenzo,Argentina,silent check,Cilindro,Dean,offside,offside,1
+79,Jugador_421,Manchester City,Premier League,silent check,Etihad,Lousteau,penal,offside,0
+1,Jugador_118,Aston Villa,Premier League,silent check,Etihad,Pitana,penal,offside,1
+60,Jugador_21,Newcastle,Premier League,on-field review,Stamford Bridge,Oliver,penal,penal,0
+8,Jugador_375,Chelsea,Premier League,silent check,Anfield,Tello,gol,offside,0
+12,Jugador_9,Newcastle,Premier League,silent check,Emirates,Pitana,offside,penal,1
+20,Jugador_222,Huracán,Argentina,silent check,Libertadores de América,Rapallini,roja,gol,0
+11,Jugador_85,Tottenham,Premier League,on-field review,Etihad,Atkinson,penal,roja,0
+31,Jugador_387,Manchester United,Premier League,on-field review,Anfield,Tello,roja,penal,0
+1,Jugador_201,Newells,Argentina,silent check,Tomás Ducó,Tello,roja,gol,0
+79,Jugador_339,San Lorenzo,Argentina,silent check,Libertadores de América,Atkinson,offside,roja,1
+1,Jugador_130,Manchester United,Premier League,silent check,Emirates,Pitana,penal,gol,0
+26,Jugador_62,Chelsea,Premier League,on-field review,Stamford Bridge,Oliver,offside,gol,0
+9,Jugador_273,Independiente,Argentina,on-field review,Nuevo Gasómetro,Atkinson,offside,penal,1
+63,Jugador_300,Independiente,Argentina,on-field review,Cilindro,Lousteau,penal,penal,0
+36,Jugador_51,Liverpool,Premier League,on-field review,Stamford Bridge,Pitana,gol,offside,1
+31,Jugador_451,Tottenham,Premier League,silent check,Emirates,Tello,offside,penal,1
+84,Jugador_227,Manchester United,Premier League,on-field review,Old Trafford,Taylor,offside,offside,1
+81,Jugador_105,Independiente,Argentina,silent check,Tomás Ducó,Taylor,gol,penal,1
+35,Jugador_412,Huracán,Argentina,on-field review,Bombonera,Taylor,gol,gol,1
+82,Jugador_220,Aston Villa,Premier League,on-field review,Old Trafford,Atkinson,roja,offside,0
+13,Jugador_199,San Lorenzo,Argentina,on-field review,Cilindro,Dean,gol,penal,0
+94,Jugador_318,Rosario Central,Argentina,on-field review,Libertadores de América,Dean,roja,penal,0
+74,Jugador_116,Rosario Central,Argentina,on-field review,Monumental,Oliver,roja,penal,1
+14,Jugador_221,Racing,Argentina,silent check,Tomás Ducó,Atkinson,offside,gol,1
+73,Jugador_193,Manchester United,Premier League,on-field review,Anfield,Lousteau,roja,offside,1
+10,Jugador_352,Manchester United,Premier League,silent check,Etihad,Tello,offside,penal,1
+72,Jugador_225,Racing,Argentina,on-field review,Monumental,Rapallini,roja,roja,1
+85,Jugador_337,Liverpool,Premier League,silent check,Emirates,Pitana,gol,penal,1
+73,Jugador_198,Arsenal,Premier League,silent check,Anfield,Oliver,roja,offside,0
+83,Jugador_256,Huracán,Argentina,on-field review,Cilindro,Oliver,penal,roja,1
+3,Jugador_31,Manchester City,Premier League,silent check,Anfield,Pitana,penal,offside,1
+11,Jugador_414,Boca,Argentina,on-field review,Tomás Ducó,Oliver,offside,roja,0
+86,Jugador_326,Newcastle,Premier League,silent check,Anfield,Atkinson,gol,roja,0
+83,Jugador_20,Liverpool,Premier League,silent check,Emirates,Tello,gol,offside,1
+12,Jugador_488,Manchester United,Premier League,on-field review,Emirates,Oliver,gol,penal,1
+67,Jugador_43,Manchester City,Premier League,silent check,Anfield,Pitana,penal,penal,0
+1,Jugador_389,Liverpool,Premier League,silent check,Stamford Bridge,Oliver,roja,offside,0
+82,Jugador_244,Aston Villa,Premier League,silent check,Old Trafford,Rapallini,penal,offside,0
+11,Jugador_92,Chelsea,Premier League,silent check,Tottenham Stadium,Oliver,offside,penal,1
+9,Jugador_357,Tottenham,Premier League,silent check,Stamford Bridge,Oliver,offside,gol,1
+6,Jugador_96,Manchester United,Premier League,silent check,Stamford Bridge,Taylor,gol,gol,0
+81,Jugador_494,Liverpool,Premier League,silent check,Stamford Bridge,Rapallini,penal,gol,0
+4,Jugador_470,Aston Villa,Premier League,on-field review,Emirates,Pitana,offside,gol,0
+76,Jugador_71,Manchester United,Premier League,silent check,Emirates,Taylor,penal,gol,0
+76,Jugador_88,Manchester City,Premier League,silent check,Anfield,Dean,penal,gol,1
+90,Jugador_136,Liverpool,Premier League,on-field review,Anfield,Oliver,offside,penal,1
+65,Jugador_13,Newcastle,Premier League,on-field review,Old Trafford,Atkinson,penal,roja,0
+9,Jugador_107,Boca,Argentina,silent check,Tomás Ducó,Tello,penal,roja,1
+1,Jugador_178,Newcastle,Premier League,silent check,Tottenham Stadium,Atkinson,roja,penal,0
+33,Jugador_271,San Lorenzo,Argentina,silent check,Nuevo Gasómetro,Atkinson,penal,gol,0
+63,Jugador_98,Tottenham,Premier League,silent check,Etihad,Taylor,roja,gol,0
+50,Jugador_361,Rosario Central,Argentina,on-field review,Cilindro,Rapallini,roja,roja,0
+35,Jugador_353,Chelsea,Premier League,on-field review,Tottenham Stadium,Atkinson,penal,penal,0
+71,Jugador_68,River,Argentina,silent check,Cilindro,Dean,penal,penal,0
+20,Jugador_415,Manchester City,Premier League,silent check,Etihad,Oliver,roja,penal,0
+26,Jugador_112,Manchester United,Premier League,on-field review,Old Trafford,Tello,penal,gol,0
+24,Jugador_358,Liverpool,Premier League,silent check,Emirates,Atkinson,gol,offside,1
+52,Jugador_435,Liverpool,Premier League,silent check,Stamford Bridge,Pitana,offside,penal,0
+77,Jugador_287,Manchester City,Premier League,on-field review,Tottenham Stadium,Rapallini,roja,offside,1
+12,Jugador_489,Manchester City,Premier League,on-field review,Stamford Bridge,Tello,penal,gol,0
+47,Jugador_388,Independiente,Argentina,silent check,Cilindro,Dean,roja,penal,0
+85,Jugador_168,Tottenham,Premier League,silent check,Etihad,Oliver,gol,penal,1
+28,Jugador_131,Huracán,Argentina,on-field review,Cilindro,Dean,offside,gol,0
+80,Jugador_284,Newells,Argentina,silent check,Tomás Ducó,Dean,offside,gol,1
+36,Jugador_156,Chelsea,Premier League,on-field review,Anfield,Taylor,roja,offside,0
+68,Jugador_368,Independiente,Argentina,silent check,Tomás Ducó,Rapallini,penal,offside,0
+8,Jugador_17,San Lorenzo,Argentina,silent check,Monumental,Dean,penal,roja,1
+12,Jugador_105,Liverpool,Premier League,silent check,Stamford Bridge,Tello,offside,roja,0
+15,Jugador_31,Liverpool,Premier League,on-field review,Emirates,Dean,gol,gol,1
+22,Jugador_81,Huracán,Argentina,silent check,Tomás Ducó,Taylor,gol,penal,1
+63,Jugador_109,Independiente,Argentina,silent check,Cilindro,Lousteau,roja,gol,1
+31,Jugador_127,Newells,Argentina,on-field review,Monumental,Oliver,roja,offside,1
+74,Jugador_185,Boca,Argentina,on-field review,Tomás Ducó,Atkinson,offside,roja,0
+24,Jugador_499,Newells,Argentina,on-field review,Cilindro,Tello,penal,roja,1
+61,Jugador_57,Newcastle,Premier League,on-field review,Etihad,Dean,gol,penal,0
+19,Jugador_196,Manchester United,Premier League,silent check,Emirates,Rapallini,offside,roja,1
+17,Jugador_49,Newcastle,Premier League,silent check,Emirates,Pitana,gol,gol,1
+37,Jugador_460,Boca,Argentina,on-field review,Libertadores de América,Oliver,gol,penal,0
+54,Jugador_328,River,Argentina,on-field review,Nuevo Gasómetro,Pitana,gol,gol,1
+32,Jugador_474,River,Argentina,silent check,Nuevo Gasómetro,Pitana,roja,roja,1
+38,Jugador_78,Liverpool,Premier League,silent check,Stamford Bridge,Pitana,roja,penal,0
+24,Jugador_287,Chelsea,Premier League,silent check,Emirates,Pitana,offside,roja,1
+4,Jugador_487,River,Argentina,silent check,Libertadores de América,Lousteau,gol,offside,0
+81,Jugador_436,Manchester City,Premier League,silent check,Tottenham Stadium,Taylor,offside,gol,1
+30,Jugador_17,Manchester United,Premier League,silent check,Etihad,Rapallini,roja,offside,1
+20,Jugador_150,Huracán,Argentina,on-field review,Libertadores de América,Lousteau,gol,gol,1
+79,Jugador_117,Liverpool,Premier League,on-field review,Old Trafford,Pitana,offside,gol,0
+20,Jugador_203,Arsenal,Premier League,on-field review,Old Trafford,Lousteau,gol,penal,0
+44,Jugador_118,Arsenal,Premier League,on-field review,Etihad,Tello,penal,offside,0
+81,Jugador_171,Independiente,Argentina,silent check,Bombonera,Lousteau,offside,offside,1
+23,Jugador_475,San Lorenzo,Argentina,on-field review,Monumental,Oliver,gol,roja,1
+60,Jugador_360,Independiente,Argentina,silent check,Libertadores de América,Rapallini,penal,gol,1
+67,Jugador_200,Huracán,Argentina,on-field review,Libertadores de América,Taylor,penal,penal,1
+91,Jugador_159,Manchester United,Premier League,on-field review,Tottenham Stadium,Tello,gol,penal,1
+51,Jugador_391,Newcastle,Premier League,silent check,Stamford Bridge,Atkinson,roja,gol,1
+79,Jugador_120,Aston Villa,Premier League,silent check,Stamford Bridge,Lousteau,offside,offside,0
+93,Jugador_358,Racing,Argentina,on-field review,Monumental,Rapallini,roja,offside,0
+33,Jugador_202,Boca,Argentina,silent check,Tomás Ducó,Atkinson,gol,roja,0
+48,Jugador_11,Newcastle,Premier League,silent check,Old Trafford,Rapallini,penal,gol,0
+55,Jugador_339,San Lorenzo,Argentina,silent check,Tomás Ducó,Pitana,penal,gol,1
+69,Jugador_486,Newcastle,Premier League,silent check,Stamford Bridge,Oliver,gol,roja,1
+94,Jugador_239,Racing,Argentina,on-field review,Tomás Ducó,Dean,gol,offside,0
+14,Jugador_99,Manchester City,Premier League,on-field review,Old Trafford,Atkinson,roja,roja,0
+83,Jugador_438,Manchester City,Premier League,silent check,Anfield,Dean,roja,roja,0
+26,Jugador_224,Manchester United,Premier League,silent check,Stamford Bridge,Lousteau,roja,offside,0
+90,Jugador_178,Independiente,Argentina,on-field review,Bombonera,Dean,gol,roja,0
+81,Jugador_184,River,Argentina,silent check,Libertadores de América,Lousteau,gol,penal,0
+36,Jugador_250,Manchester City,Premier League,on-field review,Anfield,Lousteau,penal,offside,0
+43,Jugador_384,Manchester United,Premier League,on-field review,Anfield,Dean,gol,roja,1
+65,Jugador_454,Arsenal,Premier League,silent check,Tottenham Stadium,Lousteau,penal,gol,1
+15,Jugador_453,San Lorenzo,Argentina,silent check,Bombonera,Lousteau,gol,roja,1
+52,Jugador_359,San Lorenzo,Argentina,on-field review,Bombonera,Rapallini,gol,roja,1
+36,Jugador_428,Newcastle,Premier League,silent check,Emirates,Tello,roja,roja,0
+31,Jugador_449,Manchester United,Premier League,on-field review,Etihad,Tello,roja,gol,1
+5,Jugador_145,Newcastle,Premier League,on-field review,Anfield,Oliver,offside,offside,0
+33,Jugador_449,Tottenham,Premier League,silent check,Old Trafford,Pitana,penal,penal,1
+39,Jugador_338,Tottenham,Premier League,on-field review,Emirates,Tello,gol,gol,0
+91,Jugador_312,Boca,Argentina,on-field review,Bombonera,Atkinson,roja,gol,1
+45,Jugador_67,Manchester United,Premier League,silent check,Tottenham Stadium,Atkinson,penal,gol,0
+60,Jugador_119,River,Argentina,on-field review,Libertadores de América,Oliver,penal,penal,0
+52,Jugador_126,Tottenham,Premier League,silent check,Stamford Bridge,Dean,offside,penal,0
+16,Jugador_290,Huracán,Argentina,silent check,Tomás Ducó,Taylor,penal,offside,0
+71,Jugador_460,Tottenham,Premier League,silent check,Emirates,Taylor,penal,roja,1
+18,Jugador_327,Liverpool,Premier League,silent check,Etihad,Dean,gol,gol,1
+83,Jugador_192,River,Argentina,on-field review,Bombonera,Oliver,offside,gol,0
+88,Jugador_16,Huracán,Argentina,on-field review,Monumental,Oliver,penal,offside,1
+68,Jugador_75,Newells,Argentina,on-field review,Libertadores de América,Atkinson,offside,offside,0
+44,Jugador_451,San Lorenzo,Argentina,silent check,Cilindro,Oliver,offside,penal,0
+20,Jugador_25,Newells,Argentina,on-field review,Monumental,Pitana,penal,penal,1
+17,Jugador_377,Tottenham,Premier League,on-field review,Anfield,Taylor,roja,offside,1
+95,Jugador_169,Arsenal,Premier League,on-field review,Tottenham Stadium,Dean,penal,penal,1
+37,Jugador_284,Boca,Argentina,silent check,Monumental,Taylor,roja,offside,0
+95,Jugador_267,Independiente,Argentina,silent check,Monumental,Pitana,offside,gol,1
+10,Jugador_469,Liverpool,Premier League,silent check,Emirates,Tello,offside,penal,0
+13,Jugador_467,Newells,Argentina,silent check,Cilindro,Lousteau,gol,roja,0
+15,Jugador_446,San Lorenzo,Argentina,on-field review,Tomás Ducó,Lousteau,gol,roja,1
+45,Jugador_486,Manchester City,Premier League,on-field review,Anfield,Taylor,penal,roja,1
+11,Jugador_190,Rosario Central,Argentina,on-field review,Libertadores de América,Oliver,penal,offside,1
+31,Jugador_158,Independiente,Argentina,silent check,Bombonera,Dean,offside,offside,0
+45,Jugador_319,San Lorenzo,Argentina,on-field review,Libertadores de América,Rapallini,penal,gol,0
+43,Jugador_50,Boca,Argentina,silent check,Libertadores de América,Rapallini,offside,offside,1
+46,Jugador_33,Aston Villa,Premier League,silent check,Tottenham Stadium,Taylor,penal,penal,1
+41,Jugador_242,Newells,Argentina,on-field review,Tomás Ducó,Atkinson,offside,penal,1
+1,Jugador_273,Newells,Argentina,on-field review,Cilindro,Rapallini,penal,roja,0
+66,Jugador_124,Racing,Argentina,silent check,Cilindro,Atkinson,roja,gol,0
+27,Jugador_66,San Lorenzo,Argentina,silent check,Bombonera,Tello,offside,roja,0
+2,Jugador_169,Huracán,Argentina,on-field review,Cilindro,Oliver,roja,offside,1
+77,Jugador_84,Manchester United,Premier League,silent check,Etihad,Tello,penal,offside,0
+21,Jugador_68,River,Argentina,on-field review,Monumental,Oliver,offside,penal,0
+19,Jugador_1,Liverpool,Premier League,silent check,Stamford Bridge,Tello,penal,offside,0
+39,Jugador_444,Liverpool,Premier League,on-field review,Old Trafford,Oliver,offside,offside,0
+76,Jugador_279,Newells,Argentina,on-field review,Monumental,Oliver,roja,penal,1
+16,Jugador_406,Racing,Argentina,silent check,Libertadores de América,Dean,offside,offside,0
+11,Jugador_377,Manchester United,Premier League,on-field review,Old Trafford,Rapallini,offside,offside,1
+28,Jugador_219,Huracán,Argentina,silent check,Cilindro,Taylor,gol,penal,0
+33,Jugador_112,Aston Villa,Premier League,silent check,Etihad,Oliver,penal,penal,1
+31,Jugador_153,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Atkinson,roja,offside,0
+73,Jugador_380,Arsenal,Premier League,silent check,Emirates,Tello,gol,offside,0
+53,Jugador_87,Independiente,Argentina,on-field review,Libertadores de América,Lousteau,offside,penal,1
+33,Jugador_288,Liverpool,Premier League,silent check,Etihad,Oliver,offside,offside,1
+95,Jugador_254,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Dean,penal,offside,0
+89,Jugador_114,Aston Villa,Premier League,on-field review,Emirates,Oliver,offside,offside,0
+68,Jugador_468,Chelsea,Premier League,silent check,Stamford Bridge,Pitana,gol,penal,0
+70,Jugador_125,Liverpool,Premier League,on-field review,Emirates,Pitana,roja,gol,1
+71,Jugador_177,River,Argentina,on-field review,Cilindro,Rapallini,penal,gol,1
+7,Jugador_3,Boca,Argentina,silent check,Cilindro,Tello,offside,penal,0
+40,Jugador_268,Chelsea,Premier League,silent check,Anfield,Dean,roja,penal,1
+16,Jugador_201,Racing,Argentina,on-field review,Libertadores de América,Rapallini,gol,penal,1
+37,Jugador_298,Manchester United,Premier League,silent check,Anfield,Lousteau,roja,offside,1
+51,Jugador_302,Huracán,Argentina,on-field review,Tomás Ducó,Lousteau,offside,penal,1
+56,Jugador_185,Rosario Central,Argentina,silent check,Bombonera,Lousteau,penal,offside,1
+89,Jugador_68,Chelsea,Premier League,silent check,Etihad,Lousteau,offside,offside,0
+75,Jugador_200,Tottenham,Premier League,on-field review,Stamford Bridge,Rapallini,roja,penal,1
+32,Jugador_358,Independiente,Argentina,on-field review,Bombonera,Atkinson,gol,penal,1
+41,Jugador_434,Boca,Argentina,silent check,Bombonera,Rapallini,penal,roja,1
+67,Jugador_150,Newells,Argentina,silent check,Cilindro,Pitana,roja,penal,0
+47,Jugador_233,Chelsea,Premier League,silent check,Stamford Bridge,Dean,penal,offside,0
+94,Jugador_88,Arsenal,Premier League,on-field review,Tottenham Stadium,Tello,roja,roja,0
+80,Jugador_425,San Lorenzo,Argentina,silent check,Monumental,Tello,penal,penal,1
+81,Jugador_329,Racing,Argentina,on-field review,Bombonera,Lousteau,gol,penal,1
+46,Jugador_311,Rosario Central,Argentina,silent check,Tomás Ducó,Lousteau,penal,roja,1
+62,Jugador_177,Chelsea,Premier League,silent check,Old Trafford,Lousteau,penal,gol,0
+7,Jugador_193,Aston Villa,Premier League,on-field review,Stamford Bridge,Rapallini,roja,offside,1
+14,Jugador_455,Aston Villa,Premier League,silent check,Stamford Bridge,Pitana,penal,penal,1
+79,Jugador_254,Aston Villa,Premier League,silent check,Anfield,Atkinson,penal,roja,1
+24,Jugador_141,Racing,Argentina,silent check,Libertadores de América,Rapallini,roja,offside,1
+51,Jugador_87,Huracán,Argentina,silent check,Nuevo Gasómetro,Dean,offside,gol,1
+41,Jugador_55,Newells,Argentina,silent check,Cilindro,Rapallini,penal,penal,0
+55,Jugador_90,Manchester City,Premier League,silent check,Tottenham Stadium,Lousteau,gol,roja,0
+2,Jugador_483,Manchester United,Premier League,on-field review,Stamford Bridge,Rapallini,roja,roja,0
+75,Jugador_369,Newells,Argentina,silent check,Libertadores de América,Tello,roja,offside,0
+92,Jugador_217,Newcastle,Premier League,silent check,Stamford Bridge,Lousteau,gol,offside,0
+64,Jugador_433,San Lorenzo,Argentina,on-field review,Monumental,Tello,gol,roja,1
+27,Jugador_325,Newells,Argentina,on-field review,Libertadores de América,Taylor,penal,offside,0
+91,Jugador_42,Aston Villa,Premier League,silent check,Stamford Bridge,Atkinson,gol,offside,1
+25,Jugador_298,Independiente,Argentina,on-field review,Monumental,Rapallini,roja,gol,0
+91,Jugador_464,Independiente,Argentina,on-field review,Nuevo Gasómetro,Pitana,penal,penal,0
+11,Jugador_406,Racing,Argentina,silent check,Nuevo Gasómetro,Lousteau,gol,offside,1
+60,Jugador_462,Racing,Argentina,silent check,Cilindro,Dean,offside,roja,0
+5,Jugador_331,San Lorenzo,Argentina,on-field review,Cilindro,Taylor,roja,penal,0
+69,Jugador_76,Rosario Central,Argentina,silent check,Monumental,Oliver,gol,offside,1
+92,Jugador_324,Aston Villa,Premier League,on-field review,Emirates,Pitana,offside,offside,0
+28,Jugador_438,Huracán,Argentina,silent check,Cilindro,Atkinson,roja,gol,1
+89,Jugador_362,Arsenal,Premier League,silent check,Anfield,Pitana,offside,roja,0
+78,Jugador_166,Tottenham,Premier League,on-field review,Anfield,Lousteau,penal,penal,0
+49,Jugador_116,Rosario Central,Argentina,on-field review,Tomás Ducó,Dean,roja,gol,0
+91,Jugador_333,Arsenal,Premier League,silent check,Anfield,Atkinson,offside,roja,1
+60,Jugador_53,Manchester United,Premier League,on-field review,Tottenham Stadium,Oliver,offside,offside,1
+37,Jugador_387,Aston Villa,Premier League,on-field review,Etihad,Taylor,offside,offside,1
+4,Jugador_343,Aston Villa,Premier League,on-field review,Old Trafford,Rapallini,gol,gol,0
+62,Jugador_13,Chelsea,Premier League,silent check,Tottenham Stadium,Dean,penal,roja,0
+41,Jugador_278,Chelsea,Premier League,silent check,Etihad,Rapallini,offside,penal,0
+27,Jugador_24,Boca,Argentina,silent check,Libertadores de América,Lousteau,gol,offside,1
+19,Jugador_157,Boca,Argentina,silent check,Nuevo Gasómetro,Lousteau,penal,roja,0
+72,Jugador_276,Huracán,Argentina,silent check,Tomás Ducó,Dean,gol,penal,0
+73,Jugador_180,Rosario Central,Argentina,silent check,Monumental,Pitana,penal,roja,0
+54,Jugador_61,Manchester City,Premier League,silent check,Etihad,Lousteau,penal,penal,1
+79,Jugador_268,Chelsea,Premier League,silent check,Tottenham Stadium,Tello,penal,gol,1
+93,Jugador_83,Aston Villa,Premier League,silent check,Stamford Bridge,Pitana,penal,gol,1
+47,Jugador_281,Newells,Argentina,on-field review,Nuevo Gasómetro,Dean,gol,gol,0
+12,Jugador_2,San Lorenzo,Argentina,on-field review,Monumental,Pitana,roja,gol,0
+94,Jugador_232,Arsenal,Premier League,silent check,Tottenham Stadium,Oliver,roja,penal,1
+21,Jugador_244,Liverpool,Premier League,silent check,Stamford Bridge,Tello,penal,penal,1
+34,Jugador_170,Racing,Argentina,silent check,Monumental,Oliver,roja,penal,1
+20,Jugador_297,Racing,Argentina,on-field review,Libertadores de América,Atkinson,penal,gol,0
+38,Jugador_195,Independiente,Argentina,on-field review,Bombonera,Rapallini,penal,gol,1
+34,Jugador_88,Chelsea,Premier League,silent check,Tottenham Stadium,Dean,offside,offside,0
+9,Jugador_336,Manchester City,Premier League,silent check,Anfield,Atkinson,roja,penal,0
+2,Jugador_343,River,Argentina,silent check,Bombonera,Dean,roja,offside,1
+79,Jugador_358,Boca,Argentina,silent check,Tomás Ducó,Taylor,gol,roja,0
+50,Jugador_488,Boca,Argentina,silent check,Tomás Ducó,Tello,offside,offside,1
+83,Jugador_436,Arsenal,Premier League,on-field review,Tottenham Stadium,Dean,gol,penal,1
+78,Jugador_329,Racing,Argentina,on-field review,Libertadores de América,Tello,gol,penal,1
+26,Jugador_232,Tottenham,Premier League,on-field review,Anfield,Atkinson,gol,roja,1
+44,Jugador_25,Racing,Argentina,silent check,Nuevo Gasómetro,Pitana,gol,gol,1
+7,Jugador_142,River,Argentina,on-field review,Bombonera,Tello,roja,penal,0
+14,Jugador_23,Independiente,Argentina,silent check,Nuevo Gasómetro,Lousteau,offside,gol,1
+30,Jugador_412,Chelsea,Premier League,silent check,Emirates,Taylor,penal,offside,0
+12,Jugador_447,Tottenham,Premier League,silent check,Stamford Bridge,Rapallini,roja,offside,0
+14,Jugador_137,Boca,Argentina,on-field review,Cilindro,Dean,gol,penal,1
+95,Jugador_380,Arsenal,Premier League,silent check,Emirates,Rapallini,penal,penal,0
+77,Jugador_348,Huracán,Argentina,on-field review,Bombonera,Pitana,penal,penal,0
+49,Jugador_390,Manchester City,Premier League,silent check,Tottenham Stadium,Pitana,roja,offside,1
+69,Jugador_398,Racing,Argentina,silent check,Nuevo Gasómetro,Taylor,penal,offside,0
+82,Jugador_23,River,Argentina,silent check,Nuevo Gasómetro,Rapallini,gol,gol,1
+59,Jugador_117,Newells,Argentina,silent check,Monumental,Atkinson,roja,penal,0
+82,Jugador_451,Racing,Argentina,on-field review,Bombonera,Rapallini,penal,roja,1
+53,Jugador_125,Huracán,Argentina,silent check,Nuevo Gasómetro,Oliver,roja,penal,0
+61,Jugador_495,San Lorenzo,Argentina,on-field review,Tomás Ducó,Atkinson,gol,penal,1
+55,Jugador_382,Manchester City,Premier League,silent check,Emirates,Tello,roja,gol,0
+6,Jugador_228,Rosario Central,Argentina,on-field review,Bombonera,Dean,roja,roja,0
+4,Jugador_8,Newells,Argentina,silent check,Bombonera,Atkinson,gol,roja,1
+45,Jugador_485,Aston Villa,Premier League,silent check,Old Trafford,Dean,gol,offside,0
+20,Jugador_427,Rosario Central,Argentina,silent check,Libertadores de América,Tello,offside,roja,0
+23,Jugador_425,Independiente,Argentina,silent check,Nuevo Gasómetro,Lousteau,roja,gol,1
+9,Jugador_289,Independiente,Argentina,on-field review,Tomás Ducó,Dean,roja,gol,1
+3,Jugador_441,Arsenal,Premier League,silent check,Tottenham Stadium,Pitana,roja,offside,0
+43,Jugador_270,Independiente,Argentina,silent check,Bombonera,Tello,roja,roja,1
+62,Jugador_459,Rosario Central,Argentina,silent check,Tomás Ducó,Oliver,offside,penal,0
+61,Jugador_323,Newcastle,Premier League,on-field review,Anfield,Rapallini,gol,roja,1
+44,Jugador_202,Newells,Argentina,silent check,Libertadores de América,Tello,offside,gol,0
+2,Jugador_458,Racing,Argentina,on-field review,Cilindro,Rapallini,roja,gol,1
+77,Jugador_194,Newcastle,Premier League,on-field review,Anfield,Oliver,penal,roja,1
+73,Jugador_357,Manchester City,Premier League,on-field review,Stamford Bridge,Tello,roja,roja,1
+26,Jugador_229,Huracán,Argentina,silent check,Monumental,Atkinson,offside,gol,1
+41,Jugador_235,Manchester City,Premier League,silent check,Anfield,Atkinson,penal,roja,1
+21,Jugador_266,Tottenham,Premier League,on-field review,Emirates,Oliver,gol,penal,1
+17,Jugador_300,Liverpool,Premier League,on-field review,Emirates,Pitana,gol,offside,0
+90,Jugador_96,San Lorenzo,Argentina,on-field review,Bombonera,Oliver,penal,offside,1
+45,Jugador_453,San Lorenzo,Argentina,on-field review,Cilindro,Rapallini,gol,gol,0
+45,Jugador_153,Manchester United,Premier League,on-field review,Anfield,Lousteau,penal,gol,0
+49,Jugador_386,Manchester United,Premier League,silent check,Stamford Bridge,Lousteau,gol,roja,1
+17,Jugador_479,River,Argentina,on-field review,Nuevo Gasómetro,Rapallini,penal,roja,1
+67,Jugador_113,Boca,Argentina,on-field review,Tomás Ducó,Dean,offside,offside,0
+4,Jugador_220,Newells,Argentina,on-field review,Nuevo Gasómetro,Atkinson,offside,gol,1
+33,Jugador_400,Newcastle,Premier League,silent check,Old Trafford,Oliver,penal,offside,1
+57,Jugador_430,Manchester United,Premier League,silent check,Stamford Bridge,Oliver,offside,penal,0
+6,Jugador_98,Huracán,Argentina,silent check,Tomás Ducó,Rapallini,roja,roja,0
+6,Jugador_493,Chelsea,Premier League,on-field review,Emirates,Dean,gol,gol,0
+43,Jugador_8,Racing,Argentina,silent check,Nuevo Gasómetro,Lousteau,penal,offside,0
+7,Jugador_59,Arsenal,Premier League,on-field review,Old Trafford,Rapallini,offside,gol,0
+24,Jugador_424,Boca,Argentina,silent check,Nuevo Gasómetro,Tello,gol,roja,0
+8,Jugador_237,Chelsea,Premier League,on-field review,Emirates,Dean,gol,gol,1
+31,Jugador_77,Arsenal,Premier League,silent check,Stamford Bridge,Lousteau,gol,penal,1
+76,Jugador_270,Huracán,Argentina,on-field review,Cilindro,Oliver,roja,gol,0
+14,Jugador_461,Racing,Argentina,on-field review,Tomás Ducó,Pitana,roja,roja,0
+18,Jugador_59,Arsenal,Premier League,silent check,Emirates,Tello,penal,gol,1
+40,Jugador_356,Newcastle,Premier League,silent check,Anfield,Rapallini,roja,gol,0
+47,Jugador_63,River,Argentina,on-field review,Nuevo Gasómetro,Taylor,roja,gol,0
+56,Jugador_163,Manchester City,Premier League,on-field review,Anfield,Lousteau,penal,gol,1
+13,Jugador_23,San Lorenzo,Argentina,silent check,Cilindro,Rapallini,offside,offside,0
+68,Jugador_55,Boca,Argentina,silent check,Bombonera,Pitana,offside,roja,1
+13,Jugador_14,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Pitana,roja,gol,1
+30,Jugador_173,Liverpool,Premier League,on-field review,Anfield,Dean,offside,roja,0
+7,Jugador_189,San Lorenzo,Argentina,on-field review,Libertadores de América,Taylor,penal,penal,0
+7,Jugador_129,Liverpool,Premier League,silent check,Stamford Bridge,Taylor,roja,roja,1
+41,Jugador_472,Racing,Argentina,silent check,Cilindro,Pitana,offside,offside,0
+92,Jugador_94,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Pitana,penal,penal,0
+85,Jugador_224,Huracán,Argentina,on-field review,Bombonera,Pitana,gol,penal,1
+45,Jugador_113,Huracán,Argentina,on-field review,Monumental,Lousteau,gol,offside,0
+5,Jugador_355,Newcastle,Premier League,silent check,Stamford Bridge,Atkinson,offside,roja,1
+78,Jugador_56,Racing,Argentina,on-field review,Bombonera,Lousteau,roja,penal,1
+38,Jugador_467,Boca,Argentina,silent check,Cilindro,Oliver,offside,roja,1
+54,Jugador_46,Independiente,Argentina,on-field review,Bombonera,Atkinson,gol,penal,0
+49,Jugador_23,Chelsea,Premier League,silent check,Stamford Bridge,Oliver,gol,offside,1
+22,Jugador_42,Aston Villa,Premier League,silent check,Old Trafford,Pitana,offside,gol,0
+86,Jugador_494,San Lorenzo,Argentina,silent check,Monumental,Lousteau,roja,offside,1
+55,Jugador_277,Independiente,Argentina,on-field review,Bombonera,Tello,penal,roja,1
+75,Jugador_186,Huracán,Argentina,silent check,Nuevo Gasómetro,Tello,roja,penal,1
+37,Jugador_186,Rosario Central,Argentina,on-field review,Nuevo Gasómetro,Lousteau,penal,gol,0
+39,Jugador_457,Arsenal,Premier League,on-field review,Tottenham Stadium,Lousteau,roja,offside,1
+74,Jugador_316,Aston Villa,Premier League,on-field review,Etihad,Tello,gol,gol,1
+2,Jugador_375,Racing,Argentina,on-field review,Nuevo Gasómetro,Dean,penal,offside,0
+80,Jugador_246,Huracán,Argentina,on-field review,Libertadores de América,Taylor,roja,gol,0
+26,Jugador_125,River,Argentina,on-field review,Cilindro,Taylor,gol,gol,0
+78,Jugador_378,Boca,Argentina,silent check,Tomás Ducó,Oliver,gol,gol,0
+6,Jugador_85,Independiente,Argentina,silent check,Tomás Ducó,Atkinson,gol,gol,0
+32,Jugador_337,Manchester City,Premier League,on-field review,Anfield,Tello,gol,offside,1
+80,Jugador_204,Chelsea,Premier League,silent check,Stamford Bridge,Oliver,penal,roja,0
+65,Jugador_190,Newcastle,Premier League,silent check,Emirates,Rapallini,penal,roja,0
+64,Jugador_131,San Lorenzo,Argentina,on-field review,Monumental,Atkinson,penal,roja,1
+19,Jugador_441,San Lorenzo,Argentina,on-field review,Tomás Ducó,Tello,offside,penal,1
+81,Jugador_289,River,Argentina,on-field review,Cilindro,Pitana,roja,penal,1
+28,Jugador_56,Rosario Central,Argentina,on-field review,Nuevo Gasómetro,Dean,penal,penal,1
+84,Jugador_47,Aston Villa,Premier League,on-field review,Anfield,Tello,roja,gol,1
+45,Jugador_346,Huracán,Argentina,silent check,Monumental,Lousteau,gol,gol,1
+76,Jugador_152,Huracán,Argentina,silent check,Monumental,Oliver,gol,offside,1
+61,Jugador_364,Racing,Argentina,silent check,Tomás Ducó,Rapallini,roja,roja,1
+57,Jugador_307,Newcastle,Premier League,silent check,Old Trafford,Dean,offside,gol,0
+57,Jugador_371,San Lorenzo,Argentina,silent check,Cilindro,Dean,penal,penal,1
+17,Jugador_408,Racing,Argentina,silent check,Nuevo Gasómetro,Atkinson,gol,roja,0
+85,Jugador_368,Arsenal,Premier League,on-field review,Emirates,Dean,offside,gol,1
+25,Jugador_361,River,Argentina,on-field review,Cilindro,Tello,penal,gol,1
+72,Jugador_468,Boca,Argentina,on-field review,Tomás Ducó,Lousteau,roja,roja,1
+23,Jugador_90,Manchester City,Premier League,on-field review,Stamford Bridge,Tello,penal,penal,0
+61,Jugador_380,Newells,Argentina,silent check,Bombonera,Atkinson,roja,roja,0
+65,Jugador_1,Manchester United,Premier League,silent check,Anfield,Lousteau,penal,gol,0
+31,Jugador_92,Newells,Argentina,silent check,Tomás Ducó,Oliver,roja,gol,1
+71,Jugador_118,Arsenal,Premier League,on-field review,Old Trafford,Lousteau,roja,penal,1
+94,Jugador_230,Manchester City,Premier League,on-field review,Emirates,Pitana,penal,roja,0
+67,Jugador_299,Tottenham,Premier League,on-field review,Old Trafford,Dean,penal,penal,0
+21,Jugador_403,Boca,Argentina,on-field review,Tomás Ducó,Pitana,roja,penal,0
+41,Jugador_263,Racing,Argentina,silent check,Bombonera,Rapallini,offside,gol,0
+85,Jugador_143,Boca,Argentina,on-field review,Nuevo Gasómetro,Pitana,roja,offside,1
+30,Jugador_437,San Lorenzo,Argentina,silent check,Monumental,Tello,gol,gol,0
+62,Jugador_435,Aston Villa,Premier League,silent check,Anfield,Pitana,offside,roja,1
+50,Jugador_22,Newells,Argentina,silent check,Cilindro,Pitana,penal,roja,1
+47,Jugador_263,Newells,Argentina,on-field review,Monumental,Oliver,offside,gol,0
+17,Jugador_47,Boca,Argentina,on-field review,Cilindro,Tello,offside,roja,0
+7,Jugador_191,Huracán,Argentina,silent check,Nuevo Gasómetro,Lousteau,offside,roja,0
+55,Jugador_499,Boca,Argentina,on-field review,Nuevo Gasómetro,Oliver,penal,roja,0
+52,Jugador_434,Newcastle,Premier League,silent check,Emirates,Taylor,roja,offside,0
+25,Jugador_473,Manchester United,Premier League,silent check,Old Trafford,Taylor,penal,roja,0
+41,Jugador_338,Newells,Argentina,silent check,Libertadores de América,Atkinson,offside,gol,1
+37,Jugador_255,Manchester City,Premier League,on-field review,Stamford Bridge,Rapallini,offside,offside,0
+66,Jugador_398,Newcastle,Premier League,silent check,Etihad,Lousteau,offside,offside,0
+21,Jugador_84,Liverpool,Premier League,silent check,Etihad,Pitana,roja,roja,0
+85,Jugador_149,Racing,Argentina,silent check,Tomás Ducó,Lousteau,offside,offside,0
+80,Jugador_283,Aston Villa,Premier League,on-field review,Stamford Bridge,Lousteau,penal,penal,1
+76,Jugador_5,Liverpool,Premier League,on-field review,Emirates,Atkinson,penal,roja,0
+80,Jugador_256,Newcastle,Premier League,silent check,Tottenham Stadium,Pitana,penal,roja,0
+69,Jugador_362,Aston Villa,Premier League,silent check,Emirates,Tello,gol,roja,0
+63,Jugador_62,Huracán,Argentina,silent check,Bombonera,Oliver,penal,gol,0
+59,Jugador_14,Tottenham,Premier League,silent check,Etihad,Tello,offside,roja,1
+37,Jugador_185,San Lorenzo,Argentina,silent check,Libertadores de América,Taylor,penal,gol,1
+65,Jugador_314,Independiente,Argentina,silent check,Cilindro,Atkinson,offside,roja,1
+95,Jugador_479,Newcastle,Premier League,on-field review,Anfield,Taylor,offside,roja,0
+12,Jugador_476,Racing,Argentina,silent check,Tomás Ducó,Dean,roja,offside,0
+1,Jugador_413,Chelsea,Premier League,silent check,Etihad,Tello,offside,penal,1
+37,Jugador_466,Manchester United,Premier League,silent check,Emirates,Rapallini,roja,gol,0
+79,Jugador_443,San Lorenzo,Argentina,silent check,Bombonera,Oliver,roja,roja,0
+67,Jugador_439,Chelsea,Premier League,silent check,Stamford Bridge,Pitana,penal,offside,1
+93,Jugador_343,Newells,Argentina,on-field review,Tomás Ducó,Tello,offside,offside,1
+53,Jugador_156,Boca,Argentina,on-field review,Monumental,Atkinson,gol,penal,1
+35,Jugador_275,Chelsea,Premier League,silent check,Anfield,Tello,gol,roja,0
+77,Jugador_342,Chelsea,Premier League,silent check,Emirates,Tello,gol,offside,0
+66,Jugador_150,Newcastle,Premier League,silent check,Stamford Bridge,Tello,roja,gol,0
+10,Jugador_68,Aston Villa,Premier League,silent check,Old Trafford,Oliver,penal,roja,0
+15,Jugador_478,San Lorenzo,Argentina,on-field review,Cilindro,Oliver,roja,gol,0
+2,Jugador_294,Chelsea,Premier League,on-field review,Anfield,Taylor,penal,penal,1
+92,Jugador_186,Independiente,Argentina,silent check,Bombonera,Rapallini,roja,gol,0
+6,Jugador_404,Manchester City,Premier League,on-field review,Anfield,Pitana,roja,offside,0
+89,Jugador_291,River,Argentina,silent check,Bombonera,Tello,penal,gol,0
+70,Jugador_157,Racing,Argentina,silent check,Cilindro,Tello,penal,offside,0
+4,Jugador_56,Racing,Argentina,on-field review,Monumental,Lousteau,roja,gol,1
+11,Jugador_427,Tottenham,Premier League,on-field review,Old Trafford,Lousteau,roja,roja,0
+94,Jugador_185,Arsenal,Premier League,on-field review,Anfield,Taylor,gol,gol,0
+63,Jugador_112,Chelsea,Premier League,on-field review,Emirates,Dean,roja,roja,1
+57,Jugador_376,Tottenham,Premier League,on-field review,Stamford Bridge,Lousteau,offside,gol,1
+5,Jugador_450,Manchester United,Premier League,silent check,Etihad,Pitana,penal,gol,1
+26,Jugador_43,San Lorenzo,Argentina,silent check,Cilindro,Lousteau,offside,penal,0
+3,Jugador_285,Boca,Argentina,silent check,Tomás Ducó,Taylor,roja,roja,0
+93,Jugador_168,Chelsea,Premier League,on-field review,Old Trafford,Oliver,gol,roja,1
+29,Jugador_476,San Lorenzo,Argentina,on-field review,Tomás Ducó,Atkinson,roja,gol,0
+80,Jugador_14,Arsenal,Premier League,on-field review,Tottenham Stadium,Atkinson,roja,roja,0
+35,Jugador_433,Racing,Argentina,silent check,Monumental,Pitana,penal,penal,1
+37,Jugador_214,Newells,Argentina,on-field review,Cilindro,Oliver,gol,roja,1
+27,Jugador_333,Manchester United,Premier League,silent check,Stamford Bridge,Lousteau,penal,roja,0
+19,Jugador_158,Manchester United,Premier League,on-field review,Old Trafford,Atkinson,gol,gol,1
+71,Jugador_280,Newcastle,Premier League,on-field review,Emirates,Lousteau,offside,gol,0
+65,Jugador_270,River,Argentina,silent check,Tomás Ducó,Pitana,roja,offside,0
+2,Jugador_350,Manchester United,Premier League,on-field review,Etihad,Tello,offside,roja,0
+48,Jugador_374,Newells,Argentina,silent check,Cilindro,Pitana,roja,offside,1
+95,Jugador_111,Racing,Argentina,silent check,Libertadores de América,Tello,gol,penal,1
+41,Jugador_104,Chelsea,Premier League,silent check,Etihad,Rapallini,offside,penal,0
+78,Jugador_493,San Lorenzo,Argentina,on-field review,Libertadores de América,Pitana,gol,penal,0
+69,Jugador_411,San Lorenzo,Argentina,on-field review,Nuevo Gasómetro,Atkinson,roja,roja,1
+61,Jugador_287,Boca,Argentina,silent check,Monumental,Rapallini,offside,penal,0
+47,Jugador_210,Newells,Argentina,on-field review,Libertadores de América,Atkinson,penal,roja,1
+60,Jugador_115,Boca,Argentina,on-field review,Cilindro,Tello,gol,offside,0
+26,Jugador_67,Arsenal,Premier League,on-field review,Stamford Bridge,Tello,offside,roja,1
+45,Jugador_321,Racing,Argentina,on-field review,Monumental,Lousteau,offside,offside,0
+45,Jugador_364,Boca,Argentina,on-field review,Tomás Ducó,Lousteau,penal,roja,0
+51,Jugador_417,Chelsea,Premier League,silent check,Tottenham Stadium,Taylor,offside,gol,1
+64,Jugador_28,Arsenal,Premier League,on-field review,Emirates,Lousteau,offside,gol,0
+83,Jugador_362,Liverpool,Premier League,on-field review,Stamford Bridge,Atkinson,gol,roja,1
+15,Jugador_56,Rosario Central,Argentina,on-field review,Monumental,Dean,penal,gol,0
+86,Jugador_181,Racing,Argentina,on-field review,Bombonera,Pitana,penal,offside,1
+73,Jugador_348,Aston Villa,Premier League,on-field review,Stamford Bridge,Taylor,roja,roja,0
+56,Jugador_437,Newells,Argentina,silent check,Bombonera,Dean,penal,gol,0
+31,Jugador_109,Manchester City,Premier League,on-field review,Emirates,Tello,roja,gol,1
+65,Jugador_190,Liverpool,Premier League,silent check,Stamford Bridge,Taylor,roja,offside,0
+81,Jugador_364,Liverpool,Premier League,silent check,Emirates,Dean,offside,penal,0
+70,Jugador_358,Liverpool,Premier League,silent check,Etihad,Tello,offside,offside,0
+9,Jugador_269,Newells,Argentina,on-field review,Tomás Ducó,Oliver,roja,offside,0
+94,Jugador_373,Tottenham,Premier League,on-field review,Tottenham Stadium,Lousteau,offside,roja,1
+24,Jugador_76,Manchester United,Premier League,silent check,Etihad,Taylor,roja,gol,0
+80,Jugador_473,Newells,Argentina,silent check,Monumental,Taylor,offside,gol,0
+8,Jugador_413,Independiente,Argentina,on-field review,Libertadores de América,Pitana,roja,penal,0
+40,Jugador_83,Rosario Central,Argentina,on-field review,Cilindro,Dean,offside,offside,0
+57,Jugador_304,Arsenal,Premier League,silent check,Old Trafford,Lousteau,offside,offside,0
+44,Jugador_459,Manchester United,Premier League,silent check,Anfield,Lousteau,offside,roja,1
+6,Jugador_199,River,Argentina,on-field review,Nuevo Gasómetro,Tello,penal,penal,1
+24,Jugador_319,Arsenal,Premier League,on-field review,Tottenham Stadium,Tello,roja,roja,0
+8,Jugador_273,San Lorenzo,Argentina,silent check,Tomás Ducó,Taylor,gol,gol,1
+53,Jugador_300,Manchester United,Premier League,silent check,Old Trafford,Taylor,roja,gol,1
+60,Jugador_209,Tottenham,Premier League,on-field review,Emirates,Atkinson,penal,penal,1
+59,Jugador_494,Huracán,Argentina,silent check,Cilindro,Dean,gol,offside,0
+11,Jugador_223,Manchester City,Premier League,on-field review,Emirates,Rapallini,penal,roja,1
+84,Jugador_253,Independiente,Argentina,on-field review,Cilindro,Taylor,roja,roja,1
+58,Jugador_55,Chelsea,Premier League,silent check,Tottenham Stadium,Pitana,gol,offside,1
+34,Jugador_29,Rosario Central,Argentina,silent check,Monumental,Pitana,offside,gol,0
+93,Jugador_149,Manchester United,Premier League,silent check,Stamford Bridge,Taylor,gol,penal,0
+17,Jugador_44,Huracán,Argentina,silent check,Bombonera,Tello,offside,offside,0
+7,Jugador_111,Newells,Argentina,silent check,Bombonera,Atkinson,offside,offside,1
+60,Jugador_147,Liverpool,Premier League,silent check,Tottenham Stadium,Taylor,offside,roja,1
+47,Jugador_35,Newcastle,Premier League,on-field review,Etihad,Atkinson,penal,offside,1
+81,Jugador_28,Arsenal,Premier League,silent check,Stamford Bridge,Pitana,roja,gol,1
+42,Jugador_489,Independiente,Argentina,silent check,Libertadores de América,Atkinson,penal,penal,0
+34,Jugador_279,Newcastle,Premier League,silent check,Old Trafford,Dean,gol,roja,1
+81,Jugador_466,Boca,Argentina,silent check,Tomás Ducó,Oliver,gol,roja,0
+91,Jugador_142,Independiente,Argentina,on-field review,Cilindro,Pitana,offside,offside,1
+64,Jugador_244,Manchester City,Premier League,silent check,Etihad,Atkinson,penal,offside,1
+55,Jugador_441,Rosario Central,Argentina,silent check,Libertadores de América,Pitana,offside,offside,0
+41,Jugador_368,Racing,Argentina,on-field review,Cilindro,Oliver,roja,gol,1
+95,Jugador_174,Newcastle,Premier League,silent check,Anfield,Oliver,gol,offside,1
+2,Jugador_98,Liverpool,Premier League,on-field review,Tottenham Stadium,Pitana,roja,penal,0
+30,Jugador_248,Manchester United,Premier League,on-field review,Old Trafford,Oliver,gol,offside,1
+51,Jugador_109,Manchester City,Premier League,silent check,Etihad,Taylor,roja,offside,1
+8,Jugador_487,Chelsea,Premier League,on-field review,Etihad,Dean,gol,roja,1
+80,Jugador_175,Huracán,Argentina,on-field review,Bombonera,Tello,gol,roja,1
+6,Jugador_482,Chelsea,Premier League,on-field review,Etihad,Rapallini,offside,roja,1
+55,Jugador_124,Rosario Central,Argentina,on-field review,Tomás Ducó,Taylor,gol,penal,0
+4,Jugador_92,Newells,Argentina,silent check,Bombonera,Taylor,roja,offside,0
+57,Jugador_466,Huracán,Argentina,on-field review,Libertadores de América,Rapallini,gol,penal,1
+43,Jugador_115,Newcastle,Premier League,on-field review,Old Trafford,Atkinson,roja,roja,0
+2,Jugador_122,Tottenham,Premier League,silent check,Anfield,Tello,gol,gol,1
+45,Jugador_472,Newells,Argentina,on-field review,Cilindro,Rapallini,penal,penal,0
+13,Jugador_483,San Lorenzo,Argentina,silent check,Tomás Ducó,Tello,offside,offside,1
+5,Jugador_421,River,Argentina,on-field review,Bombonera,Tello,penal,offside,1
+15,Jugador_432,Aston Villa,Premier League,silent check,Emirates,Atkinson,penal,gol,1
+68,Jugador_199,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Dean,roja,roja,1
+86,Jugador_192,Huracán,Argentina,on-field review,Tomás Ducó,Tello,offside,penal,0
+4,Jugador_299,Aston Villa,Premier League,silent check,Old Trafford,Taylor,gol,offside,1
+72,Jugador_89,Chelsea,Premier League,silent check,Etihad,Dean,roja,penal,1
+55,Jugador_209,Rosario Central,Argentina,on-field review,Bombonera,Tello,offside,penal,0
+93,Jugador_5,Liverpool,Premier League,on-field review,Tottenham Stadium,Taylor,offside,gol,1
+46,Jugador_403,Independiente,Argentina,on-field review,Tomás Ducó,Lousteau,penal,gol,1
+43,Jugador_74,Aston Villa,Premier League,on-field review,Anfield,Oliver,penal,penal,1
+52,Jugador_297,Rosario Central,Argentina,on-field review,Libertadores de América,Taylor,roja,roja,0
+23,Jugador_63,Manchester United,Premier League,silent check,Old Trafford,Tello,gol,roja,1
+83,Jugador_263,Arsenal,Premier League,silent check,Anfield,Lousteau,gol,offside,1
+88,Jugador_222,Newells,Argentina,on-field review,Nuevo Gasómetro,Lousteau,gol,roja,0
+45,Jugador_340,Rosario Central,Argentina,silent check,Cilindro,Tello,penal,offside,0
+94,Jugador_149,San Lorenzo,Argentina,silent check,Monumental,Rapallini,roja,penal,1
+81,Jugador_445,Tottenham,Premier League,silent check,Etihad,Oliver,gol,roja,1
+53,Jugador_497,San Lorenzo,Argentina,silent check,Tomás Ducó,Pitana,offside,roja,0
+83,Jugador_81,Chelsea,Premier League,on-field review,Etihad,Lousteau,offside,roja,1
+4,Jugador_127,Newells,Argentina,silent check,Monumental,Dean,offside,gol,0
+8,Jugador_178,Tottenham,Premier League,silent check,Stamford Bridge,Oliver,penal,gol,1
+27,Jugador_240,Chelsea,Premier League,on-field review,Etihad,Pitana,offside,offside,1
+65,Jugador_10,Chelsea,Premier League,on-field review,Etihad,Lousteau,offside,gol,0
+50,Jugador_233,River,Argentina,on-field review,Tomás Ducó,Rapallini,penal,penal,1
+83,Jugador_474,Independiente,Argentina,silent check,Libertadores de América,Dean,offside,penal,0
+86,Jugador_145,Independiente,Argentina,silent check,Cilindro,Pitana,roja,gol,0
+82,Jugador_49,Newcastle,Premier League,on-field review,Old Trafford,Lousteau,roja,gol,1
+83,Jugador_273,Aston Villa,Premier League,on-field review,Emirates,Tello,penal,penal,1
+26,Jugador_441,Newells,Argentina,silent check,Monumental,Rapallini,offside,gol,1
+95,Jugador_468,Liverpool,Premier League,silent check,Etihad,Oliver,gol,gol,0
+52,Jugador_101,Rosario Central,Argentina,on-field review,Cilindro,Dean,penal,offside,1
+46,Jugador_14,Huracán,Argentina,silent check,Nuevo Gasómetro,Taylor,penal,roja,0
+11,Jugador_432,Boca,Argentina,silent check,Libertadores de América,Pitana,roja,offside,0
+71,Jugador_307,Arsenal,Premier League,on-field review,Anfield,Atkinson,gol,roja,1
+11,Jugador_243,Newells,Argentina,on-field review,Nuevo Gasómetro,Pitana,penal,offside,0
+3,Jugador_204,Racing,Argentina,silent check,Bombonera,Taylor,penal,penal,1
+24,Jugador_338,Manchester United,Premier League,silent check,Stamford Bridge,Lousteau,gol,penal,1
+63,Jugador_127,River,Argentina,on-field review,Monumental,Atkinson,offside,roja,0
+25,Jugador_440,Manchester City,Premier League,on-field review,Anfield,Lousteau,roja,gol,1
+21,Jugador_62,Liverpool,Premier League,silent check,Emirates,Atkinson,penal,offside,0
+8,Jugador_438,Aston Villa,Premier League,silent check,Stamford Bridge,Taylor,offside,penal,0
+65,Jugador_351,San Lorenzo,Argentina,on-field review,Monumental,Taylor,gol,roja,1
+83,Jugador_399,Liverpool,Premier League,on-field review,Anfield,Atkinson,penal,penal,1
+25,Jugador_123,Chelsea,Premier League,on-field review,Etihad,Dean,roja,penal,1
+74,Jugador_322,San Lorenzo,Argentina,silent check,Cilindro,Rapallini,offside,gol,0
+87,Jugador_102,Liverpool,Premier League,silent check,Emirates,Taylor,gol,offside,0
+40,Jugador_444,Newcastle,Premier League,silent check,Tottenham Stadium,Dean,penal,offside,1
+11,Jugador_221,Huracán,Argentina,on-field review,Cilindro,Taylor,gol,penal,0
+42,Jugador_140,Tottenham,Premier League,silent check,Tottenham Stadium,Oliver,offside,offside,1
+23,Jugador_61,Rosario Central,Argentina,silent check,Libertadores de América,Tello,gol,offside,0
+77,Jugador_407,Tottenham,Premier League,on-field review,Old Trafford,Oliver,gol,gol,1
+1,Jugador_163,Independiente,Argentina,on-field review,Tomás Ducó,Dean,penal,roja,0
+50,Jugador_279,Liverpool,Premier League,on-field review,Emirates,Lousteau,penal,penal,1
+8,Jugador_293,Arsenal,Premier League,silent check,Etihad,Rapallini,roja,offside,0
+91,Jugador_462,Chelsea,Premier League,silent check,Stamford Bridge,Lousteau,roja,offside,0
+57,Jugador_343,Liverpool,Premier League,on-field review,Tottenham Stadium,Oliver,penal,roja,0
+95,Jugador_190,Chelsea,Premier League,silent check,Tottenham Stadium,Tello,offside,penal,1
+51,Jugador_266,Manchester City,Premier League,silent check,Anfield,Atkinson,roja,offside,0
+69,Jugador_324,San Lorenzo,Argentina,on-field review,Bombonera,Pitana,roja,roja,0
+18,Jugador_420,Aston Villa,Premier League,silent check,Stamford Bridge,Dean,gol,offside,0
+52,Jugador_276,Aston Villa,Premier League,on-field review,Old Trafford,Tello,penal,gol,1
+2,Jugador_256,Independiente,Argentina,silent check,Bombonera,Oliver,gol,gol,1
+74,Jugador_376,Newcastle,Premier League,on-field review,Etihad,Pitana,gol,gol,0
+15,Jugador_410,Independiente,Argentina,on-field review,Monumental,Atkinson,penal,penal,1
+41,Jugador_259,Newcastle,Premier League,silent check,Old Trafford,Pitana,gol,penal,0
+51,Jugador_240,Newcastle,Premier League,on-field review,Tottenham Stadium,Pitana,roja,offside,1
+53,Jugador_315,Boca,Argentina,silent check,Libertadores de América,Rapallini,offside,penal,1
+93,Jugador_74,Manchester United,Premier League,on-field review,Anfield,Dean,offside,penal,1
+77,Jugador_451,Independiente,Argentina,silent check,Cilindro,Oliver,offside,gol,1
+85,Jugador_341,Chelsea,Premier League,silent check,Emirates,Atkinson,gol,gol,1
+52,Jugador_407,River,Argentina,silent check,Libertadores de América,Rapallini,roja,roja,1
+67,Jugador_358,Manchester United,Premier League,on-field review,Old Trafford,Tello,roja,roja,0
+39,Jugador_299,Boca,Argentina,silent check,Bombonera,Rapallini,offside,offside,1
+25,Jugador_424,River,Argentina,on-field review,Monumental,Rapallini,penal,penal,0
+14,Jugador_293,Rosario Central,Argentina,on-field review,Tomás Ducó,Rapallini,roja,offside,1
+76,Jugador_38,Huracán,Argentina,on-field review,Monumental,Dean,roja,gol,0
+76,Jugador_165,Manchester City,Premier League,on-field review,Anfield,Dean,penal,penal,0
+37,Jugador_42,Huracán,Argentina,on-field review,Nuevo Gasómetro,Pitana,roja,penal,0
+17,Jugador_154,Huracán,Argentina,silent check,Nuevo Gasómetro,Dean,penal,penal,0
+93,Jugador_482,Chelsea,Premier League,silent check,Anfield,Rapallini,penal,gol,0
+37,Jugador_307,Manchester City,Premier League,on-field review,Stamford Bridge,Dean,offside,roja,0
+27,Jugador_474,Chelsea,Premier League,on-field review,Anfield,Tello,penal,gol,0
+5,Jugador_369,Boca,Argentina,silent check,Bombonera,Tello,penal,roja,0
+54,Jugador_272,River,Argentina,silent check,Tomás Ducó,Oliver,gol,penal,0
+19,Jugador_57,Boca,Argentina,silent check,Nuevo Gasómetro,Atkinson,gol,gol,1
+89,Jugador_166,Tottenham,Premier League,silent check,Anfield,Pitana,penal,gol,0
+15,Jugador_24,Tottenham,Premier League,on-field review,Stamford Bridge,Dean,gol,gol,0
+44,Jugador_433,Newcastle,Premier League,silent check,Emirates,Tello,gol,roja,0
+30,Jugador_403,Newcastle,Premier League,silent check,Old Trafford,Tello,offside,penal,0
+9,Jugador_354,Rosario Central,Argentina,on-field review,Nuevo Gasómetro,Pitana,penal,offside,0
+45,Jugador_480,Huracán,Argentina,on-field review,Cilindro,Taylor,offside,penal,0
+3,Jugador_403,Rosario Central,Argentina,silent check,Tomás Ducó,Pitana,gol,penal,1
+31,Jugador_323,Newcastle,Premier League,silent check,Stamford Bridge,Pitana,penal,penal,1
+37,Jugador_376,Newells,Argentina,on-field review,Libertadores de América,Dean,penal,penal,0
+1,Jugador_434,Newcastle,Premier League,on-field review,Stamford Bridge,Lousteau,penal,penal,0
+93,Jugador_386,Racing,Argentina,on-field review,Monumental,Rapallini,roja,offside,1
+60,Jugador_82,River,Argentina,silent check,Tomás Ducó,Tello,penal,roja,0
+53,Jugador_429,Independiente,Argentina,silent check,Cilindro,Oliver,roja,gol,1
+61,Jugador_331,Independiente,Argentina,on-field review,Bombonera,Rapallini,penal,roja,1
+6,Jugador_290,Chelsea,Premier League,on-field review,Stamford Bridge,Rapallini,offside,gol,0
+61,Jugador_197,Independiente,Argentina,silent check,Monumental,Pitana,offside,offside,0
+13,Jugador_315,Racing,Argentina,on-field review,Bombonera,Tello,offside,roja,0
+1,Jugador_423,Independiente,Argentina,on-field review,Monumental,Lousteau,offside,roja,0
+17,Jugador_80,Newells,Argentina,on-field review,Nuevo Gasómetro,Atkinson,gol,offside,1
+34,Jugador_13,Boca,Argentina,silent check,Tomás Ducó,Pitana,roja,roja,1
+7,Jugador_130,Huracán,Argentina,silent check,Monumental,Taylor,roja,offside,1
+4,Jugador_183,Liverpool,Premier League,silent check,Tottenham Stadium,Dean,roja,gol,0
+79,Jugador_121,Manchester United,Premier League,on-field review,Old Trafford,Pitana,offside,gol,0
+53,Jugador_222,River,Argentina,on-field review,Nuevo Gasómetro,Tello,gol,offside,1
+75,Jugador_10,Independiente,Argentina,on-field review,Monumental,Lousteau,penal,offside,1
+52,Jugador_257,San Lorenzo,Argentina,on-field review,Monumental,Tello,roja,gol,0
+2,Jugador_267,Manchester City,Premier League,silent check,Tottenham Stadium,Oliver,gol,offside,0
+18,Jugador_424,Rosario Central,Argentina,silent check,Tomás Ducó,Rapallini,penal,penal,1
+54,Jugador_135,Liverpool,Premier League,silent check,Stamford Bridge,Dean,gol,gol,0
+42,Jugador_89,Manchester City,Premier League,silent check,Stamford Bridge,Rapallini,gol,roja,0
+30,Jugador_60,Manchester United,Premier League,on-field review,Tottenham Stadium,Pitana,gol,penal,1
+5,Jugador_431,Aston Villa,Premier League,on-field review,Emirates,Oliver,roja,gol,1
+35,Jugador_64,Manchester City,Premier League,silent check,Tottenham Stadium,Oliver,gol,gol,1
+61,Jugador_323,Boca,Argentina,silent check,Monumental,Atkinson,penal,offside,1
+54,Jugador_400,Manchester City,Premier League,silent check,Tottenham Stadium,Pitana,roja,gol,0
+59,Jugador_73,Liverpool,Premier League,silent check,Stamford Bridge,Rapallini,gol,roja,1
+88,Jugador_260,Boca,Argentina,silent check,Nuevo Gasómetro,Pitana,penal,roja,0
+58,Jugador_134,Manchester City,Premier League,silent check,Emirates,Lousteau,gol,offside,1
+21,Jugador_320,Manchester City,Premier League,silent check,Anfield,Taylor,offside,gol,0
+39,Jugador_463,Manchester City,Premier League,on-field review,Tottenham Stadium,Rapallini,penal,penal,0
+7,Jugador_77,Newells,Argentina,silent check,Libertadores de América,Tello,offside,gol,1
+3,Jugador_283,Huracán,Argentina,on-field review,Nuevo Gasómetro,Taylor,roja,offside,0
+45,Jugador_382,Chelsea,Premier League,on-field review,Etihad,Taylor,roja,roja,1
+78,Jugador_107,Manchester City,Premier League,on-field review,Tottenham Stadium,Atkinson,gol,offside,1
+51,Jugador_215,Aston Villa,Premier League,on-field review,Tottenham Stadium,Pitana,gol,gol,0
+48,Jugador_260,Independiente,Argentina,on-field review,Libertadores de América,Pitana,penal,penal,1
+16,Jugador_425,Newcastle,Premier League,on-field review,Anfield,Dean,roja,roja,0
+26,Jugador_138,Newells,Argentina,silent check,Cilindro,Oliver,roja,gol,0
+95,Jugador_311,Arsenal,Premier League,on-field review,Emirates,Dean,gol,roja,1
+92,Jugador_32,Aston Villa,Premier League,silent check,Anfield,Tello,gol,offside,1
+24,Jugador_3,Racing,Argentina,silent check,Bombonera,Atkinson,penal,penal,0
+1,Jugador_270,Rosario Central,Argentina,silent check,Libertadores de América,Rapallini,roja,penal,1
+49,Jugador_370,Independiente,Argentina,silent check,Cilindro,Oliver,roja,offside,0
+40,Jugador_482,Racing,Argentina,on-field review,Nuevo Gasómetro,Rapallini,gol,roja,1
+2,Jugador_315,River,Argentina,on-field review,Bombonera,Rapallini,offside,gol,1
+73,Jugador_479,Tottenham,Premier League,silent check,Old Trafford,Taylor,penal,roja,0
+71,Jugador_337,Chelsea,Premier League,silent check,Emirates,Tello,offside,penal,0
+70,Jugador_409,Liverpool,Premier League,on-field review,Old Trafford,Pitana,gol,roja,1
+94,Jugador_55,Independiente,Argentina,silent check,Tomás Ducó,Lousteau,penal,roja,1
+60,Jugador_136,San Lorenzo,Argentina,silent check,Libertadores de América,Tello,offside,roja,1
+70,Jugador_328,Independiente,Argentina,on-field review,Bombonera,Atkinson,roja,penal,0
+66,Jugador_444,Manchester United,Premier League,on-field review,Old Trafford,Dean,gol,roja,1
+61,Jugador_364,Boca,Argentina,silent check,Cilindro,Lousteau,penal,roja,0
+88,Jugador_112,Huracán,Argentina,on-field review,Bombonera,Rapallini,offside,roja,0
+56,Jugador_101,Newcastle,Premier League,silent check,Tottenham Stadium,Taylor,gol,penal,1
+58,Jugador_320,Aston Villa,Premier League,on-field review,Stamford Bridge,Dean,penal,roja,0
+94,Jugador_492,Boca,Argentina,on-field review,Bombonera,Lousteau,gol,penal,1
+82,Jugador_340,Racing,Argentina,on-field review,Cilindro,Dean,roja,gol,1
+64,Jugador_115,Manchester United,Premier League,silent check,Stamford Bridge,Oliver,offside,offside,1
+23,Jugador_89,Manchester City,Premier League,on-field review,Stamford Bridge,Atkinson,offside,penal,0
+3,Jugador_374,Racing,Argentina,silent check,Libertadores de América,Pitana,roja,roja,1
+22,Jugador_322,River,Argentina,on-field review,Libertadores de América,Atkinson,penal,gol,1
+79,Jugador_404,Boca,Argentina,silent check,Bombonera,Taylor,offside,roja,0
+50,Jugador_465,Manchester City,Premier League,silent check,Old Trafford,Oliver,penal,offside,1
+68,Jugador_325,Arsenal,Premier League,silent check,Etihad,Atkinson,offside,gol,0
+15,Jugador_93,Liverpool,Premier League,silent check,Old Trafford,Atkinson,gol,offside,1
+4,Jugador_85,Tottenham,Premier League,silent check,Stamford Bridge,Rapallini,offside,gol,1
+90,Jugador_95,Manchester City,Premier League,silent check,Anfield,Lousteau,penal,offside,0
+92,Jugador_187,Racing,Argentina,silent check,Cilindro,Pitana,roja,gol,0
+57,Jugador_426,River,Argentina,on-field review,Monumental,Lousteau,gol,offside,0
+95,Jugador_246,Tottenham,Premier League,silent check,Old Trafford,Rapallini,offside,roja,0
+3,Jugador_103,Independiente,Argentina,on-field review,Libertadores de América,Rapallini,offside,roja,1
+18,Jugador_169,Independiente,Argentina,silent check,Tomás Ducó,Dean,offside,offside,0
+86,Jugador_124,Chelsea,Premier League,on-field review,Stamford Bridge,Taylor,gol,penal,1
+37,Jugador_234,Rosario Central,Argentina,on-field review,Cilindro,Lousteau,gol,gol,1
+57,Jugador_66,Aston Villa,Premier League,on-field review,Tottenham Stadium,Oliver,gol,offside,0
+9,Jugador_447,Tottenham,Premier League,silent check,Stamford Bridge,Oliver,offside,penal,0
+13,Jugador_287,Liverpool,Premier League,on-field review,Old Trafford,Taylor,gol,penal,0
+19,Jugador_91,San Lorenzo,Argentina,silent check,Nuevo Gasómetro,Oliver,penal,offside,0
+36,Jugador_388,Tottenham,Premier League,on-field review,Etihad,Tello,gol,gol,0
+87,Jugador_307,Manchester United,Premier League,on-field review,Stamford Bridge,Oliver,roja,gol,1
+1,Jugador_343,San Lorenzo,Argentina,on-field review,Bombonera,Lousteau,penal,penal,1
+19,Jugador_356,Manchester United,Premier League,silent check,Stamford Bridge,Tello,penal,offside,1
+33,Jugador_165,Manchester City,Premier League,on-field review,Stamford Bridge,Atkinson,gol,gol,1
+39,Jugador_172,River,Argentina,silent check,Libertadores de América,Oliver,penal,penal,1
+1,Jugador_411,Boca,Argentina,on-field review,Monumental,Pitana,penal,gol,1
+31,Jugador_343,Racing,Argentina,silent check,Tomás Ducó,Dean,roja,penal,0
+12,Jugador_19,Newcastle,Premier League,silent check,Old Trafford,Atkinson,roja,offside,1
+45,Jugador_457,Tottenham,Premier League,on-field review,Tottenham Stadium,Oliver,roja,roja,0
+18,Jugador_240,Chelsea,Premier League,silent check,Emirates,Dean,penal,roja,1
+94,Jugador_447,Newcastle,Premier League,on-field review,Anfield,Pitana,offside,roja,0
+61,Jugador_436,Liverpool,Premier League,silent check,Emirates,Oliver,roja,roja,0
+45,Jugador_263,Rosario Central,Argentina,silent check,Libertadores de América,Tello,penal,penal,1
+80,Jugador_237,Independiente,Argentina,on-field review,Libertadores de América,Lousteau,offside,gol,1
+82,Jugador_226,Chelsea,Premier League,on-field review,Anfield,Dean,gol,offside,1
+42,Jugador_349,Manchester United,Premier League,silent check,Old Trafford,Tello,offside,gol,1
+56,Jugador_309,Rosario Central,Argentina,on-field review,Bombonera,Lousteau,penal,gol,0
+19,Jugador_136,Manchester City,Premier League,silent check,Stamford Bridge,Oliver,gol,penal,1
+50,Jugador_105,Tottenham,Premier League,on-field review,Anfield,Dean,offside,offside,0
+19,Jugador_340,Boca,Argentina,silent check,Libertadores de América,Taylor,offside,offside,1
+46,Jugador_152,Boca,Argentina,on-field review,Nuevo Gasómetro,Pitana,roja,gol,0
+36,Jugador_247,Newells,Argentina,on-field review,Bombonera,Pitana,gol,gol,1
+64,Jugador_131,Newcastle,Premier League,on-field review,Emirates,Tello,penal,gol,0
+8,Jugador_248,Arsenal,Premier League,silent check,Stamford Bridge,Atkinson,gol,offside,0
+47,Jugador_189,Aston Villa,Premier League,silent check,Old Trafford,Taylor,gol,roja,0
+55,Jugador_110,Racing,Argentina,on-field review,Monumental,Rapallini,roja,penal,1
+52,Jugador_77,Racing,Argentina,on-field review,Cilindro,Oliver,penal,penal,0
+62,Jugador_233,San Lorenzo,Argentina,silent check,Tomás Ducó,Rapallini,penal,roja,1
+92,Jugador_440,Tottenham,Premier League,silent check,Emirates,Tello,offside,offside,1
+21,Jugador_162,Arsenal,Premier League,on-field review,Tottenham Stadium,Pitana,penal,offside,0
+72,Jugador_103,Chelsea,Premier League,on-field review,Emirates,Lousteau,penal,gol,1
+11,Jugador_458,Racing,Argentina,silent check,Libertadores de América,Lousteau,roja,penal,0
+14,Jugador_321,Newcastle,Premier League,silent check,Anfield,Tello,gol,offside,1
+35,Jugador_463,Independiente,Argentina,on-field review,Cilindro,Dean,penal,gol,1
+41,Jugador_229,Independiente,Argentina,silent check,Libertadores de América,Taylor,roja,offside,0
+56,Jugador_344,Chelsea,Premier League,silent check,Tottenham Stadium,Lousteau,penal,offside,1
+88,Jugador_279,Arsenal,Premier League,on-field review,Etihad,Taylor,penal,offside,1
+75,Jugador_427,Chelsea,Premier League,silent check,Emirates,Atkinson,gol,roja,1
+60,Jugador_376,Boca,Argentina,silent check,Libertadores de América,Taylor,penal,gol,1
+49,Jugador_237,Chelsea,Premier League,silent check,Anfield,Taylor,offside,penal,0
+14,Jugador_63,River,Argentina,silent check,Monumental,Dean,penal,offside,1
+92,Jugador_99,Arsenal,Premier League,silent check,Etihad,Lousteau,penal,gol,1
+28,Jugador_295,Manchester United,Premier League,silent check,Anfield,Pitana,gol,offside,1
+76,Jugador_432,Aston Villa,Premier League,on-field review,Tottenham Stadium,Lousteau,penal,penal,1
+9,Jugador_47,Aston Villa,Premier League,on-field review,Old Trafford,Oliver,offside,gol,0
+77,Jugador_328,Racing,Argentina,silent check,Tomás Ducó,Pitana,roja,gol,0
+21,Jugador_266,Manchester City,Premier League,silent check,Old Trafford,Pitana,gol,roja,1
+53,Jugador_177,Liverpool,Premier League,silent check,Etihad,Pitana,roja,penal,1
+46,Jugador_435,Chelsea,Premier League,on-field review,Emirates,Atkinson,offside,gol,1
+66,Jugador_144,Newcastle,Premier League,on-field review,Etihad,Rapallini,gol,gol,0
+87,Jugador_28,Independiente,Argentina,on-field review,Nuevo Gasómetro,Dean,penal,offside,1
+10,Jugador_491,Arsenal,Premier League,on-field review,Old Trafford,Oliver,gol,penal,0
+60,Jugador_430,San Lorenzo,Argentina,silent check,Libertadores de América,Rapallini,gol,gol,1
+50,Jugador_130,Rosario Central,Argentina,on-field review,Cilindro,Oliver,penal,gol,0
+91,Jugador_486,Chelsea,Premier League,silent check,Emirates,Lousteau,offside,offside,1
+47,Jugador_47,Boca,Argentina,on-field review,Cilindro,Taylor,offside,offside,0
+71,Jugador_256,Newells,Argentina,on-field review,Monumental,Atkinson,gol,offside,0
+29,Jugador_401,Rosario Central,Argentina,on-field review,Monumental,Rapallini,offside,offside,0
+47,Jugador_17,Newcastle,Premier League,on-field review,Stamford Bridge,Oliver,offside,roja,1
+60,Jugador_438,Manchester United,Premier League,on-field review,Emirates,Dean,offside,offside,0
+38,Jugador_378,Newcastle,Premier League,on-field review,Old Trafford,Atkinson,penal,offside,0
+92,Jugador_114,Newcastle,Premier League,on-field review,Tottenham Stadium,Atkinson,offside,gol,0
+92,Jugador_334,Independiente,Argentina,silent check,Nuevo Gasómetro,Rapallini,penal,gol,0
+54,Jugador_132,Rosario Central,Argentina,on-field review,Tomás Ducó,Oliver,gol,gol,0
+9,Jugador_291,Aston Villa,Premier League,silent check,Emirates,Dean,gol,roja,1
+10,Jugador_272,Racing,Argentina,on-field review,Cilindro,Dean,penal,gol,1
+59,Jugador_246,Huracán,Argentina,silent check,Cilindro,Lousteau,penal,offside,1
+54,Jugador_138,San Lorenzo,Argentina,on-field review,Tomás Ducó,Taylor,offside,roja,1
+55,Jugador_203,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Rapallini,penal,penal,1
+37,Jugador_4,Rosario Central,Argentina,silent check,Monumental,Tello,penal,roja,1
+5,Jugador_274,Tottenham,Premier League,on-field review,Tottenham Stadium,Pitana,penal,penal,1
+37,Jugador_234,Chelsea,Premier League,on-field review,Old Trafford,Pitana,offside,offside,1
+93,Jugador_485,Aston Villa,Premier League,silent check,Stamford Bridge,Oliver,gol,roja,1
+67,Jugador_77,Tottenham,Premier League,silent check,Stamford Bridge,Oliver,penal,penal,0
+68,Jugador_266,Aston Villa,Premier League,silent check,Etihad,Lousteau,offside,gol,0
+14,Jugador_60,Aston Villa,Premier League,on-field review,Old Trafford,Rapallini,roja,offside,0
+11,Jugador_193,Independiente,Argentina,on-field review,Nuevo Gasómetro,Tello,roja,gol,0
+64,Jugador_3,River,Argentina,on-field review,Bombonera,Rapallini,gol,penal,1
+89,Jugador_162,Chelsea,Premier League,silent check,Etihad,Taylor,roja,penal,0
+4,Jugador_68,Newells,Argentina,silent check,Bombonera,Atkinson,roja,gol,1
+67,Jugador_281,Aston Villa,Premier League,silent check,Old Trafford,Dean,offside,offside,0
+43,Jugador_139,Tottenham,Premier League,silent check,Etihad,Lousteau,gol,roja,0
+58,Jugador_268,Manchester City,Premier League,silent check,Etihad,Tello,roja,gol,1
+84,Jugador_181,Arsenal,Premier League,on-field review,Anfield,Oliver,gol,penal,0
+6,Jugador_272,Independiente,Argentina,silent check,Tomás Ducó,Lousteau,gol,penal,1
+79,Jugador_21,Manchester City,Premier League,on-field review,Anfield,Tello,offside,penal,0
+50,Jugador_115,Independiente,Argentina,silent check,Tomás Ducó,Lousteau,offside,roja,0
+85,Jugador_389,Manchester City,Premier League,silent check,Tottenham Stadium,Dean,offside,roja,1
+88,Jugador_420,Manchester City,Premier League,silent check,Anfield,Rapallini,offside,offside,1
+34,Jugador_386,Liverpool,Premier League,silent check,Old Trafford,Rapallini,penal,penal,0
+79,Jugador_448,Racing,Argentina,silent check,Bombonera,Pitana,roja,penal,0
+37,Jugador_425,Manchester City,Premier League,on-field review,Old Trafford,Dean,offside,roja,1
+64,Jugador_463,Manchester City,Premier League,silent check,Stamford Bridge,Atkinson,penal,offside,1
+36,Jugador_51,Chelsea,Premier League,on-field review,Tottenham Stadium,Taylor,offside,gol,0
+54,Jugador_21,Manchester City,Premier League,silent check,Anfield,Taylor,gol,offside,0
+25,Jugador_410,Tottenham,Premier League,silent check,Old Trafford,Atkinson,penal,gol,0
+10,Jugador_231,Chelsea,Premier League,on-field review,Tottenham Stadium,Dean,penal,offside,1
+18,Jugador_162,Newells,Argentina,on-field review,Cilindro,Lousteau,penal,gol,1
+13,Jugador_94,Rosario Central,Argentina,silent check,Tomás Ducó,Pitana,penal,penal,0
+89,Jugador_186,San Lorenzo,Argentina,silent check,Libertadores de América,Taylor,roja,offside,0
+91,Jugador_157,Chelsea,Premier League,silent check,Anfield,Oliver,roja,penal,0
+20,Jugador_258,Huracán,Argentina,silent check,Cilindro,Pitana,penal,penal,1
+8,Jugador_342,River,Argentina,on-field review,Cilindro,Pitana,penal,roja,1
+23,Jugador_293,Manchester City,Premier League,on-field review,Anfield,Pitana,roja,roja,0
+5,Jugador_35,Arsenal,Premier League,on-field review,Stamford Bridge,Rapallini,penal,penal,0
+69,Jugador_301,Aston Villa,Premier League,on-field review,Tottenham Stadium,Tello,roja,offside,0
+32,Jugador_161,River,Argentina,on-field review,Nuevo Gasómetro,Lousteau,penal,roja,1
+40,Jugador_40,Manchester City,Premier League,on-field review,Emirates,Taylor,penal,penal,0
+31,Jugador_6,Liverpool,Premier League,silent check,Emirates,Oliver,roja,gol,1
+62,Jugador_461,Huracán,Argentina,silent check,Bombonera,Taylor,gol,gol,1
+36,Jugador_449,Newcastle,Premier League,on-field review,Stamford Bridge,Tello,roja,offside,0
+34,Jugador_75,Arsenal,Premier League,on-field review,Etihad,Rapallini,penal,gol,1
+66,Jugador_451,Manchester United,Premier League,on-field review,Tottenham Stadium,Rapallini,penal,penal,1
+38,Jugador_87,Independiente,Argentina,silent check,Nuevo Gasómetro,Dean,offside,roja,0
+1,Jugador_421,River,Argentina,silent check,Monumental,Tello,roja,gol,1
+81,Jugador_215,Manchester City,Premier League,silent check,Tottenham Stadium,Oliver,penal,gol,0
+31,Jugador_145,Manchester City,Premier League,silent check,Etihad,Oliver,offside,offside,1
+11,Jugador_379,Newcastle,Premier League,silent check,Stamford Bridge,Lousteau,gol,offside,0
+74,Jugador_19,Rosario Central,Argentina,on-field review,Tomás Ducó,Rapallini,offside,offside,1
+70,Jugador_65,Newells,Argentina,on-field review,Cilindro,Rapallini,roja,roja,0
+24,Jugador_394,Manchester United,Premier League,on-field review,Anfield,Pitana,penal,roja,0
+94,Jugador_346,Arsenal,Premier League,silent check,Emirates,Oliver,roja,roja,1
+6,Jugador_213,Tottenham,Premier League,on-field review,Stamford Bridge,Dean,offside,penal,0
+16,Jugador_71,Arsenal,Premier League,on-field review,Etihad,Atkinson,roja,offside,0
+49,Jugador_142,Newells,Argentina,silent check,Tomás Ducó,Rapallini,offside,penal,0
+39,Jugador_474,Newcastle,Premier League,silent check,Old Trafford,Taylor,roja,roja,0
+67,Jugador_232,Rosario Central,Argentina,on-field review,Monumental,Tello,offside,roja,0
+8,Jugador_124,Newells,Argentina,on-field review,Cilindro,Atkinson,gol,roja,0
+82,Jugador_14,Newcastle,Premier League,silent check,Old Trafford,Atkinson,roja,offside,0
+32,Jugador_278,Aston Villa,Premier League,on-field review,Old Trafford,Atkinson,offside,offside,1
+47,Jugador_315,Boca,Argentina,on-field review,Nuevo Gasómetro,Atkinson,roja,offside,1
+4,Jugador_26,Manchester City,Premier League,silent check,Etihad,Pitana,offside,gol,1
+69,Jugador_164,Chelsea,Premier League,on-field review,Etihad,Pitana,penal,gol,0
+65,Jugador_496,Manchester United,Premier League,on-field review,Stamford Bridge,Dean,penal,roja,1
+67,Jugador_309,Aston Villa,Premier League,on-field review,Emirates,Pitana,gol,penal,0
+75,Jugador_326,San Lorenzo,Argentina,on-field review,Cilindro,Rapallini,roja,roja,0
+56,Jugador_113,Liverpool,Premier League,silent check,Emirates,Atkinson,gol,gol,1
+22,Jugador_487,Manchester United,Premier League,on-field review,Tottenham Stadium,Lousteau,offside,roja,0
+28,Jugador_24,Racing,Argentina,on-field review,Monumental,Tello,offside,penal,1
+68,Jugador_174,Newcastle,Premier League,silent check,Anfield,Atkinson,gol,offside,1
+68,Jugador_212,Arsenal,Premier League,on-field review,Stamford Bridge,Atkinson,penal,offside,0
+35,Jugador_342,Manchester United,Premier League,on-field review,Emirates,Pitana,penal,offside,1
+8,Jugador_50,Racing,Argentina,on-field review,Nuevo Gasómetro,Atkinson,penal,penal,1
+23,Jugador_76,Rosario Central,Argentina,silent check,Libertadores de América,Pitana,gol,offside,1
+93,Jugador_149,Newcastle,Premier League,silent check,Etihad,Atkinson,penal,gol,0
+14,Jugador_121,Arsenal,Premier League,silent check,Stamford Bridge,Rapallini,offside,roja,1
+91,Jugador_284,San Lorenzo,Argentina,on-field review,Cilindro,Dean,offside,penal,1
+57,Jugador_349,Newcastle,Premier League,silent check,Tottenham Stadium,Taylor,roja,offside,1
+85,Jugador_11,Newcastle,Premier League,silent check,Anfield,Lousteau,gol,offside,0
+90,Jugador_60,San Lorenzo,Argentina,silent check,Monumental,Rapallini,penal,offside,1
+25,Jugador_190,Chelsea,Premier League,on-field review,Tottenham Stadium,Atkinson,penal,penal,0
+68,Jugador_431,Aston Villa,Premier League,silent check,Etihad,Oliver,penal,roja,1
+65,Jugador_60,Newcastle,Premier League,silent check,Emirates,Lousteau,penal,offside,0
+5,Jugador_226,Liverpool,Premier League,on-field review,Etihad,Lousteau,offside,gol,0
+78,Jugador_107,Tottenham,Premier League,on-field review,Emirates,Oliver,offside,roja,1
+74,Jugador_260,Boca,Argentina,on-field review,Bombonera,Taylor,roja,penal,1
+7,Jugador_182,San Lorenzo,Argentina,silent check,Bombonera,Atkinson,penal,penal,1
+10,Jugador_129,San Lorenzo,Argentina,on-field review,Libertadores de América,Dean,gol,offside,1
+32,Jugador_353,San Lorenzo,Argentina,on-field review,Monumental,Dean,penal,gol,1
+25,Jugador_233,Newells,Argentina,silent check,Bombonera,Lousteau,gol,penal,0
+80,Jugador_91,Manchester City,Premier League,silent check,Emirates,Dean,offside,gol,1
+81,Jugador_350,Aston Villa,Premier League,on-field review,Stamford Bridge,Pitana,roja,roja,1
+32,Jugador_201,Boca,Argentina,silent check,Nuevo Gasómetro,Pitana,offside,roja,0
+84,Jugador_321,Arsenal,Premier League,silent check,Stamford Bridge,Taylor,gol,offside,0
+88,Jugador_451,Chelsea,Premier League,silent check,Etihad,Atkinson,offside,gol,1
+51,Jugador_9,Newcastle,Premier League,on-field review,Anfield,Rapallini,penal,penal,0
+70,Jugador_350,Independiente,Argentina,silent check,Nuevo Gasómetro,Pitana,penal,penal,0
+86,Jugador_433,Liverpool,Premier League,silent check,Emirates,Atkinson,offside,roja,0
+51,Jugador_47,Huracán,Argentina,on-field review,Nuevo Gasómetro,Rapallini,gol,gol,1
+35,Jugador_47,Chelsea,Premier League,on-field review,Old Trafford,Tello,roja,gol,1
+48,Jugador_455,Boca,Argentina,silent check,Tomás Ducó,Tello,offside,penal,1
+53,Jugador_355,Liverpool,Premier League,on-field review,Etihad,Dean,offside,roja,0
+54,Jugador_418,Boca,Argentina,silent check,Cilindro,Taylor,penal,roja,1
+29,Jugador_184,Boca,Argentina,silent check,Libertadores de América,Rapallini,roja,roja,1
+43,Jugador_210,Chelsea,Premier League,silent check,Emirates,Tello,roja,offside,0
+35,Jugador_204,Huracán,Argentina,on-field review,Libertadores de América,Atkinson,penal,gol,1
+70,Jugador_337,Newells,Argentina,silent check,Libertadores de América,Pitana,penal,penal,0
+75,Jugador_416,Huracán,Argentina,silent check,Libertadores de América,Tello,gol,roja,0
+3,Jugador_436,Chelsea,Premier League,silent check,Old Trafford,Tello,gol,offside,0
+32,Jugador_233,Liverpool,Premier League,silent check,Emirates,Oliver,offside,offside,0
+7,Jugador_461,Chelsea,Premier League,silent check,Etihad,Oliver,gol,offside,0
+54,Jugador_336,San Lorenzo,Argentina,silent check,Bombonera,Oliver,offside,gol,1
+51,Jugador_50,Manchester United,Premier League,silent check,Emirates,Oliver,penal,roja,1
+84,Jugador_427,Racing,Argentina,silent check,Cilindro,Oliver,gol,gol,1
+80,Jugador_421,Manchester City,Premier League,on-field review,Etihad,Dean,roja,penal,0
+28,Jugador_28,Boca,Argentina,silent check,Bombonera,Dean,penal,roja,0
+68,Jugador_262,Independiente,Argentina,on-field review,Tomás Ducó,Oliver,gol,penal,0
+30,Jugador_199,Boca,Argentina,on-field review,Tomás Ducó,Lousteau,gol,penal,1
+89,Jugador_444,Chelsea,Premier League,silent check,Etihad,Oliver,penal,roja,0
+95,Jugador_55,Manchester City,Premier League,silent check,Old Trafford,Lousteau,gol,offside,0
+11,Jugador_427,Manchester City,Premier League,silent check,Etihad,Lousteau,offside,roja,0
+91,Jugador_101,Newcastle,Premier League,silent check,Stamford Bridge,Lousteau,roja,roja,0
+35,Jugador_409,Newells,Argentina,silent check,Monumental,Atkinson,penal,offside,1
+8,Jugador_377,Racing,Argentina,silent check,Libertadores de América,Oliver,penal,penal,0
+27,Jugador_414,Rosario Central,Argentina,silent check,Tomás Ducó,Atkinson,roja,penal,0
+11,Jugador_228,Huracán,Argentina,silent check,Nuevo Gasómetro,Rapallini,penal,roja,0
+93,Jugador_182,Huracán,Argentina,on-field review,Libertadores de América,Rapallini,gol,gol,0
+28,Jugador_237,Independiente,Argentina,silent check,Nuevo Gasómetro,Lousteau,penal,gol,1
+77,Jugador_250,Liverpool,Premier League,on-field review,Old Trafford,Atkinson,penal,gol,0
+71,Jugador_101,Newcastle,Premier League,on-field review,Emirates,Taylor,offside,penal,1
+44,Jugador_468,River,Argentina,on-field review,Tomás Ducó,Dean,roja,roja,1
+93,Jugador_14,Newells,Argentina,on-field review,Bombonera,Dean,offside,penal,1
+15,Jugador_467,Chelsea,Premier League,on-field review,Etihad,Rapallini,penal,offside,1
+56,Jugador_134,San Lorenzo,Argentina,silent check,Tomás Ducó,Tello,gol,offside,0
+48,Jugador_330,Manchester City,Premier League,silent check,Etihad,Taylor,offside,penal,0
+14,Jugador_48,Racing,Argentina,on-field review,Monumental,Taylor,penal,roja,1
+57,Jugador_393,Newcastle,Premier League,on-field review,Old Trafford,Dean,roja,penal,0
+59,Jugador_401,Newells,Argentina,on-field review,Tomás Ducó,Taylor,penal,penal,0
+12,Jugador_118,Manchester City,Premier League,on-field review,Anfield,Oliver,offside,roja,0
+8,Jugador_109,Aston Villa,Premier League,silent check,Etihad,Lousteau,roja,offside,1
+67,Jugador_148,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Atkinson,offside,roja,0
+26,Jugador_92,Aston Villa,Premier League,on-field review,Etihad,Taylor,penal,offside,1
+88,Jugador_15,Aston Villa,Premier League,on-field review,Etihad,Dean,roja,gol,1
+52,Jugador_347,Boca,Argentina,silent check,Nuevo Gasómetro,Lousteau,offside,gol,0
+9,Jugador_439,Manchester City,Premier League,on-field review,Anfield,Atkinson,penal,gol,0
+33,Jugador_210,Independiente,Argentina,on-field review,Monumental,Taylor,offside,roja,0
+53,Jugador_421,Boca,Argentina,silent check,Monumental,Tello,penal,penal,0
+54,Jugador_309,Aston Villa,Premier League,on-field review,Old Trafford,Oliver,gol,roja,1
+16,Jugador_185,Newells,Argentina,on-field review,Libertadores de América,Rapallini,roja,penal,0
+74,Jugador_101,Liverpool,Premier League,on-field review,Etihad,Tello,offside,offside,0
+51,Jugador_415,Newells,Argentina,silent check,Bombonera,Rapallini,offside,gol,1
+79,Jugador_420,Newcastle,Premier League,on-field review,Stamford Bridge,Pitana,offside,roja,0
+40,Jugador_127,Newells,Argentina,silent check,Tomás Ducó,Tello,penal,offside,0
+7,Jugador_377,Racing,Argentina,on-field review,Tomás Ducó,Lousteau,penal,offside,0
+29,Jugador_460,Huracán,Argentina,silent check,Nuevo Gasómetro,Rapallini,offside,offside,0
+88,Jugador_397,River,Argentina,silent check,Cilindro,Rapallini,roja,roja,1
+7,Jugador_458,Manchester United,Premier League,silent check,Emirates,Tello,gol,roja,0
+67,Jugador_287,Manchester City,Premier League,silent check,Tottenham Stadium,Tello,penal,offside,0
+89,Jugador_424,River,Argentina,on-field review,Bombonera,Tello,offside,gol,0
+89,Jugador_421,Newcastle,Premier League,on-field review,Emirates,Rapallini,offside,gol,0
+33,Jugador_292,Chelsea,Premier League,on-field review,Etihad,Dean,offside,gol,1
+63,Jugador_305,Newcastle,Premier League,silent check,Etihad,Dean,gol,gol,0
+6,Jugador_327,River,Argentina,on-field review,Bombonera,Rapallini,gol,gol,0
+84,Jugador_21,Arsenal,Premier League,on-field review,Emirates,Lousteau,offside,roja,0
+80,Jugador_322,Newcastle,Premier League,silent check,Tottenham Stadium,Dean,penal,offside,1
+76,Jugador_382,Independiente,Argentina,silent check,Libertadores de América,Rapallini,gol,penal,0
+69,Jugador_361,Manchester City,Premier League,on-field review,Tottenham Stadium,Pitana,offside,penal,0
+55,Jugador_193,Newells,Argentina,on-field review,Tomás Ducó,Dean,offside,offside,0
+37,Jugador_455,Tottenham,Premier League,silent check,Tottenham Stadium,Lousteau,penal,penal,1
+64,Jugador_127,Manchester United,Premier League,on-field review,Stamford Bridge,Rapallini,penal,gol,0
+83,Jugador_73,Tottenham,Premier League,on-field review,Stamford Bridge,Pitana,roja,roja,0
+79,Jugador_301,Racing,Argentina,silent check,Monumental,Dean,penal,offside,1
+58,Jugador_411,River,Argentina,silent check,Tomás Ducó,Lousteau,offside,gol,1
+6,Jugador_72,Racing,Argentina,on-field review,Bombonera,Dean,gol,gol,0
+21,Jugador_455,Arsenal,Premier League,on-field review,Anfield,Oliver,gol,penal,1
+78,Jugador_489,Tottenham,Premier League,on-field review,Old Trafford,Dean,penal,roja,1
+41,Jugador_202,Rosario Central,Argentina,on-field review,Bombonera,Lousteau,roja,gol,1
+56,Jugador_87,Independiente,Argentina,silent check,Monumental,Tello,gol,gol,1
+84,Jugador_104,San Lorenzo,Argentina,silent check,Nuevo Gasómetro,Lousteau,gol,roja,0
+94,Jugador_271,Racing,Argentina,on-field review,Cilindro,Dean,gol,penal,0
+9,Jugador_207,Manchester City,Premier League,silent check,Emirates,Tello,penal,offside,0
+39,Jugador_9,Tottenham,Premier League,silent check,Stamford Bridge,Atkinson,offside,roja,1
+22,Jugador_114,Aston Villa,Premier League,silent check,Anfield,Rapallini,penal,roja,1
+30,Jugador_450,Aston Villa,Premier League,on-field review,Stamford Bridge,Pitana,offside,offside,1
+29,Jugador_225,Boca,Argentina,on-field review,Monumental,Lousteau,penal,gol,0
+65,Jugador_366,San Lorenzo,Argentina,silent check,Libertadores de América,Taylor,penal,offside,0
+21,Jugador_254,Boca,Argentina,silent check,Monumental,Tello,offside,roja,1
+48,Jugador_166,Huracán,Argentina,silent check,Monumental,Atkinson,offside,penal,0
+17,Jugador_164,Huracán,Argentina,silent check,Cilindro,Taylor,penal,offside,1
+33,Jugador_245,Independiente,Argentina,on-field review,Libertadores de América,Oliver,roja,penal,0
+87,Jugador_449,San Lorenzo,Argentina,on-field review,Tomás Ducó,Atkinson,penal,roja,1
+74,Jugador_468,Newcastle,Premier League,on-field review,Tottenham Stadium,Tello,roja,penal,1
+68,Jugador_442,Huracán,Argentina,silent check,Bombonera,Dean,offside,penal,1
+4,Jugador_312,Manchester United,Premier League,silent check,Emirates,Tello,gol,penal,1
+7,Jugador_301,Newells,Argentina,on-field review,Libertadores de América,Pitana,roja,offside,1
+40,Jugador_241,Rosario Central,Argentina,on-field review,Tomás Ducó,Rapallini,roja,roja,1
+56,Jugador_178,Newcastle,Premier League,on-field review,Tottenham Stadium,Lousteau,offside,offside,0
+40,Jugador_108,San Lorenzo,Argentina,silent check,Monumental,Lousteau,penal,penal,0
+73,Jugador_275,San Lorenzo,Argentina,on-field review,Cilindro,Tello,penal,roja,1
+24,Jugador_432,Newcastle,Premier League,silent check,Emirates,Taylor,roja,penal,1
+11,Jugador_208,Rosario Central,Argentina,silent check,Libertadores de América,Oliver,penal,gol,0
+72,Jugador_194,Liverpool,Premier League,on-field review,Old Trafford,Rapallini,penal,roja,1
+88,Jugador_219,Liverpool,Premier League,on-field review,Tottenham Stadium,Pitana,penal,penal,0
+29,Jugador_163,River,Argentina,silent check,Tomás Ducó,Taylor,offside,offside,0
+77,Jugador_355,Manchester United,Premier League,silent check,Anfield,Dean,penal,gol,1
+94,Jugador_50,Rosario Central,Argentina,silent check,Tomás Ducó,Lousteau,penal,roja,0
+28,Jugador_237,Aston Villa,Premier League,on-field review,Stamford Bridge,Taylor,roja,offside,0
+33,Jugador_70,Boca,Argentina,on-field review,Bombonera,Rapallini,roja,penal,0
+2,Jugador_434,Huracán,Argentina,silent check,Nuevo Gasómetro,Taylor,roja,gol,1
+81,Jugador_247,Newells,Argentina,silent check,Bombonera,Dean,penal,gol,0
+77,Jugador_396,Rosario Central,Argentina,on-field review,Bombonera,Pitana,gol,offside,1
+41,Jugador_379,Racing,Argentina,silent check,Bombonera,Lousteau,offside,gol,1
+69,Jugador_31,Racing,Argentina,silent check,Monumental,Lousteau,penal,gol,1
+47,Jugador_255,Arsenal,Premier League,on-field review,Emirates,Dean,offside,roja,1
+23,Jugador_345,River,Argentina,on-field review,Tomás Ducó,Dean,gol,roja,1
+32,Jugador_303,Rosario Central,Argentina,silent check,Cilindro,Dean,offside,roja,0
+30,Jugador_358,San Lorenzo,Argentina,on-field review,Tomás Ducó,Dean,offside,gol,0
+90,Jugador_77,Aston Villa,Premier League,silent check,Anfield,Rapallini,roja,gol,0
+31,Jugador_298,Newcastle,Premier League,on-field review,Old Trafford,Pitana,gol,roja,0
+68,Jugador_25,Aston Villa,Premier League,on-field review,Tottenham Stadium,Lousteau,penal,gol,1
+12,Jugador_403,Manchester United,Premier League,on-field review,Old Trafford,Taylor,roja,gol,0
+63,Jugador_32,Liverpool,Premier League,on-field review,Old Trafford,Rapallini,gol,gol,0
+85,Jugador_290,Newells,Argentina,on-field review,Cilindro,Pitana,gol,offside,1
+49,Jugador_40,River,Argentina,on-field review,Tomás Ducó,Rapallini,penal,roja,0
+2,Jugador_323,Tottenham,Premier League,on-field review,Etihad,Oliver,penal,penal,0
+74,Jugador_329,Arsenal,Premier League,silent check,Emirates,Rapallini,roja,offside,1
+6,Jugador_386,Manchester City,Premier League,silent check,Stamford Bridge,Taylor,offside,offside,1
+10,Jugador_479,Independiente,Argentina,on-field review,Libertadores de América,Oliver,gol,gol,1
+49,Jugador_423,Racing,Argentina,on-field review,Tomás Ducó,Pitana,gol,penal,0
+52,Jugador_149,Arsenal,Premier League,on-field review,Etihad,Tello,offside,penal,1
+54,Jugador_35,Newells,Argentina,on-field review,Libertadores de América,Oliver,roja,gol,0
+71,Jugador_98,Huracán,Argentina,silent check,Tomás Ducó,Dean,roja,penal,0
+20,Jugador_248,Racing,Argentina,silent check,Tomás Ducó,Dean,offside,offside,1
+79,Jugador_185,River,Argentina,silent check,Tomás Ducó,Atkinson,penal,gol,0
+7,Jugador_196,Newcastle,Premier League,on-field review,Etihad,Tello,penal,gol,1
+22,Jugador_356,River,Argentina,silent check,Cilindro,Taylor,roja,penal,1
+79,Jugador_227,Arsenal,Premier League,silent check,Old Trafford,Atkinson,penal,penal,0
+14,Jugador_34,Huracán,Argentina,silent check,Tomás Ducó,Rapallini,gol,offside,0
+64,Jugador_459,Liverpool,Premier League,silent check,Anfield,Lousteau,penal,penal,0
+9,Jugador_35,Manchester United,Premier League,on-field review,Tottenham Stadium,Pitana,penal,offside,1
+16,Jugador_495,Aston Villa,Premier League,on-field review,Anfield,Lousteau,gol,offside,1
+60,Jugador_6,Tottenham,Premier League,on-field review,Old Trafford,Taylor,penal,offside,1
+47,Jugador_202,Manchester City,Premier League,on-field review,Stamford Bridge,Pitana,roja,penal,0
+21,Jugador_251,Tottenham,Premier League,silent check,Stamford Bridge,Lousteau,offside,roja,0
+85,Jugador_291,Racing,Argentina,silent check,Monumental,Tello,roja,penal,0
+58,Jugador_271,Aston Villa,Premier League,silent check,Old Trafford,Oliver,roja,offside,0
+81,Jugador_178,Liverpool,Premier League,silent check,Anfield,Oliver,roja,penal,0
+36,Jugador_458,Racing,Argentina,on-field review,Monumental,Atkinson,roja,gol,0
+59,Jugador_480,Independiente,Argentina,on-field review,Nuevo Gasómetro,Tello,penal,offside,1
+33,Jugador_477,Tottenham,Premier League,on-field review,Stamford Bridge,Atkinson,penal,roja,0
+89,Jugador_163,San Lorenzo,Argentina,on-field review,Cilindro,Tello,gol,offside,0
+20,Jugador_220,Newells,Argentina,on-field review,Monumental,Lousteau,penal,roja,1
+84,Jugador_121,San Lorenzo,Argentina,on-field review,Monumental,Lousteau,roja,offside,0
+83,Jugador_476,Manchester City,Premier League,on-field review,Emirates,Tello,penal,gol,1
+27,Jugador_89,Manchester United,Premier League,silent check,Stamford Bridge,Taylor,roja,gol,0
+35,Jugador_390,Arsenal,Premier League,silent check,Anfield,Lousteau,offside,penal,0
+21,Jugador_339,Manchester City,Premier League,silent check,Etihad,Atkinson,penal,roja,1
+83,Jugador_100,Newcastle,Premier League,silent check,Etihad,Oliver,roja,roja,1
+33,Jugador_483,Liverpool,Premier League,silent check,Emirates,Oliver,penal,roja,1
+18,Jugador_288,Aston Villa,Premier League,on-field review,Anfield,Taylor,gol,penal,0
+73,Jugador_99,River,Argentina,on-field review,Tomás Ducó,Pitana,penal,roja,1
+62,Jugador_325,Liverpool,Premier League,on-field review,Etihad,Atkinson,offside,offside,0
+92,Jugador_477,River,Argentina,on-field review,Bombonera,Tello,penal,offside,1
+86,Jugador_123,River,Argentina,on-field review,Nuevo Gasómetro,Dean,penal,penal,1
+58,Jugador_4,Tottenham,Premier League,silent check,Stamford Bridge,Tello,offside,offside,0
+20,Jugador_316,Manchester City,Premier League,silent check,Stamford Bridge,Tello,roja,roja,1
+51,Jugador_92,Independiente,Argentina,silent check,Cilindro,Taylor,gol,offside,1
+90,Jugador_196,Arsenal,Premier League,on-field review,Etihad,Oliver,roja,roja,0
+52,Jugador_452,San Lorenzo,Argentina,on-field review,Bombonera,Taylor,offside,penal,1
+12,Jugador_339,Aston Villa,Premier League,silent check,Stamford Bridge,Pitana,offside,roja,1
+77,Jugador_124,Manchester City,Premier League,on-field review,Anfield,Oliver,offside,penal,0
+71,Jugador_323,Boca,Argentina,on-field review,Monumental,Pitana,penal,gol,0
+8,Jugador_414,Huracán,Argentina,on-field review,Bombonera,Tello,roja,roja,0
+80,Jugador_140,Rosario Central,Argentina,on-field review,Cilindro,Tello,gol,penal,1
+69,Jugador_325,Arsenal,Premier League,on-field review,Stamford Bridge,Rapallini,roja,roja,0
+4,Jugador_198,River,Argentina,silent check,Bombonera,Lousteau,offside,gol,1
+54,Jugador_146,San Lorenzo,Argentina,silent check,Cilindro,Dean,gol,penal,1
+81,Jugador_498,Rosario Central,Argentina,silent check,Tomás Ducó,Taylor,penal,offside,0
+71,Jugador_91,Independiente,Argentina,on-field review,Libertadores de América,Atkinson,roja,offside,0
+88,Jugador_156,Newcastle,Premier League,silent check,Emirates,Oliver,offside,gol,0
+12,Jugador_17,Tottenham,Premier League,silent check,Emirates,Dean,penal,penal,1
+71,Jugador_67,San Lorenzo,Argentina,on-field review,Cilindro,Pitana,gol,gol,0
+86,Jugador_111,Arsenal,Premier League,silent check,Old Trafford,Dean,roja,penal,1
+37,Jugador_494,Tottenham,Premier League,on-field review,Anfield,Atkinson,roja,offside,0
+44,Jugador_23,Rosario Central,Argentina,on-field review,Monumental,Tello,gol,offside,0
+31,Jugador_432,Arsenal,Premier League,silent check,Old Trafford,Atkinson,penal,roja,0
+52,Jugador_327,Arsenal,Premier League,silent check,Tottenham Stadium,Oliver,offside,penal,1
+29,Jugador_396,Chelsea,Premier League,silent check,Emirates,Tello,offside,roja,1
+86,Jugador_225,San Lorenzo,Argentina,on-field review,Nuevo Gasómetro,Lousteau,gol,roja,0
+20,Jugador_439,Huracán,Argentina,on-field review,Tomás Ducó,Rapallini,roja,penal,0
+71,Jugador_464,San Lorenzo,Argentina,on-field review,Monumental,Atkinson,offside,offside,0
+57,Jugador_461,San Lorenzo,Argentina,silent check,Tomás Ducó,Rapallini,offside,offside,0
+33,Jugador_190,San Lorenzo,Argentina,silent check,Libertadores de América,Oliver,gol,offside,1
+72,Jugador_317,Boca,Argentina,on-field review,Bombonera,Dean,roja,gol,1
+54,Jugador_385,Arsenal,Premier League,silent check,Stamford Bridge,Rapallini,offside,gol,0
+53,Jugador_7,Newcastle,Premier League,silent check,Etihad,Lousteau,roja,gol,1
+30,Jugador_117,Independiente,Argentina,silent check,Monumental,Pitana,offside,roja,0
+41,Jugador_192,Huracán,Argentina,silent check,Monumental,Lousteau,penal,offside,0
+1,Jugador_261,Independiente,Argentina,silent check,Libertadores de América,Atkinson,roja,penal,1
+62,Jugador_366,Manchester United,Premier League,on-field review,Emirates,Lousteau,penal,offside,0
+45,Jugador_173,Chelsea,Premier League,on-field review,Emirates,Rapallini,offside,penal,1
+27,Jugador_350,Racing,Argentina,on-field review,Nuevo Gasómetro,Tello,gol,gol,1
+39,Jugador_411,Liverpool,Premier League,on-field review,Etihad,Atkinson,gol,gol,1
+57,Jugador_229,Tottenham,Premier League,on-field review,Old Trafford,Oliver,roja,roja,1
+92,Jugador_404,Rosario Central,Argentina,on-field review,Libertadores de América,Taylor,penal,gol,0
+87,Jugador_118,Racing,Argentina,on-field review,Cilindro,Pitana,offside,penal,0
+33,Jugador_459,Arsenal,Premier League,silent check,Etihad,Tello,roja,penal,0
+70,Jugador_191,Manchester United,Premier League,on-field review,Stamford Bridge,Lousteau,gol,offside,0
+86,Jugador_487,Chelsea,Premier League,on-field review,Etihad,Lousteau,offside,penal,1
+73,Jugador_496,Liverpool,Premier League,silent check,Emirates,Dean,offside,gol,0
+43,Jugador_55,Boca,Argentina,on-field review,Cilindro,Pitana,roja,roja,0
+1,Jugador_396,Liverpool,Premier League,silent check,Old Trafford,Taylor,offside,gol,1
+2,Jugador_94,Newcastle,Premier League,silent check,Tottenham Stadium,Pitana,offside,roja,0
+47,Jugador_79,Independiente,Argentina,on-field review,Libertadores de América,Taylor,roja,gol,0
+59,Jugador_272,Chelsea,Premier League,on-field review,Emirates,Oliver,gol,gol,0
+8,Jugador_280,Newells,Argentina,silent check,Nuevo Gasómetro,Taylor,roja,roja,1
+59,Jugador_350,Independiente,Argentina,on-field review,Bombonera,Lousteau,roja,roja,0
+87,Jugador_341,Liverpool,Premier League,silent check,Emirates,Oliver,offside,roja,1
+55,Jugador_295,Manchester City,Premier League,on-field review,Emirates,Lousteau,gol,gol,1
+7,Jugador_203,Racing,Argentina,on-field review,Libertadores de América,Tello,roja,penal,1
+77,Jugador_168,Newcastle,Premier League,on-field review,Tottenham Stadium,Rapallini,penal,offside,0
+35,Jugador_465,Rosario Central,Argentina,on-field review,Nuevo Gasómetro,Taylor,offside,gol,0
+41,Jugador_157,Independiente,Argentina,silent check,Libertadores de América,Lousteau,roja,offside,1
+36,Jugador_347,River,Argentina,on-field review,Cilindro,Dean,gol,penal,0
+57,Jugador_60,Racing,Argentina,silent check,Tomás Ducó,Tello,roja,roja,0
+20,Jugador_299,River,Argentina,on-field review,Libertadores de América,Dean,gol,penal,0
+67,Jugador_137,Manchester United,Premier League,silent check,Etihad,Atkinson,offside,penal,0
+15,Jugador_67,Arsenal,Premier League,on-field review,Etihad,Oliver,gol,gol,0
+48,Jugador_18,Manchester City,Premier League,silent check,Old Trafford,Tello,offside,gol,1
+69,Jugador_210,Chelsea,Premier League,silent check,Old Trafford,Dean,roja,offside,1
+41,Jugador_231,Liverpool,Premier League,silent check,Emirates,Oliver,penal,penal,1
+39,Jugador_343,Newcastle,Premier League,silent check,Etihad,Pitana,offside,penal,1
+79,Jugador_211,San Lorenzo,Argentina,on-field review,Monumental,Lousteau,offside,offside,1
+53,Jugador_412,River,Argentina,on-field review,Libertadores de América,Oliver,offside,offside,1
+82,Jugador_80,Tottenham,Premier League,on-field review,Anfield,Oliver,roja,offside,1
+42,Jugador_201,Newells,Argentina,silent check,Cilindro,Rapallini,penal,penal,0
+58,Jugador_234,Newcastle,Premier League,silent check,Stamford Bridge,Oliver,roja,gol,0
+29,Jugador_203,Racing,Argentina,on-field review,Nuevo Gasómetro,Pitana,penal,roja,1
+69,Jugador_162,Liverpool,Premier League,on-field review,Anfield,Oliver,penal,penal,0
+64,Jugador_337,Newells,Argentina,on-field review,Libertadores de América,Lousteau,offside,offside,1
+13,Jugador_227,Rosario Central,Argentina,silent check,Monumental,Taylor,roja,offside,0
+56,Jugador_53,Rosario Central,Argentina,on-field review,Cilindro,Pitana,roja,roja,1
+29,Jugador_176,Independiente,Argentina,on-field review,Bombonera,Taylor,penal,offside,0
+38,Jugador_277,Arsenal,Premier League,on-field review,Tottenham Stadium,Taylor,roja,penal,1
+68,Jugador_86,Rosario Central,Argentina,silent check,Cilindro,Lousteau,roja,roja,1
+91,Jugador_56,River,Argentina,on-field review,Cilindro,Dean,roja,gol,0
+67,Jugador_23,Boca,Argentina,silent check,Monumental,Dean,offside,roja,0
+78,Jugador_46,Aston Villa,Premier League,on-field review,Emirates,Dean,penal,penal,1
+17,Jugador_152,Arsenal,Premier League,on-field review,Stamford Bridge,Dean,penal,offside,1
+32,Jugador_482,San Lorenzo,Argentina,silent check,Libertadores de América,Lousteau,offside,offside,0
+7,Jugador_249,Newells,Argentina,on-field review,Bombonera,Atkinson,penal,penal,1
+20,Jugador_22,Racing,Argentina,silent check,Bombonera,Tello,gol,offside,0
+35,Jugador_396,River,Argentina,silent check,Nuevo Gasómetro,Dean,offside,roja,1
+57,Jugador_137,Tottenham,Premier League,on-field review,Etihad,Lousteau,offside,offside,0
+1,Jugador_260,Aston Villa,Premier League,silent check,Tottenham Stadium,Taylor,offside,gol,1
+66,Jugador_382,Manchester United,Premier League,on-field review,Anfield,Rapallini,gol,penal,0
+34,Jugador_270,San Lorenzo,Argentina,on-field review,Tomás Ducó,Tello,gol,offside,0
+17,Jugador_128,Liverpool,Premier League,on-field review,Old Trafford,Taylor,roja,offside,1
+26,Jugador_176,Liverpool,Premier League,on-field review,Anfield,Atkinson,gol,gol,1
+26,Jugador_350,Independiente,Argentina,on-field review,Monumental,Taylor,offside,penal,0
+48,Jugador_399,Aston Villa,Premier League,on-field review,Emirates,Pitana,penal,gol,1
+14,Jugador_172,San Lorenzo,Argentina,on-field review,Cilindro,Tello,offside,offside,0
+14,Jugador_268,Arsenal,Premier League,silent check,Anfield,Rapallini,gol,gol,1
+20,Jugador_12,Manchester United,Premier League,on-field review,Stamford Bridge,Rapallini,offside,offside,1
+51,Jugador_74,Independiente,Argentina,silent check,Monumental,Oliver,roja,gol,1
+62,Jugador_134,River,Argentina,silent check,Libertadores de América,Atkinson,roja,offside,1
+9,Jugador_409,River,Argentina,on-field review,Bombonera,Taylor,offside,penal,0
+16,Jugador_231,Chelsea,Premier League,on-field review,Tottenham Stadium,Dean,roja,gol,0
+14,Jugador_29,San Lorenzo,Argentina,silent check,Nuevo Gasómetro,Rapallini,gol,penal,0
+32,Jugador_432,Rosario Central,Argentina,on-field review,Bombonera,Tello,roja,gol,0
+42,Jugador_443,Independiente,Argentina,on-field review,Monumental,Pitana,roja,gol,0
+42,Jugador_339,Arsenal,Premier League,on-field review,Emirates,Taylor,roja,penal,1
+94,Jugador_18,Independiente,Argentina,on-field review,Cilindro,Oliver,roja,gol,0
+5,Jugador_150,Arsenal,Premier League,on-field review,Etihad,Taylor,gol,roja,1
+86,Jugador_214,Huracán,Argentina,silent check,Cilindro,Dean,gol,penal,0
+6,Jugador_389,Manchester United,Premier League,on-field review,Emirates,Atkinson,offside,penal,1
+74,Jugador_183,Newells,Argentina,silent check,Nuevo Gasómetro,Oliver,roja,offside,1
+75,Jugador_125,Tottenham,Premier League,on-field review,Stamford Bridge,Tello,offside,penal,1
+56,Jugador_313,Newells,Argentina,silent check,Tomás Ducó,Tello,penal,roja,0
+20,Jugador_391,Arsenal,Premier League,on-field review,Emirates,Oliver,gol,penal,1
+85,Jugador_468,Liverpool,Premier League,silent check,Anfield,Pitana,offside,roja,1
+73,Jugador_389,Huracán,Argentina,silent check,Nuevo Gasómetro,Oliver,roja,roja,0
+23,Jugador_358,Independiente,Argentina,on-field review,Libertadores de América,Lousteau,offside,roja,0
+50,Jugador_88,Racing,Argentina,on-field review,Libertadores de América,Rapallini,gol,offside,1
+7,Jugador_482,Aston Villa,Premier League,silent check,Stamford Bridge,Lousteau,offside,roja,1
+54,Jugador_171,Aston Villa,Premier League,silent check,Old Trafford,Oliver,gol,penal,0
+93,Jugador_130,River,Argentina,silent check,Tomás Ducó,Rapallini,offside,gol,0
+44,Jugador_443,Aston Villa,Premier League,silent check,Tottenham Stadium,Pitana,offside,penal,0
+20,Jugador_307,Newcastle,Premier League,on-field review,Emirates,Pitana,gol,offside,1
+17,Jugador_160,San Lorenzo,Argentina,silent check,Monumental,Dean,roja,offside,1
+88,Jugador_491,Tottenham,Premier League,on-field review,Stamford Bridge,Lousteau,roja,offside,0
+54,Jugador_137,Manchester City,Premier League,on-field review,Anfield,Lousteau,gol,gol,0
+14,Jugador_88,River,Argentina,on-field review,Cilindro,Tello,penal,offside,1
+23,Jugador_159,Independiente,Argentina,on-field review,Libertadores de América,Tello,offside,penal,0
+19,Jugador_127,Manchester City,Premier League,on-field review,Old Trafford,Oliver,roja,gol,0
+85,Jugador_371,Tottenham,Premier League,on-field review,Etihad,Pitana,offside,penal,1
+74,Jugador_433,Manchester United,Premier League,silent check,Stamford Bridge,Lousteau,roja,roja,0
+18,Jugador_160,Huracán,Argentina,on-field review,Cilindro,Dean,offside,roja,1
+79,Jugador_34,Huracán,Argentina,silent check,Cilindro,Taylor,gol,offside,1
+71,Jugador_127,Rosario Central,Argentina,on-field review,Tomás Ducó,Tello,roja,offside,0
+32,Jugador_499,Rosario Central,Argentina,silent check,Bombonera,Pitana,offside,roja,0
+7,Jugador_431,Boca,Argentina,silent check,Bombonera,Atkinson,gol,offside,0
+55,Jugador_480,Newells,Argentina,silent check,Cilindro,Tello,offside,gol,1
+13,Jugador_28,Manchester City,Premier League,on-field review,Anfield,Atkinson,gol,penal,0
+51,Jugador_216,Tottenham,Premier League,on-field review,Stamford Bridge,Rapallini,offside,roja,0
+17,Jugador_449,Rosario Central,Argentina,silent check,Monumental,Oliver,offside,penal,0
+54,Jugador_215,Huracán,Argentina,on-field review,Libertadores de América,Lousteau,offside,gol,0
+47,Jugador_241,San Lorenzo,Argentina,on-field review,Nuevo Gasómetro,Taylor,penal,roja,1
+27,Jugador_1,Aston Villa,Premier League,silent check,Emirates,Atkinson,gol,gol,1
+59,Jugador_304,Arsenal,Premier League,silent check,Emirates,Taylor,gol,penal,0
+49,Jugador_436,Manchester United,Premier League,on-field review,Etihad,Lousteau,roja,roja,1
+14,Jugador_27,Tottenham,Premier League,on-field review,Etihad,Rapallini,penal,roja,0
+82,Jugador_238,Independiente,Argentina,on-field review,Bombonera,Taylor,roja,roja,1
+48,Jugador_172,Aston Villa,Premier League,silent check,Tottenham Stadium,Oliver,roja,offside,0
+74,Jugador_488,Newells,Argentina,silent check,Nuevo Gasómetro,Pitana,offside,gol,0
+64,Jugador_494,Liverpool,Premier League,on-field review,Stamford Bridge,Taylor,gol,penal,1
+61,Jugador_479,Newells,Argentina,silent check,Bombonera,Lousteau,roja,gol,0
+8,Jugador_233,Arsenal,Premier League,on-field review,Stamford Bridge,Taylor,penal,roja,1
+84,Jugador_388,Manchester United,Premier League,on-field review,Emirates,Taylor,roja,gol,0
+85,Jugador_236,Aston Villa,Premier League,silent check,Old Trafford,Atkinson,penal,penal,0
+81,Jugador_481,San Lorenzo,Argentina,on-field review,Monumental,Pitana,gol,penal,0
+37,Jugador_18,Manchester United,Premier League,silent check,Emirates,Oliver,offside,roja,1
+23,Jugador_14,Huracán,Argentina,on-field review,Monumental,Rapallini,gol,offside,0
+91,Jugador_255,Liverpool,Premier League,silent check,Tottenham Stadium,Oliver,offside,gol,0
+66,Jugador_11,Manchester United,Premier League,silent check,Anfield,Taylor,penal,penal,0
+93,Jugador_278,Huracán,Argentina,silent check,Nuevo Gasómetro,Rapallini,offside,gol,0
+5,Jugador_316,Boca,Argentina,on-field review,Nuevo Gasómetro,Lousteau,roja,gol,0
+32,Jugador_377,Newcastle,Premier League,silent check,Tottenham Stadium,Lousteau,penal,gol,1
+77,Jugador_158,Independiente,Argentina,silent check,Libertadores de América,Lousteau,gol,roja,1
+36,Jugador_252,Arsenal,Premier League,silent check,Emirates,Rapallini,roja,offside,1
+46,Jugador_166,River,Argentina,on-field review,Bombonera,Atkinson,penal,offside,0
+79,Jugador_187,Tottenham,Premier League,on-field review,Tottenham Stadium,Taylor,roja,gol,0
+91,Jugador_416,Liverpool,Premier League,on-field review,Anfield,Atkinson,roja,roja,0
+3,Jugador_430,Liverpool,Premier League,on-field review,Tottenham Stadium,Oliver,gol,penal,1
+75,Jugador_237,San Lorenzo,Argentina,on-field review,Monumental,Lousteau,offside,gol,1
+67,Jugador_116,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Dean,penal,offside,1
+48,Jugador_241,Independiente,Argentina,on-field review,Cilindro,Pitana,roja,offside,0
+11,Jugador_276,Independiente,Argentina,on-field review,Tomás Ducó,Taylor,offside,roja,0
+38,Jugador_13,Racing,Argentina,on-field review,Tomás Ducó,Dean,roja,gol,1
+52,Jugador_406,San Lorenzo,Argentina,silent check,Tomás Ducó,Tello,offside,gol,0
+83,Jugador_245,Chelsea,Premier League,silent check,Emirates,Atkinson,offside,gol,1
+95,Jugador_114,San Lorenzo,Argentina,silent check,Bombonera,Taylor,penal,offside,0
+44,Jugador_2,Newells,Argentina,silent check,Libertadores de América,Oliver,gol,roja,0
+9,Jugador_268,San Lorenzo,Argentina,silent check,Cilindro,Oliver,penal,offside,0
+68,Jugador_145,Tottenham,Premier League,on-field review,Etihad,Dean,roja,gol,0
+85,Jugador_103,Racing,Argentina,silent check,Cilindro,Pitana,offside,roja,1
+75,Jugador_325,Liverpool,Premier League,silent check,Etihad,Dean,offside,offside,1
+35,Jugador_42,Huracán,Argentina,on-field review,Bombonera,Tello,offside,offside,0
+59,Jugador_174,Boca,Argentina,on-field review,Cilindro,Dean,roja,roja,0
+17,Jugador_397,River,Argentina,silent check,Bombonera,Pitana,roja,roja,1
+56,Jugador_372,Arsenal,Premier League,silent check,Stamford Bridge,Oliver,penal,roja,0
+89,Jugador_55,Tottenham,Premier League,on-field review,Emirates,Rapallini,penal,roja,0
+44,Jugador_285,Rosario Central,Argentina,on-field review,Cilindro,Lousteau,gol,offside,1
+52,Jugador_312,Boca,Argentina,silent check,Monumental,Taylor,penal,roja,1
+64,Jugador_40,Aston Villa,Premier League,silent check,Emirates,Oliver,penal,gol,1
+33,Jugador_309,River,Argentina,on-field review,Bombonera,Rapallini,gol,offside,0
+42,Jugador_170,Rosario Central,Argentina,on-field review,Cilindro,Atkinson,offside,penal,1
+40,Jugador_131,Arsenal,Premier League,on-field review,Emirates,Lousteau,roja,roja,0
+5,Jugador_362,Chelsea,Premier League,on-field review,Anfield,Taylor,gol,offside,0
+58,Jugador_100,Newcastle,Premier League,on-field review,Stamford Bridge,Atkinson,offside,offside,1
+41,Jugador_33,Arsenal,Premier League,silent check,Emirates,Tello,offside,gol,1
+5,Jugador_317,Chelsea,Premier League,silent check,Old Trafford,Pitana,offside,penal,0
+12,Jugador_190,Manchester City,Premier League,silent check,Tottenham Stadium,Rapallini,penal,roja,1
+44,Jugador_79,River,Argentina,on-field review,Bombonera,Pitana,roja,offside,1
+37,Jugador_195,Boca,Argentina,silent check,Tomás Ducó,Oliver,gol,gol,1
+78,Jugador_335,Rosario Central,Argentina,on-field review,Cilindro,Atkinson,offside,gol,1
+56,Jugador_491,Aston Villa,Premier League,on-field review,Anfield,Dean,roja,penal,1
+78,Jugador_254,Independiente,Argentina,silent check,Libertadores de América,Tello,gol,gol,1
+71,Jugador_307,Aston Villa,Premier League,silent check,Etihad,Lousteau,gol,gol,0
+16,Jugador_303,Newcastle,Premier League,on-field review,Stamford Bridge,Tello,gol,roja,0
+35,Jugador_152,Aston Villa,Premier League,silent check,Tottenham Stadium,Tello,roja,penal,0
+72,Jugador_400,Manchester United,Premier League,silent check,Old Trafford,Pitana,offside,gol,1
+16,Jugador_100,Chelsea,Premier League,on-field review,Stamford Bridge,Rapallini,gol,roja,0
+37,Jugador_188,Boca,Argentina,on-field review,Nuevo Gasómetro,Pitana,roja,offside,0
+91,Jugador_181,San Lorenzo,Argentina,silent check,Cilindro,Dean,gol,roja,0
+32,Jugador_343,Manchester United,Premier League,on-field review,Stamford Bridge,Lousteau,offside,offside,0
+69,Jugador_130,Liverpool,Premier League,on-field review,Stamford Bridge,Atkinson,roja,penal,1
+26,Jugador_132,Manchester United,Premier League,silent check,Anfield,Oliver,roja,offside,1
+17,Jugador_219,Aston Villa,Premier League,silent check,Stamford Bridge,Taylor,gol,penal,1
+33,Jugador_334,Racing,Argentina,on-field review,Cilindro,Dean,gol,penal,0
+66,Jugador_101,Tottenham,Premier League,silent check,Tottenham Stadium,Lousteau,roja,offside,0
+86,Jugador_26,Huracán,Argentina,on-field review,Libertadores de América,Oliver,gol,roja,0
+55,Jugador_66,Arsenal,Premier League,on-field review,Anfield,Oliver,offside,roja,0
+11,Jugador_298,Tottenham,Premier League,silent check,Emirates,Dean,offside,offside,0
+78,Jugador_174,Arsenal,Premier League,on-field review,Old Trafford,Dean,offside,offside,0
+60,Jugador_303,Manchester City,Premier League,on-field review,Anfield,Oliver,penal,penal,1
+62,Jugador_434,Rosario Central,Argentina,on-field review,Tomás Ducó,Pitana,gol,gol,1
+76,Jugador_287,River,Argentina,on-field review,Monumental,Atkinson,gol,roja,0
+12,Jugador_72,Manchester City,Premier League,on-field review,Emirates,Dean,offside,offside,0
+8,Jugador_152,Aston Villa,Premier League,on-field review,Etihad,Rapallini,offside,gol,1
+33,Jugador_415,Liverpool,Premier League,silent check,Etihad,Taylor,roja,penal,1
+70,Jugador_138,Tottenham,Premier League,silent check,Old Trafford,Dean,offside,gol,1
+2,Jugador_111,Aston Villa,Premier League,on-field review,Stamford Bridge,Atkinson,gol,roja,0
+27,Jugador_454,Rosario Central,Argentina,silent check,Libertadores de América,Tello,gol,offside,0
+50,Jugador_499,Liverpool,Premier League,silent check,Etihad,Tello,offside,roja,0
+74,Jugador_303,Tottenham,Premier League,silent check,Old Trafford,Rapallini,roja,offside,1
+57,Jugador_417,Manchester City,Premier League,silent check,Stamford Bridge,Tello,offside,penal,1
+61,Jugador_182,River,Argentina,on-field review,Tomás Ducó,Pitana,gol,offside,1
+53,Jugador_281,Newcastle,Premier League,silent check,Old Trafford,Rapallini,offside,offside,1
+88,Jugador_346,Tottenham,Premier League,on-field review,Tottenham Stadium,Rapallini,offside,roja,0
+73,Jugador_155,Newcastle,Premier League,on-field review,Old Trafford,Pitana,roja,penal,1
+70,Jugador_418,Manchester United,Premier League,silent check,Old Trafford,Rapallini,roja,offside,1
+2,Jugador_206,Tottenham,Premier League,silent check,Stamford Bridge,Tello,penal,roja,0
+21,Jugador_330,San Lorenzo,Argentina,silent check,Bombonera,Lousteau,roja,offside,0
+18,Jugador_165,Manchester City,Premier League,silent check,Stamford Bridge,Atkinson,offside,offside,0
+25,Jugador_115,Newcastle,Premier League,on-field review,Old Trafford,Atkinson,gol,offside,0
+59,Jugador_163,Manchester United,Premier League,silent check,Old Trafford,Dean,offside,roja,1
+36,Jugador_82,Boca,Argentina,on-field review,Nuevo Gasómetro,Atkinson,roja,offside,1
+80,Jugador_177,Racing,Argentina,on-field review,Nuevo Gasómetro,Atkinson,penal,gol,1
+81,Jugador_268,Boca,Argentina,on-field review,Monumental,Atkinson,roja,offside,1
+38,Jugador_500,Aston Villa,Premier League,silent check,Old Trafford,Tello,roja,roja,1
+95,Jugador_441,Independiente,Argentina,on-field review,Libertadores de América,Atkinson,gol,offside,1
+77,Jugador_400,Manchester City,Premier League,silent check,Stamford Bridge,Rapallini,roja,gol,0
+92,Jugador_76,Boca,Argentina,on-field review,Tomás Ducó,Tello,roja,gol,1
+7,Jugador_277,Liverpool,Premier League,on-field review,Stamford Bridge,Tello,gol,roja,0
+33,Jugador_473,Tottenham,Premier League,silent check,Etihad,Oliver,gol,penal,1
+72,Jugador_262,Tottenham,Premier League,silent check,Emirates,Taylor,gol,gol,1
+18,Jugador_214,Independiente,Argentina,on-field review,Tomás Ducó,Dean,offside,gol,1
+38,Jugador_145,Newcastle,Premier League,silent check,Emirates,Atkinson,penal,penal,1
+27,Jugador_28,River,Argentina,silent check,Tomás Ducó,Dean,offside,gol,1
+16,Jugador_400,Tottenham,Premier League,silent check,Old Trafford,Dean,gol,offside,0
+49,Jugador_215,River,Argentina,silent check,Libertadores de América,Oliver,gol,gol,1
+93,Jugador_241,Newells,Argentina,on-field review,Nuevo Gasómetro,Tello,penal,penal,0
+43,Jugador_384,Liverpool,Premier League,on-field review,Emirates,Rapallini,offside,roja,1
+95,Jugador_422,Arsenal,Premier League,on-field review,Tottenham Stadium,Dean,gol,offside,0
+16,Jugador_107,Manchester United,Premier League,on-field review,Stamford Bridge,Oliver,offside,penal,1
+67,Jugador_360,Manchester City,Premier League,silent check,Etihad,Lousteau,penal,penal,1
+72,Jugador_444,Newcastle,Premier League,silent check,Anfield,Tello,offside,penal,1
+5,Jugador_264,Arsenal,Premier League,silent check,Anfield,Dean,gol,roja,1
+74,Jugador_332,Aston Villa,Premier League,on-field review,Etihad,Rapallini,offside,roja,1
+85,Jugador_459,Aston Villa,Premier League,silent check,Emirates,Oliver,roja,penal,0
+31,Jugador_26,Manchester United,Premier League,on-field review,Emirates,Oliver,offside,gol,0
+69,Jugador_95,Tottenham,Premier League,on-field review,Emirates,Rapallini,gol,gol,0
+66,Jugador_50,Racing,Argentina,on-field review,Nuevo Gasómetro,Rapallini,roja,gol,1
+90,Jugador_158,Racing,Argentina,silent check,Bombonera,Rapallini,gol,offside,1
+46,Jugador_177,Independiente,Argentina,silent check,Nuevo Gasómetro,Rapallini,offside,offside,0
+4,Jugador_35,Boca,Argentina,silent check,Libertadores de América,Lousteau,roja,gol,1
+77,Jugador_230,Boca,Argentina,silent check,Bombonera,Lousteau,roja,offside,0
+48,Jugador_469,Manchester City,Premier League,silent check,Etihad,Rapallini,roja,penal,1
+58,Jugador_40,Newells,Argentina,silent check,Bombonera,Lousteau,offside,penal,1
+34,Jugador_155,San Lorenzo,Argentina,silent check,Bombonera,Dean,offside,penal,1
+51,Jugador_495,Rosario Central,Argentina,on-field review,Tomás Ducó,Oliver,gol,gol,1
+57,Jugador_269,Manchester City,Premier League,on-field review,Stamford Bridge,Atkinson,gol,roja,1
+66,Jugador_297,Independiente,Argentina,silent check,Libertadores de América,Lousteau,offside,gol,0
+76,Jugador_248,Huracán,Argentina,on-field review,Nuevo Gasómetro,Taylor,penal,gol,1
+31,Jugador_170,Manchester United,Premier League,on-field review,Emirates,Atkinson,offside,roja,0
+44,Jugador_146,Manchester United,Premier League,on-field review,Anfield,Lousteau,roja,offside,0
+70,Jugador_455,Liverpool,Premier League,silent check,Stamford Bridge,Pitana,offside,penal,1
+49,Jugador_449,Boca,Argentina,on-field review,Libertadores de América,Dean,penal,roja,0
+52,Jugador_476,River,Argentina,on-field review,Nuevo Gasómetro,Oliver,gol,roja,1
+27,Jugador_173,Chelsea,Premier League,on-field review,Anfield,Tello,penal,offside,0
+25,Jugador_307,Rosario Central,Argentina,on-field review,Nuevo Gasómetro,Taylor,offside,offside,1
+26,Jugador_445,Rosario Central,Argentina,on-field review,Tomás Ducó,Taylor,gol,gol,0
+35,Jugador_486,Arsenal,Premier League,silent check,Old Trafford,Atkinson,offside,offside,0
+2,Jugador_427,Manchester City,Premier League,on-field review,Emirates,Pitana,roja,gol,0
+24,Jugador_192,Boca,Argentina,silent check,Libertadores de América,Tello,offside,gol,1
+77,Jugador_380,Tottenham,Premier League,on-field review,Emirates,Lousteau,offside,offside,1
+24,Jugador_203,Rosario Central,Argentina,silent check,Bombonera,Oliver,penal,offside,1
+9,Jugador_368,Chelsea,Premier League,on-field review,Emirates,Lousteau,offside,roja,0
+53,Jugador_246,Aston Villa,Premier League,silent check,Emirates,Lousteau,roja,offside,1
+94,Jugador_190,Newcastle,Premier League,silent check,Anfield,Rapallini,gol,penal,0
+92,Jugador_481,Manchester United,Premier League,on-field review,Old Trafford,Taylor,offside,roja,0
+62,Jugador_263,Newells,Argentina,silent check,Monumental,Rapallini,offside,offside,0
+31,Jugador_3,Liverpool,Premier League,on-field review,Tottenham Stadium,Atkinson,offside,gol,0
+53,Jugador_78,Huracán,Argentina,silent check,Nuevo Gasómetro,Oliver,offside,roja,0
+63,Jugador_399,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Lousteau,penal,roja,0
+42,Jugador_13,Aston Villa,Premier League,silent check,Tottenham Stadium,Pitana,offside,roja,1
+45,Jugador_24,Huracán,Argentina,on-field review,Nuevo Gasómetro,Rapallini,gol,offside,0
+28,Jugador_67,River,Argentina,silent check,Cilindro,Rapallini,roja,penal,1
+89,Jugador_285,Huracán,Argentina,on-field review,Cilindro,Pitana,gol,gol,1
+9,Jugador_469,San Lorenzo,Argentina,silent check,Bombonera,Pitana,penal,offside,1
+64,Jugador_31,Liverpool,Premier League,on-field review,Tottenham Stadium,Tello,offside,roja,1
+56,Jugador_284,Manchester City,Premier League,on-field review,Emirates,Dean,gol,gol,1
+39,Jugador_358,Newcastle,Premier League,silent check,Etihad,Lousteau,penal,penal,0
+34,Jugador_174,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Lousteau,gol,offside,1
+35,Jugador_347,Manchester City,Premier League,silent check,Anfield,Lousteau,penal,penal,1
+52,Jugador_28,San Lorenzo,Argentina,on-field review,Bombonera,Rapallini,offside,gol,1
+19,Jugador_153,Liverpool,Premier League,on-field review,Tottenham Stadium,Rapallini,gol,gol,1
+14,Jugador_410,Independiente,Argentina,on-field review,Libertadores de América,Pitana,offside,penal,0
+75,Jugador_157,Liverpool,Premier League,silent check,Emirates,Rapallini,penal,penal,0
+19,Jugador_289,Chelsea,Premier League,silent check,Emirates,Oliver,roja,offside,0
+60,Jugador_163,River,Argentina,on-field review,Nuevo Gasómetro,Tello,penal,offside,0
+4,Jugador_302,Arsenal,Premier League,silent check,Anfield,Pitana,gol,offside,1
+21,Jugador_71,Tottenham,Premier League,silent check,Tottenham Stadium,Dean,gol,offside,0
+75,Jugador_54,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Taylor,roja,roja,1
+45,Jugador_388,Chelsea,Premier League,silent check,Etihad,Taylor,offside,gol,0
+19,Jugador_362,Liverpool,Premier League,silent check,Emirates,Dean,penal,gol,1
+18,Jugador_65,Arsenal,Premier League,on-field review,Emirates,Tello,roja,penal,0
+41,Jugador_313,Rosario Central,Argentina,silent check,Libertadores de América,Dean,offside,penal,0
+30,Jugador_318,Newells,Argentina,on-field review,Nuevo Gasómetro,Pitana,offside,gol,1
+59,Jugador_426,Manchester United,Premier League,silent check,Old Trafford,Rapallini,gol,gol,1
+25,Jugador_489,Manchester United,Premier League,silent check,Anfield,Lousteau,offside,offside,1
+86,Jugador_318,Manchester United,Premier League,on-field review,Stamford Bridge,Taylor,offside,penal,0
+31,Jugador_456,Manchester City,Premier League,on-field review,Etihad,Dean,roja,offside,0
+20,Jugador_63,Rosario Central,Argentina,on-field review,Tomás Ducó,Oliver,gol,penal,1
+42,Jugador_216,Chelsea,Premier League,on-field review,Old Trafford,Oliver,penal,gol,1
+82,Jugador_127,Independiente,Argentina,on-field review,Nuevo Gasómetro,Lousteau,penal,roja,1
+38,Jugador_382,Manchester City,Premier League,on-field review,Stamford Bridge,Tello,offside,offside,1
+39,Jugador_235,Manchester United,Premier League,on-field review,Stamford Bridge,Tello,gol,penal,1
+15,Jugador_477,Manchester United,Premier League,on-field review,Stamford Bridge,Atkinson,roja,offside,1
+63,Jugador_459,Rosario Central,Argentina,on-field review,Nuevo Gasómetro,Pitana,gol,roja,0
+7,Jugador_298,Manchester United,Premier League,on-field review,Anfield,Oliver,penal,roja,0
+94,Jugador_198,Newcastle,Premier League,silent check,Emirates,Oliver,roja,penal,0
+36,Jugador_397,Manchester United,Premier League,silent check,Tottenham Stadium,Lousteau,roja,offside,0
+23,Jugador_323,Manchester United,Premier League,on-field review,Stamford Bridge,Dean,penal,roja,1
+36,Jugador_125,Newells,Argentina,silent check,Libertadores de América,Rapallini,penal,penal,1
+44,Jugador_281,Manchester City,Premier League,silent check,Emirates,Dean,offside,gol,0
+81,Jugador_134,Huracán,Argentina,on-field review,Tomás Ducó,Rapallini,gol,penal,0
+11,Jugador_62,Independiente,Argentina,silent check,Tomás Ducó,Pitana,penal,offside,1
+70,Jugador_485,Arsenal,Premier League,silent check,Tottenham Stadium,Atkinson,offside,penal,1
+50,Jugador_12,Manchester City,Premier League,on-field review,Anfield,Rapallini,offside,penal,0
+77,Jugador_364,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Taylor,gol,gol,1
+21,Jugador_124,Manchester City,Premier League,on-field review,Stamford Bridge,Dean,gol,offside,1
+86,Jugador_214,Newcastle,Premier League,on-field review,Emirates,Taylor,penal,offside,0
+64,Jugador_465,Aston Villa,Premier League,on-field review,Emirates,Taylor,roja,penal,0
+31,Jugador_163,Independiente,Argentina,on-field review,Cilindro,Rapallini,penal,gol,0
+93,Jugador_276,Aston Villa,Premier League,on-field review,Etihad,Oliver,penal,gol,0
+66,Jugador_317,Newells,Argentina,on-field review,Bombonera,Taylor,penal,offside,0
+31,Jugador_277,Chelsea,Premier League,silent check,Anfield,Atkinson,penal,penal,0
+74,Jugador_335,River,Argentina,on-field review,Libertadores de América,Tello,roja,penal,0
+22,Jugador_144,Boca,Argentina,silent check,Libertadores de América,Dean,roja,offside,1
+69,Jugador_315,River,Argentina,on-field review,Monumental,Pitana,penal,penal,0
+44,Jugador_487,Huracán,Argentina,silent check,Nuevo Gasómetro,Dean,roja,gol,0
+27,Jugador_246,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Atkinson,penal,penal,1
+60,Jugador_60,Racing,Argentina,on-field review,Libertadores de América,Oliver,roja,offside,0
+89,Jugador_470,Independiente,Argentina,on-field review,Bombonera,Dean,penal,gol,0
+54,Jugador_63,Independiente,Argentina,silent check,Nuevo Gasómetro,Dean,gol,offside,0
+12,Jugador_232,Racing,Argentina,on-field review,Tomás Ducó,Dean,offside,offside,1
+28,Jugador_467,Manchester City,Premier League,on-field review,Emirates,Dean,gol,roja,1
+15,Jugador_235,Arsenal,Premier League,silent check,Stamford Bridge,Oliver,penal,offside,0
+78,Jugador_60,Racing,Argentina,silent check,Cilindro,Rapallini,penal,offside,0
+81,Jugador_3,Newells,Argentina,on-field review,Monumental,Tello,penal,penal,1
+39,Jugador_80,San Lorenzo,Argentina,silent check,Libertadores de América,Rapallini,roja,offside,0
+59,Jugador_365,Chelsea,Premier League,silent check,Stamford Bridge,Tello,penal,gol,0
+90,Jugador_305,Arsenal,Premier League,silent check,Emirates,Lousteau,penal,offside,1
+28,Jugador_378,Liverpool,Premier League,silent check,Emirates,Rapallini,penal,roja,1
+21,Jugador_386,Aston Villa,Premier League,on-field review,Old Trafford,Tello,offside,penal,0
+85,Jugador_36,Newcastle,Premier League,silent check,Anfield,Atkinson,penal,roja,0
+85,Jugador_269,Independiente,Argentina,on-field review,Libertadores de América,Tello,penal,offside,1
+54,Jugador_150,Aston Villa,Premier League,silent check,Tottenham Stadium,Oliver,roja,penal,0
+53,Jugador_267,Racing,Argentina,on-field review,Libertadores de América,Lousteau,gol,penal,0
+68,Jugador_491,Independiente,Argentina,on-field review,Cilindro,Lousteau,roja,roja,1
+66,Jugador_298,Chelsea,Premier League,on-field review,Emirates,Dean,roja,offside,0
+19,Jugador_10,Manchester City,Premier League,silent check,Emirates,Dean,gol,roja,1
+76,Jugador_146,River,Argentina,silent check,Monumental,Atkinson,offside,roja,0
+55,Jugador_307,Chelsea,Premier League,silent check,Stamford Bridge,Oliver,offside,roja,0
+60,Jugador_77,Newcastle,Premier League,silent check,Tottenham Stadium,Rapallini,roja,gol,0
+13,Jugador_499,Rosario Central,Argentina,on-field review,Cilindro,Dean,offside,gol,1
+58,Jugador_102,Liverpool,Premier League,silent check,Etihad,Lousteau,roja,roja,1
+4,Jugador_94,Huracán,Argentina,on-field review,Libertadores de América,Oliver,roja,gol,1
+11,Jugador_54,Rosario Central,Argentina,silent check,Cilindro,Atkinson,offside,offside,0
+76,Jugador_125,Arsenal,Premier League,silent check,Emirates,Tello,gol,offside,0
+39,Jugador_276,Newcastle,Premier League,on-field review,Stamford Bridge,Taylor,offside,gol,1
+28,Jugador_209,River,Argentina,silent check,Libertadores de América,Rapallini,gol,penal,1
+39,Jugador_274,Liverpool,Premier League,silent check,Anfield,Oliver,gol,roja,1
+62,Jugador_394,Huracán,Argentina,silent check,Tomás Ducó,Dean,penal,gol,0
+95,Jugador_50,Manchester City,Premier League,on-field review,Etihad,Tello,roja,penal,1
+81,Jugador_298,Arsenal,Premier League,on-field review,Etihad,Atkinson,penal,penal,1
+58,Jugador_188,Manchester City,Premier League,silent check,Stamford Bridge,Atkinson,offside,penal,0
+87,Jugador_248,Rosario Central,Argentina,silent check,Libertadores de América,Dean,gol,gol,0
+71,Jugador_209,Liverpool,Premier League,silent check,Emirates,Rapallini,roja,gol,0
+77,Jugador_231,Independiente,Argentina,on-field review,Bombonera,Pitana,offside,gol,0
+60,Jugador_107,Aston Villa,Premier League,silent check,Stamford Bridge,Dean,roja,penal,0
+5,Jugador_118,Rosario Central,Argentina,on-field review,Tomás Ducó,Rapallini,offside,roja,0
+34,Jugador_379,Newells,Argentina,on-field review,Monumental,Atkinson,offside,offside,1
+58,Jugador_140,Huracán,Argentina,on-field review,Cilindro,Lousteau,roja,roja,0
+63,Jugador_306,San Lorenzo,Argentina,on-field review,Nuevo Gasómetro,Pitana,roja,roja,0
+52,Jugador_284,San Lorenzo,Argentina,silent check,Monumental,Tello,roja,offside,0
+68,Jugador_282,River,Argentina,on-field review,Monumental,Dean,offside,roja,0
+95,Jugador_65,River,Argentina,silent check,Nuevo Gasómetro,Rapallini,gol,penal,0
+17,Jugador_422,Huracán,Argentina,silent check,Bombonera,Pitana,penal,offside,0
+25,Jugador_135,Independiente,Argentina,silent check,Tomás Ducó,Taylor,penal,penal,0
+20,Jugador_87,Rosario Central,Argentina,silent check,Tomás Ducó,Taylor,offside,penal,1
+95,Jugador_12,Racing,Argentina,on-field review,Tomás Ducó,Taylor,offside,roja,0
+68,Jugador_123,Manchester City,Premier League,silent check,Emirates,Taylor,gol,offside,0
+89,Jugador_316,Newells,Argentina,on-field review,Cilindro,Tello,penal,penal,1
+54,Jugador_336,Independiente,Argentina,silent check,Bombonera,Tello,offside,roja,0
+89,Jugador_195,Manchester United,Premier League,on-field review,Stamford Bridge,Oliver,gol,offside,1
+89,Jugador_126,Independiente,Argentina,on-field review,Tomás Ducó,Oliver,gol,gol,0
+78,Jugador_36,Chelsea,Premier League,on-field review,Stamford Bridge,Pitana,offside,penal,0
+23,Jugador_377,Newcastle,Premier League,silent check,Stamford Bridge,Dean,gol,gol,0
+42,Jugador_239,Independiente,Argentina,on-field review,Cilindro,Pitana,penal,roja,1
+11,Jugador_305,Arsenal,Premier League,on-field review,Emirates,Dean,roja,gol,1
+95,Jugador_405,River,Argentina,silent check,Tomás Ducó,Dean,offside,roja,1
+79,Jugador_327,River,Argentina,on-field review,Monumental,Lousteau,gol,gol,0
+31,Jugador_161,Tottenham,Premier League,on-field review,Tottenham Stadium,Atkinson,penal,gol,0
+20,Jugador_92,San Lorenzo,Argentina,on-field review,Monumental,Taylor,penal,offside,0
+84,Jugador_97,Chelsea,Premier League,silent check,Anfield,Atkinson,roja,roja,1
+22,Jugador_92,River,Argentina,silent check,Libertadores de América,Taylor,offside,penal,1
+12,Jugador_96,Racing,Argentina,silent check,Monumental,Lousteau,gol,gol,0
+41,Jugador_413,Manchester City,Premier League,on-field review,Etihad,Lousteau,roja,offside,1
+92,Jugador_324,Newells,Argentina,silent check,Monumental,Taylor,roja,offside,1
+78,Jugador_444,Aston Villa,Premier League,on-field review,Emirates,Pitana,offside,offside,0
+8,Jugador_254,Manchester United,Premier League,on-field review,Anfield,Oliver,offside,offside,0
+95,Jugador_437,Newcastle,Premier League,silent check,Old Trafford,Atkinson,offside,penal,1
+22,Jugador_379,Huracán,Argentina,on-field review,Cilindro,Tello,penal,roja,1
+12,Jugador_94,Racing,Argentina,on-field review,Monumental,Tello,roja,gol,0
+94,Jugador_180,Manchester United,Premier League,silent check,Old Trafford,Dean,offside,roja,1
+94,Jugador_487,Independiente,Argentina,silent check,Tomás Ducó,Lousteau,offside,penal,0
+72,Jugador_456,Aston Villa,Premier League,on-field review,Anfield,Dean,penal,penal,1
+64,Jugador_250,Arsenal,Premier League,on-field review,Anfield,Atkinson,penal,penal,1
+69,Jugador_450,Manchester United,Premier League,on-field review,Anfield,Dean,penal,roja,0
+11,Jugador_341,Chelsea,Premier League,on-field review,Emirates,Taylor,offside,offside,1
+23,Jugador_201,Rosario Central,Argentina,on-field review,Bombonera,Rapallini,roja,penal,1
+34,Jugador_308,River,Argentina,on-field review,Tomás Ducó,Oliver,offside,penal,0
+25,Jugador_355,Manchester City,Premier League,silent check,Etihad,Rapallini,offside,penal,0
+23,Jugador_13,Arsenal,Premier League,on-field review,Anfield,Lousteau,penal,offside,0
+39,Jugador_81,Independiente,Argentina,on-field review,Tomás Ducó,Pitana,penal,penal,0
+77,Jugador_46,Boca,Argentina,silent check,Tomás Ducó,Oliver,gol,offside,0
+75,Jugador_258,Liverpool,Premier League,silent check,Emirates,Tello,penal,offside,0
+30,Jugador_91,Tottenham,Premier League,silent check,Stamford Bridge,Dean,penal,penal,1
+71,Jugador_426,Liverpool,Premier League,on-field review,Tottenham Stadium,Dean,roja,roja,0
+40,Jugador_431,Newcastle,Premier League,silent check,Tottenham Stadium,Taylor,penal,penal,0
+71,Jugador_48,Aston Villa,Premier League,silent check,Old Trafford,Rapallini,roja,offside,0
+20,Jugador_455,Newells,Argentina,on-field review,Monumental,Pitana,offside,offside,0
+5,Jugador_252,River,Argentina,on-field review,Bombonera,Dean,penal,roja,1
+38,Jugador_171,Racing,Argentina,on-field review,Cilindro,Tello,roja,offside,0
+17,Jugador_144,Aston Villa,Premier League,on-field review,Emirates,Atkinson,penal,penal,0
+63,Jugador_182,Boca,Argentina,on-field review,Tomás Ducó,Oliver,gol,penal,1
+10,Jugador_463,Huracán,Argentina,on-field review,Tomás Ducó,Dean,penal,offside,1
+23,Jugador_370,Boca,Argentina,silent check,Monumental,Oliver,penal,penal,0
+61,Jugador_146,Independiente,Argentina,silent check,Monumental,Dean,gol,roja,0
+43,Jugador_62,Boca,Argentina,on-field review,Tomás Ducó,Pitana,penal,offside,0
+45,Jugador_266,Chelsea,Premier League,silent check,Tottenham Stadium,Pitana,gol,penal,1
+61,Jugador_171,Boca,Argentina,silent check,Monumental,Atkinson,gol,offside,1
+66,Jugador_315,River,Argentina,on-field review,Monumental,Dean,offside,gol,1
+58,Jugador_407,Rosario Central,Argentina,on-field review,Tomás Ducó,Dean,roja,penal,1
+56,Jugador_212,River,Argentina,silent check,Nuevo Gasómetro,Taylor,gol,roja,0
+88,Jugador_13,Racing,Argentina,on-field review,Libertadores de América,Taylor,offside,gol,0
+55,Jugador_396,San Lorenzo,Argentina,silent check,Tomás Ducó,Pitana,gol,offside,1
+9,Jugador_428,Chelsea,Premier League,on-field review,Stamford Bridge,Lousteau,roja,gol,0
+92,Jugador_83,Manchester City,Premier League,on-field review,Etihad,Oliver,roja,penal,1
+55,Jugador_350,Tottenham,Premier League,silent check,Stamford Bridge,Rapallini,roja,roja,0
+28,Jugador_182,Arsenal,Premier League,silent check,Emirates,Atkinson,roja,roja,0
+67,Jugador_348,Tottenham,Premier League,silent check,Etihad,Pitana,gol,gol,0
+79,Jugador_55,Boca,Argentina,silent check,Tomás Ducó,Atkinson,gol,offside,0
+6,Jugador_443,Newells,Argentina,on-field review,Monumental,Lousteau,roja,gol,1
+66,Jugador_320,Boca,Argentina,silent check,Nuevo Gasómetro,Oliver,penal,roja,1
+37,Jugador_390,Huracán,Argentina,on-field review,Monumental,Pitana,gol,penal,0
+76,Jugador_343,Boca,Argentina,silent check,Nuevo Gasómetro,Atkinson,gol,roja,1
+1,Jugador_123,Boca,Argentina,silent check,Bombonera,Lousteau,roja,penal,1
+50,Jugador_351,Independiente,Argentina,silent check,Cilindro,Lousteau,roja,gol,0
+87,Jugador_118,Newcastle,Premier League,silent check,Etihad,Lousteau,offside,roja,0
+6,Jugador_273,River,Argentina,silent check,Monumental,Taylor,offside,penal,1
+22,Jugador_149,Arsenal,Premier League,silent check,Emirates,Taylor,roja,penal,1
+11,Jugador_147,Boca,Argentina,on-field review,Libertadores de América,Lousteau,roja,gol,1
+44,Jugador_192,Arsenal,Premier League,on-field review,Anfield,Pitana,penal,penal,0
+65,Jugador_471,San Lorenzo,Argentina,silent check,Tomás Ducó,Rapallini,penal,roja,1
+46,Jugador_412,Racing,Argentina,silent check,Tomás Ducó,Oliver,offside,offside,0
+15,Jugador_453,Newells,Argentina,on-field review,Libertadores de América,Atkinson,penal,offside,1
+68,Jugador_304,San Lorenzo,Argentina,on-field review,Nuevo Gasómetro,Pitana,offside,penal,0
+39,Jugador_152,Boca,Argentina,on-field review,Libertadores de América,Dean,roja,offside,1
+4,Jugador_35,Chelsea,Premier League,on-field review,Tottenham Stadium,Tello,roja,roja,1
+39,Jugador_248,Chelsea,Premier League,on-field review,Tottenham Stadium,Rapallini,penal,penal,0
+75,Jugador_186,Aston Villa,Premier League,on-field review,Etihad,Tello,offside,gol,0
+48,Jugador_433,Newcastle,Premier League,silent check,Etihad,Oliver,penal,offside,1
+89,Jugador_468,Tottenham,Premier League,silent check,Stamford Bridge,Rapallini,penal,offside,1
+76,Jugador_449,Newells,Argentina,on-field review,Nuevo Gasómetro,Oliver,offside,offside,1
+36,Jugador_486,Tottenham,Premier League,on-field review,Stamford Bridge,Lousteau,offside,offside,0
+27,Jugador_105,Arsenal,Premier League,silent check,Etihad,Oliver,penal,roja,1
+79,Jugador_272,Newells,Argentina,silent check,Cilindro,Taylor,roja,penal,0
+36,Jugador_234,Boca,Argentina,on-field review,Tomás Ducó,Oliver,roja,penal,1
+36,Jugador_64,Rosario Central,Argentina,silent check,Libertadores de América,Lousteau,gol,offside,1
+90,Jugador_218,Huracán,Argentina,silent check,Cilindro,Lousteau,roja,penal,1
+18,Jugador_54,San Lorenzo,Argentina,on-field review,Nuevo Gasómetro,Oliver,offside,gol,0
+94,Jugador_52,Rosario Central,Argentina,silent check,Tomás Ducó,Pitana,offside,gol,1
+49,Jugador_277,Newells,Argentina,silent check,Nuevo Gasómetro,Rapallini,offside,penal,1
+71,Jugador_79,River,Argentina,on-field review,Nuevo Gasómetro,Taylor,offside,gol,1
+3,Jugador_230,Tottenham,Premier League,silent check,Stamford Bridge,Dean,offside,gol,0
+72,Jugador_499,Newcastle,Premier League,silent check,Etihad,Oliver,roja,offside,0
+94,Jugador_379,Aston Villa,Premier League,silent check,Stamford Bridge,Tello,gol,offside,0
+52,Jugador_180,San Lorenzo,Argentina,on-field review,Tomás Ducó,Taylor,penal,roja,0
+11,Jugador_479,Liverpool,Premier League,on-field review,Old Trafford,Atkinson,gol,penal,0
+68,Jugador_220,Aston Villa,Premier League,on-field review,Stamford Bridge,Tello,penal,offside,0
+70,Jugador_397,Boca,Argentina,silent check,Libertadores de América,Tello,penal,penal,1
+87,Jugador_87,Racing,Argentina,on-field review,Nuevo Gasómetro,Taylor,offside,gol,0
+88,Jugador_374,Newells,Argentina,silent check,Monumental,Taylor,offside,penal,0
+22,Jugador_393,Manchester United,Premier League,on-field review,Anfield,Oliver,roja,offside,0
+87,Jugador_122,Arsenal,Premier League,silent check,Old Trafford,Atkinson,roja,penal,0
+78,Jugador_457,Arsenal,Premier League,silent check,Tottenham Stadium,Taylor,roja,roja,0
+90,Jugador_4,Tottenham,Premier League,on-field review,Tottenham Stadium,Dean,roja,gol,1
+52,Jugador_115,Newells,Argentina,on-field review,Cilindro,Atkinson,gol,roja,1
+37,Jugador_184,River,Argentina,silent check,Libertadores de América,Tello,penal,gol,1
+86,Jugador_242,Aston Villa,Premier League,on-field review,Anfield,Atkinson,offside,offside,0
+10,Jugador_365,River,Argentina,silent check,Bombonera,Rapallini,roja,gol,0
+26,Jugador_26,Newells,Argentina,on-field review,Cilindro,Tello,gol,offside,1
+70,Jugador_298,Rosario Central,Argentina,silent check,Bombonera,Tello,gol,roja,1
+50,Jugador_500,Chelsea,Premier League,silent check,Old Trafford,Taylor,offside,offside,0
+14,Jugador_238,Manchester City,Premier League,silent check,Emirates,Tello,gol,penal,0
+62,Jugador_477,Huracán,Argentina,on-field review,Nuevo Gasómetro,Lousteau,penal,penal,1
+47,Jugador_280,River,Argentina,on-field review,Libertadores de América,Pitana,penal,offside,1
+72,Jugador_111,Rosario Central,Argentina,on-field review,Tomás Ducó,Lousteau,penal,penal,1
+23,Jugador_11,Aston Villa,Premier League,silent check,Tottenham Stadium,Pitana,penal,gol,0
+88,Jugador_422,Chelsea,Premier League,on-field review,Emirates,Tello,gol,roja,1
+72,Jugador_1,Racing,Argentina,silent check,Tomás Ducó,Taylor,penal,penal,0
+14,Jugador_145,Manchester City,Premier League,on-field review,Stamford Bridge,Oliver,penal,offside,1
+38,Jugador_188,Chelsea,Premier League,silent check,Stamford Bridge,Oliver,offside,gol,1
+50,Jugador_422,Newells,Argentina,on-field review,Monumental,Oliver,roja,penal,1
+58,Jugador_493,Huracán,Argentina,silent check,Libertadores de América,Rapallini,penal,penal,0
+4,Jugador_247,Manchester City,Premier League,on-field review,Anfield,Taylor,offside,gol,0
+65,Jugador_28,Liverpool,Premier League,on-field review,Old Trafford,Tello,offside,gol,0
+16,Jugador_201,Huracán,Argentina,on-field review,Cilindro,Lousteau,gol,penal,0
+28,Jugador_370,Newcastle,Premier League,silent check,Etihad,Atkinson,offside,gol,1
+23,Jugador_367,Huracán,Argentina,silent check,Tomás Ducó,Dean,roja,penal,1
+31,Jugador_442,Newcastle,Premier League,on-field review,Stamford Bridge,Pitana,offside,gol,1
+11,Jugador_489,Manchester City,Premier League,silent check,Etihad,Dean,penal,roja,0
+49,Jugador_377,River,Argentina,on-field review,Bombonera,Rapallini,roja,penal,1
+31,Jugador_24,Arsenal,Premier League,silent check,Stamford Bridge,Atkinson,offside,gol,1
+94,Jugador_434,Arsenal,Premier League,silent check,Stamford Bridge,Atkinson,penal,gol,1
+65,Jugador_280,Newells,Argentina,on-field review,Libertadores de América,Rapallini,roja,roja,0
+80,Jugador_295,Racing,Argentina,on-field review,Nuevo Gasómetro,Oliver,roja,gol,1
+44,Jugador_392,River,Argentina,silent check,Bombonera,Atkinson,roja,gol,0
+1,Jugador_133,Aston Villa,Premier League,silent check,Old Trafford,Pitana,offside,gol,1
+76,Jugador_467,Aston Villa,Premier League,silent check,Stamford Bridge,Atkinson,penal,offside,1
+48,Jugador_31,River,Argentina,on-field review,Monumental,Lousteau,offside,offside,1
+24,Jugador_453,Newells,Argentina,silent check,Bombonera,Rapallini,penal,roja,1
+62,Jugador_118,Manchester United,Premier League,on-field review,Old Trafford,Taylor,roja,penal,1
+88,Jugador_207,Newells,Argentina,silent check,Cilindro,Lousteau,offside,roja,0
+46,Jugador_228,Manchester United,Premier League,on-field review,Tottenham Stadium,Lousteau,roja,penal,0
+40,Jugador_67,San Lorenzo,Argentina,silent check,Tomás Ducó,Oliver,gol,gol,1
+35,Jugador_168,Manchester City,Premier League,on-field review,Anfield,Lousteau,roja,gol,0
+40,Jugador_141,Huracán,Argentina,silent check,Tomás Ducó,Taylor,penal,gol,1
+56,Jugador_463,Independiente,Argentina,silent check,Nuevo Gasómetro,Oliver,offside,offside,1
+44,Jugador_246,Rosario Central,Argentina,silent check,Tomás Ducó,Lousteau,offside,offside,0
+46,Jugador_298,Huracán,Argentina,on-field review,Cilindro,Taylor,offside,penal,1
+16,Jugador_340,Huracán,Argentina,silent check,Tomás Ducó,Dean,offside,penal,1
+31,Jugador_248,Chelsea,Premier League,on-field review,Stamford Bridge,Pitana,offside,roja,1
+28,Jugador_402,Tottenham,Premier League,on-field review,Emirates,Rapallini,offside,penal,1
+74,Jugador_15,Huracán,Argentina,silent check,Monumental,Taylor,gol,gol,0
+63,Jugador_486,San Lorenzo,Argentina,on-field review,Cilindro,Rapallini,roja,roja,0
+41,Jugador_267,Boca,Argentina,silent check,Libertadores de América,Lousteau,penal,roja,0
+28,Jugador_392,Liverpool,Premier League,on-field review,Anfield,Dean,gol,gol,1
+68,Jugador_400,River,Argentina,silent check,Tomás Ducó,Pitana,gol,roja,0
+43,Jugador_229,San Lorenzo,Argentina,on-field review,Tomás Ducó,Atkinson,roja,offside,0
+28,Jugador_494,Manchester City,Premier League,on-field review,Stamford Bridge,Atkinson,roja,penal,1
+27,Jugador_50,Racing,Argentina,on-field review,Libertadores de América,Pitana,roja,penal,0
+51,Jugador_173,Newells,Argentina,silent check,Libertadores de América,Taylor,penal,offside,1
+37,Jugador_262,Huracán,Argentina,on-field review,Nuevo Gasómetro,Pitana,offside,penal,1
+68,Jugador_199,San Lorenzo,Argentina,on-field review,Libertadores de América,Oliver,penal,gol,1
+49,Jugador_349,Tottenham,Premier League,silent check,Emirates,Lousteau,penal,roja,0
+79,Jugador_385,Chelsea,Premier League,on-field review,Stamford Bridge,Tello,gol,penal,0
+10,Jugador_248,Aston Villa,Premier League,on-field review,Emirates,Dean,gol,offside,1
+33,Jugador_272,Independiente,Argentina,on-field review,Bombonera,Lousteau,penal,roja,1
+19,Jugador_222,Newells,Argentina,silent check,Bombonera,Rapallini,offside,roja,0
+32,Jugador_300,Manchester City,Premier League,silent check,Etihad,Rapallini,roja,penal,0
+15,Jugador_138,Newcastle,Premier League,silent check,Anfield,Oliver,penal,roja,0
+21,Jugador_299,Newells,Argentina,silent check,Monumental,Taylor,gol,gol,1
+80,Jugador_45,Boca,Argentina,silent check,Monumental,Lousteau,penal,roja,1
+66,Jugador_342,River,Argentina,silent check,Cilindro,Tello,offside,offside,0
+21,Jugador_409,Arsenal,Premier League,on-field review,Old Trafford,Pitana,roja,roja,1
+25,Jugador_29,River,Argentina,silent check,Bombonera,Tello,gol,penal,0
+19,Jugador_117,Manchester United,Premier League,silent check,Emirates,Rapallini,offside,roja,1
+77,Jugador_195,Aston Villa,Premier League,silent check,Tottenham Stadium,Rapallini,offside,gol,0
+45,Jugador_440,Aston Villa,Premier League,on-field review,Emirates,Taylor,roja,penal,0
+92,Jugador_54,Boca,Argentina,on-field review,Cilindro,Oliver,penal,gol,1
+73,Jugador_199,Independiente,Argentina,on-field review,Bombonera,Atkinson,penal,penal,0
+29,Jugador_139,Tottenham,Premier League,silent check,Old Trafford,Dean,penal,gol,0
+83,Jugador_127,Boca,Argentina,on-field review,Cilindro,Taylor,roja,roja,0
+25,Jugador_115,San Lorenzo,Argentina,silent check,Bombonera,Lousteau,gol,roja,1
+62,Jugador_294,Aston Villa,Premier League,on-field review,Emirates,Atkinson,roja,gol,0
+81,Jugador_66,Rosario Central,Argentina,silent check,Libertadores de América,Tello,offside,penal,0
+15,Jugador_331,Arsenal,Premier League,silent check,Old Trafford,Rapallini,roja,penal,1
+4,Jugador_436,Newells,Argentina,on-field review,Libertadores de América,Tello,gol,offside,0
+22,Jugador_397,Boca,Argentina,on-field review,Libertadores de América,Lousteau,gol,penal,1
+29,Jugador_13,Racing,Argentina,silent check,Libertadores de América,Lousteau,roja,roja,0
+61,Jugador_76,Chelsea,Premier League,silent check,Old Trafford,Lousteau,penal,gol,0
+61,Jugador_280,Rosario Central,Argentina,silent check,Nuevo Gasómetro,Taylor,offside,gol,1
+49,Jugador_257,Manchester United,Premier League,silent check,Anfield,Tello,roja,penal,0
+21,Jugador_342,Boca,Argentina,silent check,Tomás Ducó,Tello,gol,offside,1
+64,Jugador_218,Newells,Argentina,on-field review,Bombonera,Oliver,gol,roja,0
+40,Jugador_492,Liverpool,Premier League,silent check,Old Trafford,Dean,roja,offside,1
+72,Jugador_219,Aston Villa,Premier League,silent check,Tottenham Stadium,Rapallini,roja,roja,1
+16,Jugador_498,Tottenham,Premier League,silent check,Etihad,Tello,roja,offside,0
+23,Jugador_287,Liverpool,Premier League,on-field review,Emirates,Atkinson,offside,gol,0
+43,Jugador_111,Arsenal,Premier League,on-field review,Stamford Bridge,Atkinson,gol,gol,1
+38,Jugador_135,Manchester City,Premier League,on-field review,Anfield,Rapallini,offside,offside,1
+82,Jugador_276,Aston Villa,Premier League,silent check,Tottenham Stadium,Rapallini,gol,roja,0
+37,Jugador_165,Rosario Central,Argentina,on-field review,Libertadores de América,Pitana,offside,penal,1
+4,Jugador_448,Rosario Central,Argentina,on-field review,Bombonera,Taylor,roja,roja,0
+91,Jugador_172,San Lorenzo,Argentina,silent check,Monumental,Rapallini,roja,penal,1
+48,Jugador_133,Liverpool,Premier League,on-field review,Etihad,Lousteau,offside,gol,0
+77,Jugador_273,Newells,Argentina,silent check,Tomás Ducó,Pitana,penal,roja,1
+22,Jugador_217,Newcastle,Premier League,on-field review,Tottenham Stadium,Pitana,penal,gol,0
+48,Jugador_490,Rosario Central,Argentina,silent check,Monumental,Atkinson,penal,roja,1
+21,Jugador_166,Newells,Argentina,on-field review,Bombonera,Tello,roja,gol,0
+28,Jugador_269,Aston Villa,Premier League,on-field review,Etihad,Taylor,penal,roja,1
+54,Jugador_430,River,Argentina,silent check,Nuevo Gasómetro,Dean,gol,roja,0
+24,Jugador_35,Aston Villa,Premier League,silent check,Tottenham Stadium,Dean,offside,gol,1
+5,Jugador_416,Arsenal,Premier League,on-field review,Old Trafford,Rapallini,gol,penal,1
+16,Jugador_280,Manchester United,Premier League,on-field review,Anfield,Rapallini,offside,offside,1
+32,Jugador_493,Huracán,Argentina,on-field review,Cilindro,Lousteau,penal,gol,1
+81,Jugador_385,Manchester United,Premier League,on-field review,Tottenham Stadium,Rapallini,gol,gol,1
+22,Jugador_323,Manchester United,Premier League,silent check,Tottenham Stadium,Rapallini,gol,offside,1
+6,Jugador_485,Huracán,Argentina,on-field review,Monumental,Tello,offside,penal,0
+71,Jugador_160,Manchester City,Premier League,on-field review,Anfield,Oliver,penal,penal,0
+55,Jugador_331,Rosario Central,Argentina,silent check,Cilindro,Rapallini,penal,penal,0
+60,Jugador_14,Huracán,Argentina,silent check,Libertadores de América,Rapallini,offside,offside,1
+87,Jugador_216,River,Argentina,silent check,Libertadores de América,Dean,gol,roja,0
+57,Jugador_9,Chelsea,Premier League,on-field review,Old Trafford,Tello,penal,roja,1
+57,Jugador_213,Liverpool,Premier League,on-field review,Emirates,Lousteau,offside,offside,0
+36,Jugador_270,Tottenham,Premier League,silent check,Emirates,Oliver,penal,roja,1
+84,Jugador_214,Manchester City,Premier League,silent check,Old Trafford,Taylor,offside,gol,1
+63,Jugador_27,Aston Villa,Premier League,on-field review,Etihad,Dean,penal,roja,0
+2,Jugador_293,Manchester United,Premier League,silent check,Old Trafford,Rapallini,offside,gol,0
+62,Jugador_79,Newells,Argentina,on-field review,Bombonera,Tello,penal,offside,1
+44,Jugador_394,Manchester United,Premier League,on-field review,Stamford Bridge,Taylor,gol,roja,1
+55,Jugador_196,Manchester United,Premier League,silent check,Tottenham Stadium,Atkinson,offside,penal,0
+59,Jugador_32,Liverpool,Premier League,on-field review,Anfield,Oliver,gol,gol,1
+79,Jugador_117,Manchester City,Premier League,on-field review,Anfield,Lousteau,offside,roja,0
+15,Jugador_482,River,Argentina,silent check,Nuevo Gasómetro,Tello,offside,penal,1
+24,Jugador_33,Racing,Argentina,silent check,Monumental,Tello,gol,offside,0
+58,Jugador_409,Newcastle,Premier League,on-field review,Anfield,Pitana,offside,penal,1
+70,Jugador_23,River,Argentina,silent check,Libertadores de América,Atkinson,offside,penal,0
+57,Jugador_302,Liverpool,Premier League,silent check,Old Trafford,Rapallini,roja,penal,0
+5,Jugador_36,Manchester City,Premier League,on-field review,Emirates,Rapallini,roja,gol,1
+12,Jugador_385,Arsenal,Premier League,on-field review,Etihad,Tello,gol,penal,1
+81,Jugador_409,Liverpool,Premier League,on-field review,Tottenham Stadium,Rapallini,roja,penal,0
+70,Jugador_361,San Lorenzo,Argentina,silent check,Libertadores de América,Rapallini,roja,roja,1
+69,Jugador_227,Liverpool,Premier League,silent check,Anfield,Tello,offside,offside,0
+1,Jugador_222,Newcastle,Premier League,on-field review,Stamford Bridge,Taylor,gol,roja,0
+66,Jugador_116,Tottenham,Premier League,silent check,Stamford Bridge,Atkinson,offside,penal,1
+86,Jugador_312,River,Argentina,on-field review,Tomás Ducó,Rapallini,gol,penal,0
+13,Jugador_39,Aston Villa,Premier League,on-field review,Etihad,Rapallini,roja,gol,1
+6,Jugador_241,Arsenal,Premier League,on-field review,Anfield,Tello,offside,penal,1
+67,Jugador_452,Huracán,Argentina,on-field review,Libertadores de América,Lousteau,penal,gol,0
+48,Jugador_406,Newells,Argentina,on-field review,Cilindro,Lousteau,gol,gol,1
+70,Jugador_404,San Lorenzo,Argentina,on-field review,Libertadores de América,Taylor,penal,offside,1
+87,Jugador_326,Rosario Central,Argentina,on-field review,Libertadores de América,Atkinson,penal,roja,0
+22,Jugador_63,Manchester United,Premier League,on-field review,Emirates,Dean,penal,gol,1
+16,Jugador_53,Newcastle,Premier League,silent check,Stamford Bridge,Taylor,penal,roja,0
+73,Jugador_443,Newcastle,Premier League,on-field review,Tottenham Stadium,Pitana,gol,gol,0
+46,Jugador_23,Aston Villa,Premier League,silent check,Tottenham Stadium,Dean,roja,offside,1
+12,Jugador_237,Huracán,Argentina,silent check,Libertadores de América,Pitana,offside,offside,0
+35,Jugador_463,Aston Villa,Premier League,silent check,Emirates,Pitana,offside,roja,1
+58,Jugador_179,Racing,Argentina,silent check,Bombonera,Pitana,offside,roja,1
+86,Jugador_394,Liverpool,Premier League,silent check,Tottenham Stadium,Atkinson,roja,penal,1
+63,Jugador_496,Chelsea,Premier League,on-field review,Tottenham Stadium,Dean,gol,roja,0
+54,Jugador_85,Newcastle,Premier League,silent check,Tottenham Stadium,Rapallini,offside,gol,1
+38,Jugador_206,Newcastle,Premier League,silent check,Tottenham Stadium,Pitana,roja,roja,0
+79,Jugador_215,Arsenal,Premier League,silent check,Old Trafford,Dean,gol,penal,1
+54,Jugador_217,Chelsea,Premier League,on-field review,Tottenham Stadium,Lousteau,gol,offside,0
+87,Jugador_24,Independiente,Argentina,silent check,Nuevo Gasómetro,Atkinson,gol,penal,1
+31,Jugador_111,Arsenal,Premier League,on-field review,Stamford Bridge,Oliver,offside,roja,1
+8,Jugador_60,Huracán,Argentina,on-field review,Monumental,Rapallini,penal,penal,1
+27,Jugador_336,Newells,Argentina,silent check,Nuevo Gasómetro,Rapallini,roja,penal,0
+9,Jugador_237,Independiente,Argentina,silent check,Cilindro,Taylor,gol,roja,0
+22,Jugador_192,Newcastle,Premier League,on-field review,Anfield,Tello,penal,roja,1
+10,Jugador_121,Chelsea,Premier League,silent check,Anfield,Dean,gol,offside,1
+67,Jugador_169,Newcastle,Premier League,on-field review,Etihad,Taylor,offside,roja,1
+74,Jugador_489,Manchester City,Premier League,on-field review,Etihad,Pitana,penal,penal,1
+27,Jugador_87,Boca,Argentina,on-field review,Bombonera,Tello,roja,roja,1
+2,Jugador_344,San Lorenzo,Argentina,on-field review,Tomás Ducó,Tello,roja,roja,0
+95,Jugador_64,Newcastle,Premier League,silent check,Tottenham Stadium,Lousteau,penal,penal,1
+54,Jugador_135,Manchester City,Premier League,silent check,Emirates,Rapallini,penal,penal,0
+51,Jugador_237,River,Argentina,silent check,Nuevo Gasómetro,Dean,penal,gol,1
+92,Jugador_88,Tottenham,Premier League,on-field review,Etihad,Atkinson,roja,offside,1
+60,Jugador_66,Manchester City,Premier League,on-field review,Old Trafford,Pitana,gol,offside,0
+95,Jugador_269,Racing,Argentina,on-field review,Cilindro,Dean,roja,offside,1
+71,Jugador_224,Newcastle,Premier League,silent check,Tottenham Stadium,Oliver,penal,gol,1
+7,Jugador_245,Independiente,Argentina,on-field review,Tomás Ducó,Atkinson,gol,roja,0
+93,Jugador_314,Huracán,Argentina,silent check,Tomás Ducó,Dean,gol,roja,1
+53,Jugador_404,Manchester City,Premier League,on-field review,Tottenham Stadium,Oliver,gol,roja,1
+67,Jugador_36,Newells,Argentina,on-field review,Bombonera,Taylor,gol,gol,1
+63,Jugador_166,Boca,Argentina,silent check,Bombonera,Rapallini,gol,gol,0
+72,Jugador_125,Racing,Argentina,silent check,Nuevo Gasómetro,Taylor,offside,roja,0
+13,Jugador_54,River,Argentina,on-field review,Monumental,Oliver,offside,penal,0
+74,Jugador_168,Aston Villa,Premier League,silent check,Emirates,Oliver,gol,offside,1
+3,Jugador_33,Newells,Argentina,on-field review,Bombonera,Taylor,offside,offside,1
+95,Jugador_98,River,Argentina,silent check,Nuevo Gasómetro,Oliver,gol,offside,1
+84,Jugador_292,Tottenham,Premier League,on-field review,Emirates,Oliver,penal,roja,0
+44,Jugador_244,Chelsea,Premier League,on-field review,Etihad,Atkinson,penal,roja,0
+23,Jugador_271,Aston Villa,Premier League,silent check,Anfield,Rapallini,offside,offside,1
+53,Jugador_445,River,Argentina,on-field review,Tomás Ducó,Pitana,gol,penal,0
+28,Jugador_24,Tottenham,Premier League,silent check,Etihad,Lousteau,gol,offside,0
+22,Jugador_494,Chelsea,Premier League,silent check,Tottenham Stadium,Oliver,offside,gol,1
+62,Jugador_415,Chelsea,Premier League,silent check,Tottenham Stadium,Lousteau,penal,offside,0
+31,Jugador_404,Huracán,Argentina,on-field review,Monumental,Atkinson,gol,penal,1
+32,Jugador_368,Manchester City,Premier League,silent check,Tottenham Stadium,Atkinson,gol,gol,0
+1,Jugador_200,Chelsea,Premier League,silent check,Old Trafford,Taylor,gol,gol,0
+88,Jugador_487,Huracán,Argentina,silent check,Tomás Ducó,Atkinson,offside,offside,1
+23,Jugador_165,Manchester United,Premier League,silent check,Etihad,Lousteau,roja,gol,1
+30,Jugador_455,Liverpool,Premier League,silent check,Stamford Bridge,Dean,gol,roja,1
+82,Jugador_2,Aston Villa,Premier League,silent check,Emirates,Tello,penal,roja,1
+38,Jugador_440,Chelsea,Premier League,on-field review,Old Trafford,Tello,penal,roja,1
+11,Jugador_40,Liverpool,Premier League,silent check,Etihad,Taylor,penal,gol,1
+52,Jugador_74,River,Argentina,on-field review,Nuevo Gasómetro,Lousteau,penal,gol,1
+73,Jugador_319,Tottenham,Premier League,silent check,Emirates,Tello,penal,roja,1
+91,Jugador_286,Arsenal,Premier League,on-field review,Old Trafford,Dean,roja,gol,0
+72,Jugador_428,Arsenal,Premier League,on-field review,Emirates,Rapallini,penal,roja,0
+13,Jugador_303,Tottenham,Premier League,silent check,Stamford Bridge,Taylor,roja,roja,1
+81,Jugador_220,Rosario Central,Argentina,silent check,Cilindro,Taylor,gol,roja,0
+60,Jugador_126,Manchester City,Premier League,on-field review,Stamford Bridge,Rapallini,penal,penal,1
+21,Jugador_23,River,Argentina,on-field review,Bombonera,Lousteau,roja,gol,0
+41,Jugador_224,Manchester City,Premier League,silent check,Tottenham Stadium,Rapallini,offside,gol,1
+36,Jugador_275,Liverpool,Premier League,on-field review,Old Trafford,Taylor,penal,offside,1
+75,Jugador_298,Chelsea,Premier League,silent check,Tottenham Stadium,Taylor,roja,offside,0
+81,Jugador_287,River,Argentina,silent check,Cilindro,Oliver,penal,roja,0
+21,Jugador_23,Newcastle,Premier League,on-field review,Etihad,Taylor,penal,roja,0
+84,Jugador_149,Newcastle,Premier League,on-field review,Old Trafford,Dean,roja,gol,0
+53,Jugador_300,Liverpool,Premier League,silent check,Old Trafford,Dean,roja,gol,0
+53,Jugador_47,Aston Villa,Premier League,on-field review,Old Trafford,Atkinson,penal,gol,1
+24,Jugador_45,Aston Villa,Premier League,silent check,Anfield,Oliver,penal,penal,0
+7,Jugador_332,Aston Villa,Premier League,on-field review,Tottenham Stadium,Tello,penal,offside,1
+6,Jugador_370,Liverpool,Premier League,silent check,Tottenham Stadium,Tello,penal,roja,1
+90,Jugador_376,Newells,Argentina,silent check,Tomás Ducó,Taylor,roja,gol,1
+86,Jugador_50,Arsenal,Premier League,silent check,Tottenham Stadium,Atkinson,roja,gol,1
+67,Jugador_287,Manchester City,Premier League,silent check,Old Trafford,Lousteau,roja,roja,1
+5,Jugador_3,Manchester City,Premier League,silent check,Emirates,Pitana,penal,roja,1
+38,Jugador_39,Boca,Argentina,silent check,Nuevo Gasómetro,Atkinson,gol,penal,1
+23,Jugador_261,Liverpool,Premier League,silent check,Etihad,Pitana,roja,penal,1
+36,Jugador_289,Arsenal,Premier League,silent check,Anfield,Tello,roja,penal,0
+31,Jugador_474,San Lorenzo,Argentina,on-field review,Tomás Ducó,Tello,roja,roja,1
+7,Jugador_419,Arsenal,Premier League,silent check,Anfield,Atkinson,gol,roja,1
+49,Jugador_145,River,Argentina,on-field review,Bombonera,Lousteau,gol,offside,1
+42,Jugador_100,Newcastle,Premier League,silent check,Emirates,Oliver,roja,penal,0
+7,Jugador_310,Aston Villa,Premier League,on-field review,Stamford Bridge,Dean,roja,penal,1
+38,Jugador_103,Chelsea,Premier League,on-field review,Stamford Bridge,Oliver,offside,gol,1
+52,Jugador_41,Rosario Central,Argentina,silent check,Cilindro,Pitana,roja,gol,0
+63,Jugador_280,Rosario Central,Argentina,on-field review,Cilindro,Lousteau,roja,offside,0
+13,Jugador_302,Arsenal,Premier League,on-field review,Old Trafford,Atkinson,gol,offside,0
+16,Jugador_122,Independiente,Argentina,silent check,Tomás Ducó,Tello,roja,offside,1
+65,Jugador_232,San Lorenzo,Argentina,on-field review,Monumental,Pitana,roja,offside,1
+80,Jugador_226,Newcastle,Premier League,on-field review,Etihad,Pitana,roja,gol,1
+24,Jugador_28,Tottenham,Premier League,silent check,Emirates,Oliver,gol,offside,1
+65,Jugador_394,Aston Villa,Premier League,silent check,Old Trafford,Oliver,gol,offside,0
+58,Jugador_449,San Lorenzo,Argentina,on-field review,Cilindro,Pitana,offside,roja,1
+42,Jugador_142,River,Argentina,on-field review,Bombonera,Dean,penal,roja,0
+35,Jugador_267,Manchester City,Premier League,on-field review,Stamford Bridge,Pitana,penal,roja,0
+91,Jugador_132,Arsenal,Premier League,on-field review,Old Trafford,Rapallini,roja,penal,1
+23,Jugador_205,San Lorenzo,Argentina,on-field review,Tomás Ducó,Lousteau,penal,penal,0
+70,Jugador_132,River,Argentina,on-field review,Bombonera,Atkinson,roja,offside,1
+1,Jugador_477,Boca,Argentina,on-field review,Nuevo Gasómetro,Lousteau,gol,roja,1
+7,Jugador_66,Aston Villa,Premier League,silent check,Emirates,Oliver,roja,penal,1
+6,Jugador_258,Racing,Argentina,on-field review,Cilindro,Tello,gol,gol,1
+16,Jugador_368,Newcastle,Premier League,on-field review,Etihad,Oliver,penal,gol,1
+44,Jugador_260,Boca,Argentina,silent check,Libertadores de América,Atkinson,roja,gol,0
+34,Jugador_23,Huracán,Argentina,silent check,Libertadores de América,Tello,offside,gol,0
+59,Jugador_219,Arsenal,Premier League,silent check,Old Trafford,Atkinson,offside,offside,1
+64,Jugador_19,Newells,Argentina,on-field review,Cilindro,Lousteau,gol,roja,0
+88,Jugador_363,Aston Villa,Premier League,on-field review,Tottenham Stadium,Oliver,penal,penal,0
+76,Jugador_61,Racing,Argentina,silent check,Libertadores de América,Dean,offside,penal,0
+42,Jugador_348,Newells,Argentina,on-field review,Cilindro,Tello,gol,gol,0
+8,Jugador_156,Arsenal,Premier League,silent check,Emirates,Pitana,penal,roja,1
+90,Jugador_182,Huracán,Argentina,on-field review,Bombonera,Atkinson,gol,penal,1
+40,Jugador_305,San Lorenzo,Argentina,on-field review,Nuevo Gasómetro,Tello,gol,offside,0
+35,Jugador_1,Liverpool,Premier League,on-field review,Stamford Bridge,Tello,offside,penal,1
+61,Jugador_416,Huracán,Argentina,silent check,Tomás Ducó,Oliver,gol,roja,1
+47,Jugador_398,Tottenham,Premier League,silent check,Etihad,Tello,penal,penal,1
+82,Jugador_466,Tottenham,Premier League,on-field review,Old Trafford,Atkinson,gol,offside,1
+23,Jugador_349,Huracán,Argentina,silent check,Libertadores de América,Pitana,penal,roja,0
+26,Jugador_359,Rosario Central,Argentina,silent check,Cilindro,Atkinson,roja,offside,1
+45,Jugador_89,Manchester City,Premier League,silent check,Stamford Bridge,Dean,offside,offside,1
+30,Jugador_350,Tottenham,Premier League,on-field review,Etihad,Dean,penal,penal,1
+51,Jugador_46,Tottenham,Premier League,silent check,Emirates,Taylor,roja,gol,1
+44,Jugador_197,Newells,Argentina,silent check,Bombonera,Tello,offside,gol,0
+27,Jugador_185,Newells,Argentina,on-field review,Libertadores de América,Rapallini,penal,offside,1
+65,Jugador_270,Independiente,Argentina,silent check,Bombonera,Dean,penal,penal,0
+26,Jugador_201,Tottenham,Premier League,on-field review,Anfield,Pitana,offside,roja,0
+74,Jugador_408,Arsenal,Premier League,silent check,Old Trafford,Dean,penal,gol,0
+22,Jugador_351,River,Argentina,silent check,Cilindro,Rapallini,gol,gol,1
+29,Jugador_156,Racing,Argentina,silent check,Cilindro,Rapallini,roja,roja,0
+18,Jugador_167,Rosario Central,Argentina,on-field review,Cilindro,Atkinson,gol,offside,0
+91,Jugador_96,Newcastle,Premier League,silent check,Emirates,Rapallini,penal,roja,0
+66,Jugador_265,Liverpool,Premier League,silent check,Etihad,Rapallini,penal,roja,0
+49,Jugador_346,San Lorenzo,Argentina,on-field review,Bombonera,Rapallini,gol,penal,1
+23,Jugador_176,San Lorenzo,Argentina,silent check,Monumental,Tello,offside,offside,1
+19,Jugador_229,Racing,Argentina,on-field review,Nuevo Gasómetro,Rapallini,gol,gol,1
+40,Jugador_122,River,Argentina,on-field review,Cilindro,Rapallini,roja,offside,1
+43,Jugador_421,Newells,Argentina,silent check,Nuevo Gasómetro,Dean,gol,offside,1
+81,Jugador_208,Independiente,Argentina,on-field review,Libertadores de América,Tello,penal,roja,0
+90,Jugador_55,Arsenal,Premier League,on-field review,Etihad,Tello,penal,roja,1
+63,Jugador_229,Manchester United,Premier League,on-field review,Stamford Bridge,Dean,offside,offside,1
+92,Jugador_267,Independiente,Argentina,silent check,Libertadores de América,Lousteau,roja,gol,0
+90,Jugador_29,Newells,Argentina,silent check,Libertadores de América,Taylor,gol,offside,1
+27,Jugador_4,Newells,Argentina,on-field review,Libertadores de América,Lousteau,roja,penal,0
+52,Jugador_144,Rosario Central,Argentina,on-field review,Tomás Ducó,Tello,gol,offside,0
+75,Jugador_349,Rosario Central,Argentina,on-field review,Cilindro,Atkinson,offside,offside,0
+34,Jugador_238,San Lorenzo,Argentina,on-field review,Cilindro,Rapallini,penal,offside,1
+1,Jugador_164,San Lorenzo,Argentina,on-field review,Nuevo Gasómetro,Atkinson,gol,penal,0
+11,Jugador_404,Arsenal,Premier League,on-field review,Emirates,Taylor,offside,roja,0
+64,Jugador_132,Independiente,Argentina,silent check,Tomás Ducó,Oliver,offside,penal,0
+87,Jugador_128,Manchester City,Premier League,silent check,Etihad,Rapallini,penal,offside,1
+89,Jugador_116,Newells,Argentina,silent check,Tomás Ducó,Tello,offside,roja,0
+66,Jugador_397,Arsenal,Premier League,silent check,Emirates,Lousteau,offside,roja,1
